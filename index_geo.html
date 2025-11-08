@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ma localisation</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.5/dist/leaflet.css"/>
+<style>
+  html, body { height:100%; margin:0; }
+  #map { width:100%; height:100%; }
+  .leaflet-popup-content { font-size:14px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.5/dist/leaflet.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+    const API_URL = "/post_geo.php";
+    const INTERVAL_MS = 15000;
+    let lastLat = null;
+    let lastLon = null;
+    const MIN_MOVE_METERS = 5;
+
+    // Initialiser la carte
+    const map = L.map('map').setView([48.8566, 2.3522], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    let marker = null;
+
+    function distanceMeters(lat1, lon1, lat2, lon2) {
+        const R = 6371000;
+        const φ1 = lat1 * Math.PI/180;
+        const φ2 = lat2 * Math.PI/180;
+        const Δφ = (lat2-lat1) * Math.PI/180;
+        const Δλ = (lon2-lon1) * Math.PI/180;
+        const a = Math.sin(Δφ/2)**2 + Math.cos(φ1)*Math.cos(φ2)*Math.sin(Δλ/2)**2;
+        const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        return R * c;
+    }
+
+    async function sendLocation() {
+        if(!navigator.geolocation){
+            alert("Votre navigateur ne supporte pas la géolocalisation.");
+            return;
+        }
+
+        navigator.geolocation.getCurrentPosition(async pos => {
+            const lat = pos.coords.latitude;
+            const lon = pos.coords.longitude;
+
+            if(lastLat !== null && lastLon !== null){
+                const moved = distanceMeters(lat, lon, lastLat, lastLon);
+                if(moved < MIN_MOVE_METERS) return;
+            }
+
+            lastLat = lat;
+            lastLon = lon;
+
+            // Mettre à jour marker
+            if(marker){
+                marker.setLatLng([lat, lon]);
+            } else {
+                marker = L.marker([lat, lon]).addTo(map).bindPopup("Vous êtes ici").openPopup();
+            }
+            map.setView([lat, lon], 16);
+
+            // Envoyer au serveur
+            const payload = {
+                lat: lat,
+                lon: lon,
+                accuracy_m: pos.coords.accuracy,
+                altitude: pos.coords.altitude,
+                heading: pos.coords.heading,
+                speed: pos.coords.speed,
+                timestamp: pos.timestamp,
+                userAgent: navigator.userAgent,
+                origin: window.location.origin
+            };
+
+            try {
+                await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {'Content-Type':'application/json'},
+                    body: JSON.stringify(payload)
+                });
+            } catch(e){
+                console.error("Erreur envoi localisation :", e);
+            }
+        }, err => {
+            alert("Erreur géolocalisation : " + err.message);
+            console.error(err);
+        }, {enableHighAccuracy:true, timeout:15000, maximumAge:0});
+    }
+
+    // Envoi initial + boucle automatique
+    sendLocation();
+    setInterval(sendLocation, INTERVAL_MS);
+
+});
+</script>
+</body>
+</html>
