@@ -1,0 +1,3460 @@
+[Sat Nov  8 11:08:24 2025] PHP 8.1.33 Development Server (http://localhost:2525) started
+[Sat Nov  8 11:09:37 2025] [::1]:57835 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57835 [302]: GET /
+[Sat Nov  8 11:09:37 2025] [::1]:57835 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57836 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57836 [200]: GET /panel.php
+[Sat Nov  8 11:09:37 2025] [::1]:57836 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57837 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57838 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57839 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57838 [200]: GET /assets/css/bootstrap.min.css
+[Sat Nov  8 11:09:37 2025] [::1]:57837 [200]: GET /assets/js/jquery.min.js
+[Sat Nov  8 11:09:37 2025] [::1]:57839 [200]: GET /assets/css/light-theme.min.css
+[Sat Nov  8 11:09:37 2025] [::1]:57838 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57837 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57839 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57840 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57840 [200]: GET /assets/js/script.js
+[Sat Nov  8 11:09:37 2025] [::1]:57840 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57841 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57841 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Nov  8 11:09:37 2025] [::1]:57841 Closing
+[Sat Nov  8 11:09:37 2025] [::1]:57842 Accepted
+[Sat Nov  8 11:09:37 2025] [::1]:57842 [200]: GET /assets/js/growl-notification.min.js
+[Sat Nov  8 11:09:37 2025] [::1]:57842 Closing
+[Sat Nov  8 11:09:38 2025] [::1]:57843 Accepted
+[Sat Nov  8 11:09:38 2025] [::1]:57843 [200]: POST /list_templates.php
+[Sat Nov  8 11:09:38 2025] [::1]:57843 Closing
+[Sat Nov  8 11:09:38 2025] [::1]:57844 Accepted
+[Sat Nov  8 11:09:38 2025] [::1]:57844 [200]: GET /Settings.json
+[Sat Nov  8 11:09:38 2025] [::1]:57844 Closing
+[Sat Nov  8 11:09:38 2025] [::1]:57846 Accepted
+[Sat Nov  8 11:09:38 2025] [::1]:57846 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:09:38 2025] [::1]:57846 Closing
+[Sat Nov  8 11:09:41 2025] [::1]:57849 Accepted
+[Sat Nov  8 11:09:41 2025] [::1]:57849 [200]: POST /receiver.php
+[Sat Nov  8 11:09:41 2025] [::1]:57849 Closing
+[Sat Nov  8 11:09:43 2025] [::1]:57850 Accepted
+[Sat Nov  8 11:09:43 2025] [::1]:57850 [200]: POST /receiver.php
+[Sat Nov  8 11:09:43 2025] [::1]:57850 Closing
+[Sat Nov  8 11:09:45 2025] [::1]:57851 Accepted
+[Sat Nov  8 11:09:45 2025] [::1]:57851 [200]: POST /receiver.php
+[Sat Nov  8 11:09:45 2025] [::1]:57851 Closing
+[Sat Nov  8 11:09:47 2025] [::1]:57852 Accepted
+[Sat Nov  8 11:09:47 2025] [::1]:57852 [200]: POST /receiver.php
+[Sat Nov  8 11:09:47 2025] [::1]:57852 Closing
+[Sat Nov  8 11:09:49 2025] [::1]:57853 Accepted
+[Sat Nov  8 11:09:49 2025] [::1]:57853 [200]: POST /receiver.php
+[Sat Nov  8 11:09:49 2025] [::1]:57853 Closing
+[Sat Nov  8 11:09:51 2025] [::1]:57854 Accepted
+[Sat Nov  8 11:09:51 2025] [::1]:57854 [200]: POST /receiver.php
+[Sat Nov  8 11:09:51 2025] [::1]:57854 Closing
+[Sat Nov  8 11:09:53 2025] [::1]:57855 Accepted
+[Sat Nov  8 11:09:53 2025] [::1]:57855 [200]: POST /receiver.php
+[Sat Nov  8 11:09:53 2025] [::1]:57855 Closing
+[Sat Nov  8 11:09:55 2025] [::1]:57857 Accepted
+[Sat Nov  8 11:09:55 2025] [::1]:57857 [200]: POST /receiver.php
+[Sat Nov  8 11:09:55 2025] [::1]:57857 Closing
+[Sat Nov  8 11:09:57 2025] [::1]:57858 Accepted
+[Sat Nov  8 11:09:57 2025] [::1]:57858 [200]: POST /receiver.php
+[Sat Nov  8 11:09:57 2025] [::1]:57858 Closing
+[Sat Nov  8 11:09:59 2025] [::1]:57861 Accepted
+[Sat Nov  8 11:09:59 2025] [::1]:57861 [200]: POST /receiver.php
+[Sat Nov  8 11:09:59 2025] [::1]:57861 Closing
+[Sat Nov  8 11:10:01 2025] [::1]:57862 Accepted
+[Sat Nov  8 11:10:01 2025] [::1]:57862 [200]: POST /receiver.php
+[Sat Nov  8 11:10:01 2025] [::1]:57862 Closing
+[Sat Nov  8 11:10:03 2025] [::1]:57864 Accepted
+[Sat Nov  8 11:10:03 2025] [::1]:57864 [200]: POST /receiver.php
+[Sat Nov  8 11:10:03 2025] [::1]:57864 Closing
+[Sat Nov  8 11:10:05 2025] [::1]:57865 Accepted
+[Sat Nov  8 11:10:05 2025] [::1]:57865 [200]: POST /receiver.php
+[Sat Nov  8 11:10:05 2025] [::1]:57865 Closing
+[Sat Nov  8 11:10:07 2025] [::1]:57867 Accepted
+[Sat Nov  8 11:10:07 2025] [::1]:57867 [200]: POST /receiver.php
+[Sat Nov  8 11:10:07 2025] [::1]:57867 Closing
+[Sat Nov  8 11:10:09 2025] [::1]:57870 Accepted
+[Sat Nov  8 11:10:09 2025] [::1]:57870 [200]: POST /receiver.php
+[Sat Nov  8 11:10:09 2025] [::1]:57870 Closing
+[Sat Nov  8 11:10:11 2025] [::1]:57872 Accepted
+[Sat Nov  8 11:10:11 2025] [::1]:57872 [200]: POST /receiver.php
+[Sat Nov  8 11:10:11 2025] [::1]:57872 Closing
+[Sat Nov  8 11:10:13 2025] [::1]:57874 Accepted
+[Sat Nov  8 11:10:13 2025] [::1]:57874 [200]: POST /receiver.php
+[Sat Nov  8 11:10:13 2025] [::1]:57874 Closing
+[Sat Nov  8 11:10:15 2025] [::1]:57878 Accepted
+[Sat Nov  8 11:10:15 2025] [::1]:57878 [200]: POST /receiver.php
+[Sat Nov  8 11:10:15 2025] [::1]:57878 Closing
+[Sat Nov  8 11:10:17 2025] [::1]:57879 Accepted
+[Sat Nov  8 11:10:17 2025] [::1]:57879 [200]: POST /receiver.php
+[Sat Nov  8 11:10:17 2025] [::1]:57879 Closing
+[Sat Nov  8 11:10:19 2025] [::1]:57880 Accepted
+[Sat Nov  8 11:10:19 2025] [::1]:57880 [200]: POST /receiver.php
+[Sat Nov  8 11:10:19 2025] [::1]:57880 Closing
+[Sat Nov  8 11:10:21 2025] [::1]:57882 Accepted
+[Sat Nov  8 11:10:21 2025] [::1]:57882 [200]: POST /receiver.php
+[Sat Nov  8 11:10:21 2025] [::1]:57882 Closing
+[Sat Nov  8 11:10:23 2025] [::1]:57886 Accepted
+[Sat Nov  8 11:10:23 2025] [::1]:57886 [200]: POST /receiver.php
+[Sat Nov  8 11:10:23 2025] [::1]:57886 Closing
+[Sat Nov  8 11:10:25 2025] [::1]:57887 Accepted
+[Sat Nov  8 11:10:25 2025] [::1]:57887 [200]: POST /receiver.php
+[Sat Nov  8 11:10:25 2025] [::1]:57887 Closing
+[Sat Nov  8 11:10:27 2025] [::1]:57889 Accepted
+[Sat Nov  8 11:10:27 2025] [::1]:57889 [200]: POST /receiver.php
+[Sat Nov  8 11:10:27 2025] [::1]:57889 Closing
+[Sat Nov  8 11:10:29 2025] [::1]:57890 Accepted
+[Sat Nov  8 11:10:29 2025] [::1]:57890 [200]: POST /receiver.php
+[Sat Nov  8 11:10:29 2025] [::1]:57890 Closing
+[Sat Nov  8 11:10:31 2025] [::1]:57891 Accepted
+[Sat Nov  8 11:10:31 2025] [::1]:57891 [200]: POST /receiver.php
+[Sat Nov  8 11:10:31 2025] [::1]:57891 Closing
+[Sat Nov  8 11:10:33 2025] [::1]:57893 Accepted
+[Sat Nov  8 11:10:33 2025] [::1]:57893 [200]: POST /receiver.php
+[Sat Nov  8 11:10:33 2025] [::1]:57893 Closing
+[Sat Nov  8 11:10:35 2025] [::1]:57894 Accepted
+[Sat Nov  8 11:10:35 2025] [::1]:57894 [200]: POST /receiver.php
+[Sat Nov  8 11:10:35 2025] [::1]:57894 Closing
+[Sat Nov  8 11:10:37 2025] [::1]:57895 Accepted
+[Sat Nov  8 11:10:37 2025] [::1]:57895 [200]: POST /receiver.php
+[Sat Nov  8 11:10:37 2025] [::1]:57895 Closing
+[Sat Nov  8 11:10:39 2025] [::1]:57896 Accepted
+[Sat Nov  8 11:10:39 2025] [::1]:57896 [200]: POST /receiver.php
+[Sat Nov  8 11:10:39 2025] [::1]:57896 Closing
+[Sat Nov  8 11:10:41 2025] [::1]:57897 Accepted
+[Sat Nov  8 11:10:41 2025] [::1]:57897 [200]: POST /receiver.php
+[Sat Nov  8 11:10:41 2025] [::1]:57897 Closing
+[Sat Nov  8 11:10:43 2025] [::1]:57899 Accepted
+[Sat Nov  8 11:10:43 2025] [::1]:57899 [200]: POST /receiver.php
+[Sat Nov  8 11:10:43 2025] [::1]:57899 Closing
+[Sat Nov  8 11:10:45 2025] [::1]:57900 Accepted
+[Sat Nov  8 11:10:45 2025] [::1]:57900 [200]: POST /receiver.php
+[Sat Nov  8 11:10:45 2025] [::1]:57900 Closing
+[Sat Nov  8 11:10:47 2025] [::1]:57901 Accepted
+[Sat Nov  8 11:10:47 2025] [::1]:57901 [200]: POST /receiver.php
+[Sat Nov  8 11:10:47 2025] [::1]:57901 Closing
+[Sat Nov  8 11:10:49 2025] [::1]:57902 Accepted
+[Sat Nov  8 11:10:49 2025] [::1]:57902 [200]: POST /receiver.php
+[Sat Nov  8 11:10:49 2025] [::1]:57902 Closing
+[Sat Nov  8 11:10:51 2025] [::1]:57903 Accepted
+[Sat Nov  8 11:10:51 2025] [::1]:57903 [200]: POST /receiver.php
+[Sat Nov  8 11:10:51 2025] [::1]:57903 Closing
+[Sat Nov  8 11:10:53 2025] [::1]:57905 Accepted
+[Sat Nov  8 11:10:53 2025] [::1]:57905 [200]: POST /receiver.php
+[Sat Nov  8 11:10:53 2025] [::1]:57905 Closing
+[Sat Nov  8 11:10:55 2025] [::1]:57906 Accepted
+[Sat Nov  8 11:10:55 2025] [::1]:57906 [200]: POST /receiver.php
+[Sat Nov  8 11:10:55 2025] [::1]:57906 Closing
+[Sat Nov  8 11:10:57 2025] [::1]:57907 Accepted
+[Sat Nov  8 11:10:57 2025] [::1]:57907 [200]: POST /receiver.php
+[Sat Nov  8 11:10:57 2025] [::1]:57907 Closing
+[Sat Nov  8 11:10:59 2025] [::1]:57908 Accepted
+[Sat Nov  8 11:10:59 2025] [::1]:57908 [200]: POST /receiver.php
+[Sat Nov  8 11:10:59 2025] [::1]:57908 Closing
+[Sat Nov  8 11:11:01 2025] [::1]:57909 Accepted
+[Sat Nov  8 11:11:01 2025] [::1]:57909 [200]: POST /receiver.php
+[Sat Nov  8 11:11:01 2025] [::1]:57909 Closing
+[Sat Nov  8 11:11:03 2025] [::1]:57911 Accepted
+[Sat Nov  8 11:11:03 2025] [::1]:57911 [200]: POST /receiver.php
+[Sat Nov  8 11:11:03 2025] [::1]:57911 Closing
+[Sat Nov  8 11:11:05 2025] [::1]:57912 Accepted
+[Sat Nov  8 11:11:05 2025] [::1]:57912 [200]: POST /receiver.php
+[Sat Nov  8 11:11:05 2025] [::1]:57912 Closing
+[Sat Nov  8 11:11:07 2025] [::1]:57913 Accepted
+[Sat Nov  8 11:11:07 2025] [::1]:57913 [200]: POST /receiver.php
+[Sat Nov  8 11:11:07 2025] [::1]:57913 Closing
+[Sat Nov  8 11:11:09 2025] [::1]:57914 Accepted
+[Sat Nov  8 11:11:09 2025] [::1]:57914 [200]: POST /receiver.php
+[Sat Nov  8 11:11:09 2025] [::1]:57914 Closing
+[Sat Nov  8 11:11:11 2025] [::1]:57915 Accepted
+[Sat Nov  8 11:11:11 2025] [::1]:57915 [200]: POST /receiver.php
+[Sat Nov  8 11:11:11 2025] [::1]:57915 Closing
+[Sat Nov  8 11:11:13 2025] [::1]:57917 Accepted
+[Sat Nov  8 11:11:13 2025] [::1]:57917 [200]: POST /receiver.php
+[Sat Nov  8 11:11:13 2025] [::1]:57917 Closing
+[Sat Nov  8 11:11:15 2025] [::1]:57918 Accepted
+[Sat Nov  8 11:11:15 2025] [::1]:57918 [200]: POST /receiver.php
+[Sat Nov  8 11:11:15 2025] [::1]:57918 Closing
+[Sat Nov  8 11:11:17 2025] [::1]:57919 Accepted
+[Sat Nov  8 11:11:17 2025] [::1]:57919 [200]: POST /receiver.php
+[Sat Nov  8 11:11:17 2025] [::1]:57919 Closing
+[Sat Nov  8 11:11:19 2025] [::1]:57920 Accepted
+[Sat Nov  8 11:11:19 2025] [::1]:57920 [200]: POST /receiver.php
+[Sat Nov  8 11:11:19 2025] [::1]:57920 Closing
+[Sat Nov  8 11:11:21 2025] [::1]:57921 Accepted
+[Sat Nov  8 11:11:21 2025] [::1]:57921 [200]: POST /receiver.php
+[Sat Nov  8 11:11:21 2025] [::1]:57921 Closing
+[Sat Nov  8 11:11:23 2025] [::1]:57923 Accepted
+[Sat Nov  8 11:11:23 2025] [::1]:57923 [200]: POST /receiver.php
+[Sat Nov  8 11:11:23 2025] [::1]:57923 Closing
+[Sat Nov  8 11:11:25 2025] [::1]:57924 Accepted
+[Sat Nov  8 11:11:25 2025] [::1]:57924 [200]: POST /receiver.php
+[Sat Nov  8 11:11:25 2025] [::1]:57924 Closing
+[Sat Nov  8 11:11:27 2025] [::1]:57925 Accepted
+[Sat Nov  8 11:11:27 2025] [::1]:57925 [200]: POST /receiver.php
+[Sat Nov  8 11:11:27 2025] [::1]:57925 Closing
+[Sat Nov  8 11:11:29 2025] [::1]:57926 Accepted
+[Sat Nov  8 11:11:29 2025] [::1]:57926 [200]: POST /receiver.php
+[Sat Nov  8 11:11:29 2025] [::1]:57926 Closing
+[Sat Nov  8 11:11:31 2025] [::1]:57927 Accepted
+[Sat Nov  8 11:11:31 2025] [::1]:57927 [200]: POST /receiver.php
+[Sat Nov  8 11:11:31 2025] [::1]:57927 Closing
+[Sat Nov  8 11:11:33 2025] [::1]:57930 Accepted
+[Sat Nov  8 11:11:33 2025] [::1]:57930 [200]: POST /receiver.php
+[Sat Nov  8 11:11:33 2025] [::1]:57930 Closing
+[Sat Nov  8 11:11:35 2025] [::1]:57931 Accepted
+[Sat Nov  8 11:11:35 2025] [::1]:57931 [200]: POST /receiver.php
+[Sat Nov  8 11:11:35 2025] [::1]:57931 Closing
+[Sat Nov  8 11:11:37 2025] [::1]:57932 Accepted
+[Sat Nov  8 11:11:37 2025] [::1]:57932 [200]: POST /receiver.php
+[Sat Nov  8 11:11:37 2025] [::1]:57932 Closing
+[Sat Nov  8 11:11:39 2025] [::1]:57933 Accepted
+[Sat Nov  8 11:11:39 2025] [::1]:57933 [200]: POST /receiver.php
+[Sat Nov  8 11:11:39 2025] [::1]:57933 Closing
+[Sat Nov  8 11:11:41 2025] [::1]:57934 Accepted
+[Sat Nov  8 11:11:41 2025] [::1]:57934 [200]: POST /receiver.php
+[Sat Nov  8 11:11:41 2025] [::1]:57934 Closing
+[Sat Nov  8 11:11:43 2025] [::1]:57936 Accepted
+[Sat Nov  8 11:11:43 2025] [::1]:57936 [200]: POST /receiver.php
+[Sat Nov  8 11:11:43 2025] [::1]:57936 Closing
+[Sat Nov  8 11:11:45 2025] [::1]:57937 Accepted
+[Sat Nov  8 11:11:45 2025] [::1]:57937 [200]: POST /receiver.php
+[Sat Nov  8 11:11:45 2025] [::1]:57937 Closing
+[Sat Nov  8 11:11:47 2025] [::1]:57938 Accepted
+[Sat Nov  8 11:11:47 2025] [::1]:57938 [200]: POST /receiver.php
+[Sat Nov  8 11:11:47 2025] [::1]:57938 Closing
+[Sat Nov  8 11:11:49 2025] [::1]:57939 Accepted
+[Sat Nov  8 11:11:49 2025] [::1]:57939 [200]: POST /receiver.php
+[Sat Nov  8 11:11:49 2025] [::1]:57939 Closing
+[Sat Nov  8 11:11:51 2025] [::1]:57940 Accepted
+[Sat Nov  8 11:11:51 2025] [::1]:57940 [200]: POST /receiver.php
+[Sat Nov  8 11:11:51 2025] [::1]:57940 Closing
+[Sat Nov  8 11:11:53 2025] [::1]:57942 Accepted
+[Sat Nov  8 11:11:53 2025] [::1]:57942 [200]: POST /receiver.php
+[Sat Nov  8 11:11:53 2025] [::1]:57942 Closing
+[Sat Nov  8 11:11:55 2025] [::1]:57943 Accepted
+[Sat Nov  8 11:11:55 2025] [::1]:57943 [200]: POST /receiver.php
+[Sat Nov  8 11:11:55 2025] [::1]:57943 Closing
+[Sat Nov  8 11:11:57 2025] [::1]:57944 Accepted
+[Sat Nov  8 11:11:57 2025] [::1]:57944 [200]: POST /receiver.php
+[Sat Nov  8 11:11:57 2025] [::1]:57944 Closing
+[Sat Nov  8 11:11:59 2025] [::1]:57945 Accepted
+[Sat Nov  8 11:11:59 2025] [::1]:57945 [200]: POST /receiver.php
+[Sat Nov  8 11:11:59 2025] [::1]:57945 Closing
+[Sat Nov  8 11:12:01 2025] [::1]:57946 Accepted
+[Sat Nov  8 11:12:01 2025] [::1]:57946 [200]: POST /receiver.php
+[Sat Nov  8 11:12:01 2025] [::1]:57946 Closing
+[Sat Nov  8 11:12:03 2025] [::1]:57948 Accepted
+[Sat Nov  8 11:12:03 2025] [::1]:57948 [200]: POST /receiver.php
+[Sat Nov  8 11:12:03 2025] [::1]:57948 Closing
+[Sat Nov  8 11:12:05 2025] [::1]:57949 Accepted
+[Sat Nov  8 11:12:05 2025] [::1]:57949 [200]: POST /receiver.php
+[Sat Nov  8 11:12:05 2025] [::1]:57949 Closing
+[Sat Nov  8 11:12:07 2025] [::1]:57950 Accepted
+[Sat Nov  8 11:12:07 2025] [::1]:57950 [200]: POST /receiver.php
+[Sat Nov  8 11:12:07 2025] [::1]:57950 Closing
+[Sat Nov  8 11:12:09 2025] [::1]:57951 Accepted
+[Sat Nov  8 11:12:09 2025] [::1]:57951 [200]: POST /receiver.php
+[Sat Nov  8 11:12:09 2025] [::1]:57951 Closing
+[Sat Nov  8 11:12:09 2025] [::1]:57952 Accepted
+[Sat Nov  8 11:12:09 2025] [::1]:57952 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:12:09 2025] [::1]:57952 Closing
+[Sat Nov  8 11:12:09 2025] [::1]:57953 Accepted
+[Sat Nov  8 11:12:09 2025] [::1]:57953 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:12:09 2025] [::1]:57953 Closing
+[Sat Nov  8 11:12:11 2025] [::1]:57954 Accepted
+[Sat Nov  8 11:12:11 2025] [::1]:57954 [200]: POST /receiver.php
+[Sat Nov  8 11:12:11 2025] [::1]:57954 Closing
+[Sat Nov  8 11:12:13 2025] [::1]:57956 Accepted
+[Sat Nov  8 11:12:13 2025] [::1]:57956 [200]: POST /receiver.php
+[Sat Nov  8 11:12:13 2025] [::1]:57956 Closing
+[Sat Nov  8 11:12:15 2025] [::1]:57957 Accepted
+[Sat Nov  8 11:12:15 2025] [::1]:57957 [200]: POST /receiver.php
+[Sat Nov  8 11:12:15 2025] [::1]:57957 Closing
+[Sat Nov  8 11:12:17 2025] [::1]:57958 Accepted
+[Sat Nov  8 11:12:17 2025] [::1]:57958 [200]: POST /receiver.php
+[Sat Nov  8 11:12:17 2025] [::1]:57958 Closing
+[Sat Nov  8 11:12:19 2025] [::1]:57959 Accepted
+[Sat Nov  8 11:12:19 2025] [::1]:57959 [200]: POST /receiver.php
+[Sat Nov  8 11:12:19 2025] [::1]:57959 Closing
+[Sat Nov  8 11:12:21 2025] [::1]:57960 Accepted
+[Sat Nov  8 11:12:21 2025] [::1]:57960 [200]: POST /receiver.php
+[Sat Nov  8 11:12:21 2025] [::1]:57960 Closing
+[Sat Nov  8 11:12:23 2025] [::1]:57962 Accepted
+[Sat Nov  8 11:12:23 2025] [::1]:57962 [200]: POST /receiver.php
+[Sat Nov  8 11:12:23 2025] [::1]:57962 Closing
+[Sat Nov  8 11:12:25 2025] [::1]:57963 Accepted
+[Sat Nov  8 11:12:25 2025] [::1]:57963 [200]: POST /receiver.php
+[Sat Nov  8 11:12:25 2025] [::1]:57963 Closing
+[Sat Nov  8 11:12:27 2025] [::1]:57964 Accepted
+[Sat Nov  8 11:12:27 2025] [::1]:57964 [200]: POST /receiver.php
+[Sat Nov  8 11:12:27 2025] [::1]:57964 Closing
+[Sat Nov  8 11:12:29 2025] [::1]:57965 Accepted
+[Sat Nov  8 11:12:29 2025] [::1]:57965 [200]: POST /receiver.php
+[Sat Nov  8 11:12:29 2025] [::1]:57965 Closing
+[Sat Nov  8 11:12:31 2025] [::1]:57966 Accepted
+[Sat Nov  8 11:12:31 2025] [::1]:57966 [200]: POST /receiver.php
+[Sat Nov  8 11:12:31 2025] [::1]:57966 Closing
+[Sat Nov  8 11:12:33 2025] [::1]:57968 Accepted
+[Sat Nov  8 11:12:33 2025] [::1]:57968 [200]: POST /receiver.php
+[Sat Nov  8 11:12:33 2025] [::1]:57968 Closing
+[Sat Nov  8 11:12:35 2025] [::1]:57969 Accepted
+[Sat Nov  8 11:12:35 2025] [::1]:57969 [200]: POST /receiver.php
+[Sat Nov  8 11:12:35 2025] [::1]:57969 Closing
+[Sat Nov  8 11:12:37 2025] [::1]:57970 Accepted
+[Sat Nov  8 11:12:37 2025] [::1]:57970 [200]: POST /receiver.php
+[Sat Nov  8 11:12:37 2025] [::1]:57970 Closing
+[Sat Nov  8 11:12:39 2025] [::1]:57971 Accepted
+[Sat Nov  8 11:12:39 2025] [::1]:57971 [200]: POST /receiver.php
+[Sat Nov  8 11:12:39 2025] [::1]:57971 Closing
+[Sat Nov  8 11:12:41 2025] [::1]:57972 Accepted
+[Sat Nov  8 11:12:41 2025] [::1]:57972 [200]: POST /receiver.php
+[Sat Nov  8 11:12:41 2025] [::1]:57972 Closing
+[Sat Nov  8 11:12:43 2025] [::1]:57975 Accepted
+[Sat Nov  8 11:12:43 2025] [::1]:57975 [200]: POST /receiver.php
+[Sat Nov  8 11:12:43 2025] [::1]:57975 Closing
+[Sat Nov  8 11:12:45 2025] [::1]:57976 Accepted
+[Sat Nov  8 11:12:45 2025] [::1]:57976 [200]: POST /receiver.php
+[Sat Nov  8 11:12:45 2025] [::1]:57976 Closing
+[Sat Nov  8 11:12:47 2025] [::1]:57977 Accepted
+[Sat Nov  8 11:12:47 2025] [::1]:57977 [200]: POST /receiver.php
+[Sat Nov  8 11:12:47 2025] [::1]:57977 Closing
+[Sat Nov  8 11:12:49 2025] [::1]:57978 Accepted
+[Sat Nov  8 11:12:49 2025] [::1]:57978 [200]: POST /receiver.php
+[Sat Nov  8 11:12:49 2025] [::1]:57978 Closing
+[Sat Nov  8 11:12:51 2025] [::1]:57979 Accepted
+[Sat Nov  8 11:12:51 2025] [::1]:57979 [200]: POST /receiver.php
+[Sat Nov  8 11:12:51 2025] [::1]:57979 Closing
+[Sat Nov  8 11:12:53 2025] [::1]:57981 Accepted
+[Sat Nov  8 11:12:53 2025] [::1]:57981 [200]: POST /receiver.php
+[Sat Nov  8 11:12:53 2025] [::1]:57981 Closing
+[Sat Nov  8 11:12:55 2025] [::1]:57982 Accepted
+[Sat Nov  8 11:12:55 2025] [::1]:57982 [200]: POST /receiver.php
+[Sat Nov  8 11:12:55 2025] [::1]:57982 Closing
+[Sat Nov  8 11:12:57 2025] [::1]:57983 Accepted
+[Sat Nov  8 11:12:57 2025] [::1]:57983 [200]: POST /receiver.php
+[Sat Nov  8 11:12:57 2025] [::1]:57983 Closing
+[Sat Nov  8 11:12:59 2025] [::1]:57984 Accepted
+[Sat Nov  8 11:12:59 2025] [::1]:57984 [200]: POST /receiver.php
+[Sat Nov  8 11:12:59 2025] [::1]:57984 Closing
+[Sat Nov  8 11:13:01 2025] [::1]:57986 Accepted
+[Sat Nov  8 11:13:01 2025] [::1]:57986 [200]: POST /receiver.php
+[Sat Nov  8 11:13:01 2025] [::1]:57986 Closing
+[Sat Nov  8 11:13:03 2025] [::1]:57988 Accepted
+[Sat Nov  8 11:13:03 2025] [::1]:57988 [200]: POST /receiver.php
+[Sat Nov  8 11:13:03 2025] [::1]:57988 Closing
+[Sat Nov  8 11:13:05 2025] [::1]:57989 Accepted
+[Sat Nov  8 11:13:05 2025] [::1]:57989 [200]: POST /receiver.php
+[Sat Nov  8 11:13:05 2025] [::1]:57989 Closing
+[Sat Nov  8 11:13:07 2025] [::1]:57990 Accepted
+[Sat Nov  8 11:13:07 2025] [::1]:57990 [200]: POST /receiver.php
+[Sat Nov  8 11:13:07 2025] [::1]:57990 Closing
+[Sat Nov  8 11:13:09 2025] [::1]:57991 Accepted
+[Sat Nov  8 11:13:09 2025] [::1]:57991 [200]: POST /receiver.php
+[Sat Nov  8 11:13:09 2025] [::1]:57991 Closing
+[Sat Nov  8 11:13:10 2025] [::1]:57992 Accepted
+[Sat Nov  8 11:13:10 2025] [::1]:57992 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:13:10 2025] [::1]:57992 Closing
+[Sat Nov  8 11:13:10 2025] [::1]:57993 Accepted
+[Sat Nov  8 11:13:10 2025] [::1]:57994 Accepted
+[Sat Nov  8 11:13:10 2025] [::1]:57993 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:13:10 2025] [::1]:57994 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:13:10 2025] [::1]:57993 Closing
+[Sat Nov  8 11:13:10 2025] [::1]:57994 Closing
+[Sat Nov  8 11:13:11 2025] [::1]:57995 Accepted
+[Sat Nov  8 11:13:11 2025] [::1]:57995 [200]: POST /receiver.php
+[Sat Nov  8 11:13:11 2025] [::1]:57995 Closing
+[Sat Nov  8 11:13:13 2025] [::1]:57997 Accepted
+[Sat Nov  8 11:13:13 2025] [::1]:57997 [200]: POST /receiver.php
+[Sat Nov  8 11:13:13 2025] [::1]:57997 Closing
+[Sat Nov  8 11:13:15 2025] [::1]:57998 Accepted
+[Sat Nov  8 11:13:15 2025] [::1]:57998 [200]: POST /receiver.php
+[Sat Nov  8 11:13:15 2025] [::1]:57998 Closing
+[Sat Nov  8 11:13:17 2025] [::1]:57999 Accepted
+[Sat Nov  8 11:13:17 2025] [::1]:57999 [200]: POST /receiver.php
+[Sat Nov  8 11:13:17 2025] [::1]:57999 Closing
+[Sat Nov  8 11:13:19 2025] [::1]:58000 Accepted
+[Sat Nov  8 11:13:19 2025] [::1]:58000 [200]: POST /receiver.php
+[Sat Nov  8 11:13:19 2025] [::1]:58000 Closing
+[Sat Nov  8 11:13:21 2025] [::1]:58001 Accepted
+[Sat Nov  8 11:13:21 2025] [::1]:58001 [200]: POST /receiver.php
+[Sat Nov  8 11:13:21 2025] [::1]:58001 Closing
+[Sat Nov  8 11:13:23 2025] [::1]:58003 Accepted
+[Sat Nov  8 11:13:23 2025] [::1]:58003 [200]: POST /receiver.php
+[Sat Nov  8 11:13:23 2025] [::1]:58003 Closing
+[Sat Nov  8 11:13:25 2025] [::1]:58004 Accepted
+[Sat Nov  8 11:13:25 2025] [::1]:58004 [200]: POST /receiver.php
+[Sat Nov  8 11:13:25 2025] [::1]:58004 Closing
+[Sat Nov  8 11:13:27 2025] [::1]:58005 Accepted
+[Sat Nov  8 11:13:27 2025] [::1]:58005 [200]: POST /receiver.php
+[Sat Nov  8 11:13:27 2025] [::1]:58005 Closing
+[Sat Nov  8 11:13:29 2025] [::1]:58006 Accepted
+[Sat Nov  8 11:13:29 2025] [::1]:58006 [200]: POST /receiver.php
+[Sat Nov  8 11:13:29 2025] [::1]:58006 Closing
+[Sat Nov  8 11:13:31 2025] [::1]:58007 Accepted
+[Sat Nov  8 11:13:31 2025] [::1]:58007 [200]: POST /receiver.php
+[Sat Nov  8 11:13:31 2025] [::1]:58007 Closing
+[Sat Nov  8 11:13:33 2025] [::1]:58009 Accepted
+[Sat Nov  8 11:13:33 2025] [::1]:58009 [200]: POST /receiver.php
+[Sat Nov  8 11:13:33 2025] [::1]:58009 Closing
+[Sat Nov  8 11:13:35 2025] [::1]:58010 Accepted
+[Sat Nov  8 11:13:35 2025] [::1]:58010 [200]: POST /receiver.php
+[Sat Nov  8 11:13:35 2025] [::1]:58010 Closing
+[Sat Nov  8 11:13:37 2025] [::1]:58011 Accepted
+[Sat Nov  8 11:13:37 2025] [::1]:58011 [200]: POST /receiver.php
+[Sat Nov  8 11:13:37 2025] [::1]:58011 Closing
+[Sat Nov  8 11:13:39 2025] [::1]:58012 Accepted
+[Sat Nov  8 11:13:39 2025] [::1]:58012 [200]: POST /receiver.php
+[Sat Nov  8 11:13:39 2025] [::1]:58012 Closing
+[Sat Nov  8 11:13:41 2025] [::1]:58013 Accepted
+[Sat Nov  8 11:13:41 2025] [::1]:58013 [200]: POST /receiver.php
+[Sat Nov  8 11:13:41 2025] [::1]:58013 Closing
+[Sat Nov  8 11:13:43 2025] [::1]:58015 Accepted
+[Sat Nov  8 11:13:43 2025] [::1]:58015 [200]: POST /receiver.php
+[Sat Nov  8 11:13:43 2025] [::1]:58015 Closing
+[Sat Nov  8 11:13:45 2025] [::1]:58016 Accepted
+[Sat Nov  8 11:13:45 2025] [::1]:58016 [200]: POST /receiver.php
+[Sat Nov  8 11:13:45 2025] [::1]:58016 Closing
+[Sat Nov  8 11:13:47 2025] [::1]:58017 Accepted
+[Sat Nov  8 11:13:47 2025] [::1]:58017 [200]: POST /receiver.php
+[Sat Nov  8 11:13:47 2025] [::1]:58017 Closing
+[Sat Nov  8 11:13:49 2025] [::1]:58018 Accepted
+[Sat Nov  8 11:13:49 2025] [::1]:58018 [200]: POST /receiver.php
+[Sat Nov  8 11:13:49 2025] [::1]:58018 Closing
+[Sat Nov  8 11:13:51 2025] [::1]:58020 Accepted
+[Sat Nov  8 11:13:51 2025] [::1]:58020 [200]: POST /receiver.php
+[Sat Nov  8 11:13:51 2025] [::1]:58020 Closing
+[Sat Nov  8 11:13:53 2025] [::1]:58022 Accepted
+[Sat Nov  8 11:13:53 2025] [::1]:58022 [200]: POST /receiver.php
+[Sat Nov  8 11:13:53 2025] [::1]:58022 Closing
+[Sat Nov  8 11:13:55 2025] [::1]:58023 Accepted
+[Sat Nov  8 11:13:55 2025] [::1]:58023 [200]: POST /receiver.php
+[Sat Nov  8 11:13:55 2025] [::1]:58023 Closing
+[Sat Nov  8 11:13:57 2025] [::1]:58024 Accepted
+[Sat Nov  8 11:13:57 2025] [::1]:58024 [200]: POST /receiver.php
+[Sat Nov  8 11:13:57 2025] [::1]:58024 Closing
+[Sat Nov  8 11:13:59 2025] [::1]:58025 Accepted
+[Sat Nov  8 11:13:59 2025] [::1]:58025 [200]: POST /receiver.php
+[Sat Nov  8 11:13:59 2025] [::1]:58025 Closing
+[Sat Nov  8 11:14:01 2025] [::1]:58026 Accepted
+[Sat Nov  8 11:14:01 2025] [::1]:58026 [200]: POST /receiver.php
+[Sat Nov  8 11:14:01 2025] [::1]:58026 Closing
+[Sat Nov  8 11:14:03 2025] [::1]:58028 Accepted
+[Sat Nov  8 11:14:03 2025] [::1]:58028 [200]: POST /receiver.php
+[Sat Nov  8 11:14:03 2025] [::1]:58028 Closing
+[Sat Nov  8 11:14:05 2025] [::1]:58029 Accepted
+[Sat Nov  8 11:14:05 2025] [::1]:58029 [200]: POST /receiver.php
+[Sat Nov  8 11:14:05 2025] [::1]:58029 Closing
+[Sat Nov  8 11:14:07 2025] [::1]:58030 Accepted
+[Sat Nov  8 11:14:07 2025] [::1]:58030 [200]: POST /receiver.php
+[Sat Nov  8 11:14:07 2025] [::1]:58030 Closing
+[Sat Nov  8 11:14:09 2025] [::1]:58031 Accepted
+[Sat Nov  8 11:14:09 2025] [::1]:58031 [200]: POST /receiver.php
+[Sat Nov  8 11:14:09 2025] [::1]:58031 Closing
+[Sat Nov  8 11:14:11 2025] [::1]:58032 Accepted
+[Sat Nov  8 11:14:11 2025] [::1]:58032 [200]: POST /receiver.php
+[Sat Nov  8 11:14:11 2025] [::1]:58032 Closing
+[Sat Nov  8 11:14:13 2025] [::1]:58034 Accepted
+[Sat Nov  8 11:14:13 2025] [::1]:58034 [200]: POST /receiver.php
+[Sat Nov  8 11:14:13 2025] [::1]:58034 Closing
+[Sat Nov  8 11:14:15 2025] [::1]:58035 Accepted
+[Sat Nov  8 11:14:15 2025] [::1]:58035 [200]: POST /receiver.php
+[Sat Nov  8 11:14:15 2025] [::1]:58035 Closing
+[Sat Nov  8 11:14:17 2025] [::1]:58036 Accepted
+[Sat Nov  8 11:14:17 2025] [::1]:58036 [200]: POST /receiver.php
+[Sat Nov  8 11:14:17 2025] [::1]:58036 Closing
+[Sat Nov  8 11:14:19 2025] [::1]:58037 Accepted
+[Sat Nov  8 11:14:19 2025] [::1]:58037 [200]: POST /receiver.php
+[Sat Nov  8 11:14:19 2025] [::1]:58037 Closing
+[Sat Nov  8 11:14:21 2025] [::1]:58038 Accepted
+[Sat Nov  8 11:14:21 2025] [::1]:58038 [200]: POST /receiver.php
+[Sat Nov  8 11:14:21 2025] [::1]:58038 Closing
+[Sat Nov  8 11:14:23 2025] [::1]:58040 Accepted
+[Sat Nov  8 11:14:23 2025] [::1]:58040 [200]: POST /receiver.php
+[Sat Nov  8 11:14:23 2025] [::1]:58040 Closing
+[Sat Nov  8 11:14:25 2025] [::1]:58041 Accepted
+[Sat Nov  8 11:14:25 2025] [::1]:58041 [200]: POST /receiver.php
+[Sat Nov  8 11:14:25 2025] [::1]:58041 Closing
+[Sat Nov  8 11:14:27 2025] [::1]:58042 Accepted
+[Sat Nov  8 11:14:27 2025] [::1]:58042 [200]: POST /receiver.php
+[Sat Nov  8 11:14:27 2025] [::1]:58042 Closing
+[Sat Nov  8 11:14:29 2025] [::1]:58046 Accepted
+[Sat Nov  8 11:14:29 2025] [::1]:58046 [200]: POST /receiver.php
+[Sat Nov  8 11:14:29 2025] [::1]:58046 Closing
+[Sat Nov  8 11:14:31 2025] [::1]:58047 Accepted
+[Sat Nov  8 11:14:31 2025] [::1]:58047 [200]: POST /receiver.php
+[Sat Nov  8 11:14:31 2025] [::1]:58047 Closing
+[Sat Nov  8 11:14:33 2025] [::1]:58050 Accepted
+[Sat Nov  8 11:14:33 2025] [::1]:58050 [200]: POST /receiver.php
+[Sat Nov  8 11:14:33 2025] [::1]:58050 Closing
+[Sat Nov  8 11:14:35 2025] [::1]:58051 Accepted
+[Sat Nov  8 11:14:35 2025] [::1]:58051 [200]: POST /receiver.php
+[Sat Nov  8 11:14:35 2025] [::1]:58051 Closing
+[Sat Nov  8 11:14:37 2025] [::1]:58052 Accepted
+[Sat Nov  8 11:14:37 2025] [::1]:58052 [200]: POST /receiver.php
+[Sat Nov  8 11:14:37 2025] [::1]:58052 Closing
+[Sat Nov  8 11:14:39 2025] [::1]:58053 Accepted
+[Sat Nov  8 11:14:39 2025] [::1]:58053 [200]: POST /receiver.php
+[Sat Nov  8 11:14:39 2025] [::1]:58053 Closing
+[Sat Nov  8 11:14:41 2025] [::1]:58055 Accepted
+[Sat Nov  8 11:14:41 2025] [::1]:58055 [200]: POST /receiver.php
+[Sat Nov  8 11:14:41 2025] [::1]:58055 Closing
+[Sat Nov  8 11:14:43 2025] [::1]:58057 Accepted
+[Sat Nov  8 11:14:43 2025] [::1]:58057 [200]: POST /receiver.php
+[Sat Nov  8 11:14:43 2025] [::1]:58057 Closing
+[Sat Nov  8 11:14:45 2025] [::1]:58058 Accepted
+[Sat Nov  8 11:14:45 2025] [::1]:58058 [200]: POST /receiver.php
+[Sat Nov  8 11:14:45 2025] [::1]:58058 Closing
+[Sat Nov  8 11:14:47 2025] [::1]:58059 Accepted
+[Sat Nov  8 11:14:47 2025] [::1]:58059 [200]: POST /receiver.php
+[Sat Nov  8 11:14:47 2025] [::1]:58059 Closing
+[Sat Nov  8 11:14:49 2025] [::1]:58060 Accepted
+[Sat Nov  8 11:14:49 2025] [::1]:58060 [200]: POST /receiver.php
+[Sat Nov  8 11:14:49 2025] [::1]:58060 Closing
+[Sat Nov  8 11:14:51 2025] [::1]:58061 Accepted
+[Sat Nov  8 11:14:51 2025] [::1]:58061 [200]: POST /receiver.php
+[Sat Nov  8 11:14:51 2025] [::1]:58061 Closing
+[Sat Nov  8 11:14:53 2025] [::1]:58063 Accepted
+[Sat Nov  8 11:14:53 2025] [::1]:58063 [200]: POST /receiver.php
+[Sat Nov  8 11:14:53 2025] [::1]:58063 Closing
+[Sat Nov  8 11:14:55 2025] [::1]:58064 Accepted
+[Sat Nov  8 11:14:55 2025] [::1]:58064 [200]: POST /receiver.php
+[Sat Nov  8 11:14:55 2025] [::1]:58064 Closing
+[Sat Nov  8 11:14:57 2025] [::1]:58065 Accepted
+[Sat Nov  8 11:14:57 2025] [::1]:58065 [200]: POST /receiver.php
+[Sat Nov  8 11:14:57 2025] [::1]:58065 Closing
+[Sat Nov  8 11:14:59 2025] [::1]:58066 Accepted
+[Sat Nov  8 11:14:59 2025] [::1]:58066 [200]: POST /receiver.php
+[Sat Nov  8 11:14:59 2025] [::1]:58066 Closing
+[Sat Nov  8 11:15:01 2025] [::1]:58068 Accepted
+[Sat Nov  8 11:15:01 2025] [::1]:58068 [200]: POST /receiver.php
+[Sat Nov  8 11:15:01 2025] [::1]:58068 Closing
+[Sat Nov  8 11:15:03 2025] [::1]:58070 Accepted
+[Sat Nov  8 11:15:03 2025] [::1]:58070 [200]: POST /receiver.php
+[Sat Nov  8 11:15:03 2025] [::1]:58070 Closing
+[Sat Nov  8 11:15:05 2025] [::1]:58071 Accepted
+[Sat Nov  8 11:15:05 2025] [::1]:58071 [200]: POST /receiver.php
+[Sat Nov  8 11:15:05 2025] [::1]:58071 Closing
+[Sat Nov  8 11:15:07 2025] [::1]:58072 Accepted
+[Sat Nov  8 11:15:07 2025] [::1]:58072 [200]: POST /receiver.php
+[Sat Nov  8 11:15:07 2025] [::1]:58072 Closing
+[Sat Nov  8 11:15:09 2025] [::1]:58073 Accepted
+[Sat Nov  8 11:15:09 2025] [::1]:58073 [200]: POST /receiver.php
+[Sat Nov  8 11:15:09 2025] [::1]:58073 Closing
+[Sat Nov  8 11:15:11 2025] [::1]:58074 Accepted
+[Sat Nov  8 11:15:11 2025] [::1]:58074 [200]: POST /receiver.php
+[Sat Nov  8 11:15:11 2025] [::1]:58074 Closing
+[Sat Nov  8 11:15:13 2025] [::1]:58076 Accepted
+[Sat Nov  8 11:15:13 2025] [::1]:58076 [200]: POST /receiver.php
+[Sat Nov  8 11:15:13 2025] [::1]:58076 Closing
+[Sat Nov  8 11:15:15 2025] [::1]:58077 Accepted
+[Sat Nov  8 11:15:15 2025] [::1]:58077 [200]: POST /receiver.php
+[Sat Nov  8 11:15:15 2025] [::1]:58077 Closing
+[Sat Nov  8 11:15:17 2025] [::1]:58078 Accepted
+[Sat Nov  8 11:15:17 2025] [::1]:58078 [200]: POST /receiver.php
+[Sat Nov  8 11:15:17 2025] [::1]:58078 Closing
+[Sat Nov  8 11:15:19 2025] [::1]:58079 Accepted
+[Sat Nov  8 11:15:19 2025] [::1]:58079 [200]: POST /receiver.php
+[Sat Nov  8 11:15:19 2025] [::1]:58079 Closing
+[Sat Nov  8 11:15:21 2025] [::1]:58080 Accepted
+[Sat Nov  8 11:15:21 2025] [::1]:58080 [200]: POST /receiver.php
+[Sat Nov  8 11:15:21 2025] [::1]:58080 Closing
+[Sat Nov  8 11:15:23 2025] [::1]:58082 Accepted
+[Sat Nov  8 11:15:23 2025] [::1]:58082 [200]: POST /receiver.php
+[Sat Nov  8 11:15:23 2025] [::1]:58082 Closing
+[Sat Nov  8 11:15:25 2025] [::1]:58083 Accepted
+[Sat Nov  8 11:15:25 2025] [::1]:58083 [200]: POST /receiver.php
+[Sat Nov  8 11:15:25 2025] [::1]:58083 Closing
+[Sat Nov  8 11:15:27 2025] [::1]:58084 Accepted
+[Sat Nov  8 11:15:27 2025] [::1]:58084 [200]: POST /receiver.php
+[Sat Nov  8 11:15:27 2025] [::1]:58084 Closing
+[Sat Nov  8 11:15:29 2025] [::1]:58085 Accepted
+[Sat Nov  8 11:15:29 2025] [::1]:58085 [200]: POST /receiver.php
+[Sat Nov  8 11:15:29 2025] [::1]:58085 Closing
+[Sat Nov  8 11:15:31 2025] [::1]:58086 Accepted
+[Sat Nov  8 11:15:31 2025] [::1]:58086 [200]: POST /receiver.php
+[Sat Nov  8 11:15:31 2025] [::1]:58086 Closing
+[Sat Nov  8 11:15:33 2025] [::1]:58088 Accepted
+[Sat Nov  8 11:15:33 2025] [::1]:58088 [200]: POST /receiver.php
+[Sat Nov  8 11:15:33 2025] [::1]:58088 Closing
+[Sat Nov  8 11:15:35 2025] [::1]:58089 Accepted
+[Sat Nov  8 11:15:35 2025] [::1]:58089 [200]: POST /receiver.php
+[Sat Nov  8 11:15:35 2025] [::1]:58089 Closing
+[Sat Nov  8 11:15:37 2025] [::1]:58090 Accepted
+[Sat Nov  8 11:15:37 2025] [::1]:58090 [200]: POST /receiver.php
+[Sat Nov  8 11:15:37 2025] [::1]:58090 Closing
+[Sat Nov  8 11:15:39 2025] [::1]:58091 Accepted
+[Sat Nov  8 11:15:39 2025] [::1]:58091 [200]: POST /receiver.php
+[Sat Nov  8 11:15:39 2025] [::1]:58091 Closing
+[Sat Nov  8 11:15:41 2025] [::1]:58092 Accepted
+[Sat Nov  8 11:15:41 2025] [::1]:58092 [200]: POST /receiver.php
+[Sat Nov  8 11:15:41 2025] [::1]:58092 Closing
+[Sat Nov  8 11:15:43 2025] [::1]:58094 Accepted
+[Sat Nov  8 11:15:43 2025] [::1]:58094 [200]: POST /receiver.php
+[Sat Nov  8 11:15:43 2025] [::1]:58094 Closing
+[Sat Nov  8 11:15:45 2025] [::1]:58095 Accepted
+[Sat Nov  8 11:15:45 2025] [::1]:58095 [200]: POST /receiver.php
+[Sat Nov  8 11:15:45 2025] [::1]:58095 Closing
+[Sat Nov  8 11:15:47 2025] [::1]:58096 Accepted
+[Sat Nov  8 11:15:47 2025] [::1]:58096 [200]: POST /receiver.php
+[Sat Nov  8 11:15:47 2025] [::1]:58096 Closing
+[Sat Nov  8 11:15:49 2025] [::1]:58097 Accepted
+[Sat Nov  8 11:15:49 2025] [::1]:58097 [200]: POST /receiver.php
+[Sat Nov  8 11:15:49 2025] [::1]:58097 Closing
+[Sat Nov  8 11:15:51 2025] [::1]:58098 Accepted
+[Sat Nov  8 11:15:51 2025] [::1]:58098 [200]: POST /receiver.php
+[Sat Nov  8 11:15:51 2025] [::1]:58098 Closing
+[Sat Nov  8 11:15:53 2025] [::1]:58100 Accepted
+[Sat Nov  8 11:15:53 2025] [::1]:58100 [200]: POST /receiver.php
+[Sat Nov  8 11:15:53 2025] [::1]:58100 Closing
+[Sat Nov  8 11:15:55 2025] [::1]:58101 Accepted
+[Sat Nov  8 11:15:55 2025] [::1]:58101 [200]: POST /receiver.php
+[Sat Nov  8 11:15:55 2025] [::1]:58101 Closing
+[Sat Nov  8 11:15:57 2025] [::1]:58102 Accepted
+[Sat Nov  8 11:15:57 2025] [::1]:58102 [200]: POST /receiver.php
+[Sat Nov  8 11:15:57 2025] [::1]:58102 Closing
+[Sat Nov  8 11:15:59 2025] [::1]:58103 Accepted
+[Sat Nov  8 11:15:59 2025] [::1]:58103 [200]: POST /receiver.php
+[Sat Nov  8 11:15:59 2025] [::1]:58103 Closing
+[Sat Nov  8 11:16:01 2025] [::1]:58104 Accepted
+[Sat Nov  8 11:16:01 2025] [::1]:58104 [200]: POST /receiver.php
+[Sat Nov  8 11:16:01 2025] [::1]:58104 Closing
+[Sat Nov  8 11:16:03 2025] [::1]:58106 Accepted
+[Sat Nov  8 11:16:03 2025] [::1]:58106 [200]: POST /receiver.php
+[Sat Nov  8 11:16:03 2025] [::1]:58106 Closing
+[Sat Nov  8 11:16:05 2025] [::1]:58107 Accepted
+[Sat Nov  8 11:16:05 2025] [::1]:58107 [200]: POST /receiver.php
+[Sat Nov  8 11:16:05 2025] [::1]:58107 Closing
+[Sat Nov  8 11:16:07 2025] [::1]:58108 Accepted
+[Sat Nov  8 11:16:07 2025] [::1]:58108 [200]: POST /receiver.php
+[Sat Nov  8 11:16:07 2025] [::1]:58108 Closing
+[Sat Nov  8 11:16:09 2025] [::1]:58109 Accepted
+[Sat Nov  8 11:16:09 2025] [::1]:58109 [200]: POST /receiver.php
+[Sat Nov  8 11:16:09 2025] [::1]:58109 Closing
+[Sat Nov  8 11:16:11 2025] [::1]:58110 Accepted
+[Sat Nov  8 11:16:11 2025] [::1]:58110 [200]: POST /receiver.php
+[Sat Nov  8 11:16:11 2025] [::1]:58110 Closing
+[Sat Nov  8 11:16:13 2025] [::1]:58112 Accepted
+[Sat Nov  8 11:16:13 2025] [::1]:58112 [200]: POST /receiver.php
+[Sat Nov  8 11:16:13 2025] [::1]:58112 Closing
+[Sat Nov  8 11:16:15 2025] [::1]:58114 Accepted
+[Sat Nov  8 11:16:15 2025] [::1]:58114 [200]: POST /receiver.php
+[Sat Nov  8 11:16:15 2025] [::1]:58114 Closing
+[Sat Nov  8 11:16:17 2025] [::1]:58115 Accepted
+[Sat Nov  8 11:16:17 2025] [::1]:58115 [200]: POST /receiver.php
+[Sat Nov  8 11:16:17 2025] [::1]:58115 Closing
+[Sat Nov  8 11:16:19 2025] [::1]:58116 Accepted
+[Sat Nov  8 11:16:19 2025] [::1]:58116 [200]: POST /receiver.php
+[Sat Nov  8 11:16:19 2025] [::1]:58116 Closing
+[Sat Nov  8 11:16:21 2025] [::1]:58117 Accepted
+[Sat Nov  8 11:16:21 2025] [::1]:58117 [200]: POST /receiver.php
+[Sat Nov  8 11:16:21 2025] [::1]:58117 Closing
+[Sat Nov  8 11:16:23 2025] [::1]:58119 Accepted
+[Sat Nov  8 11:16:23 2025] [::1]:58119 [200]: POST /receiver.php
+[Sat Nov  8 11:16:23 2025] [::1]:58119 Closing
+[Sat Nov  8 11:16:25 2025] [::1]:58120 Accepted
+[Sat Nov  8 11:16:25 2025] [::1]:58120 [200]: POST /receiver.php
+[Sat Nov  8 11:16:25 2025] [::1]:58120 Closing
+[Sat Nov  8 11:16:27 2025] [::1]:58121 Accepted
+[Sat Nov  8 11:16:27 2025] [::1]:58121 [200]: POST /receiver.php
+[Sat Nov  8 11:16:27 2025] [::1]:58121 Closing
+[Sat Nov  8 11:16:29 2025] [::1]:58122 Accepted
+[Sat Nov  8 11:16:29 2025] [::1]:58122 [200]: POST /receiver.php
+[Sat Nov  8 11:16:29 2025] [::1]:58122 Closing
+[Sat Nov  8 11:16:31 2025] [::1]:58123 Accepted
+[Sat Nov  8 11:16:31 2025] [::1]:58123 [200]: POST /receiver.php
+[Sat Nov  8 11:16:31 2025] [::1]:58123 Closing
+[Sat Nov  8 11:16:33 2025] [::1]:58125 Accepted
+[Sat Nov  8 11:16:33 2025] [::1]:58125 [200]: POST /receiver.php
+[Sat Nov  8 11:16:33 2025] [::1]:58125 Closing
+[Sat Nov  8 11:16:35 2025] [::1]:58126 Accepted
+[Sat Nov  8 11:16:35 2025] [::1]:58126 [200]: POST /receiver.php
+[Sat Nov  8 11:16:35 2025] [::1]:58126 Closing
+[Sat Nov  8 11:16:37 2025] [::1]:58127 Accepted
+[Sat Nov  8 11:16:37 2025] [::1]:58127 [200]: POST /receiver.php
+[Sat Nov  8 11:16:37 2025] [::1]:58127 Closing
+[Sat Nov  8 11:16:39 2025] [::1]:58128 Accepted
+[Sat Nov  8 11:16:39 2025] [::1]:58128 [200]: POST /receiver.php
+[Sat Nov  8 11:16:39 2025] [::1]:58128 Closing
+[Sat Nov  8 11:16:41 2025] [::1]:58129 Accepted
+[Sat Nov  8 11:16:41 2025] [::1]:58129 [200]: POST /receiver.php
+[Sat Nov  8 11:16:41 2025] [::1]:58129 Closing
+[Sat Nov  8 11:16:43 2025] [::1]:58131 Accepted
+[Sat Nov  8 11:16:43 2025] [::1]:58131 [200]: POST /receiver.php
+[Sat Nov  8 11:16:43 2025] [::1]:58131 Closing
+[Sat Nov  8 11:16:45 2025] [::1]:58132 Accepted
+[Sat Nov  8 11:16:45 2025] [::1]:58132 [200]: POST /receiver.php
+[Sat Nov  8 11:16:45 2025] [::1]:58132 Closing
+[Sat Nov  8 11:16:47 2025] [::1]:58133 Accepted
+[Sat Nov  8 11:16:47 2025] [::1]:58133 [200]: POST /receiver.php
+[Sat Nov  8 11:16:47 2025] [::1]:58133 Closing
+[Sat Nov  8 11:16:49 2025] [::1]:58134 Accepted
+[Sat Nov  8 11:16:49 2025] [::1]:58134 [200]: POST /receiver.php
+[Sat Nov  8 11:16:49 2025] [::1]:58134 Closing
+[Sat Nov  8 11:16:51 2025] [::1]:58135 Accepted
+[Sat Nov  8 11:16:51 2025] [::1]:58135 [200]: POST /receiver.php
+[Sat Nov  8 11:16:51 2025] [::1]:58135 Closing
+[Sat Nov  8 11:16:53 2025] [::1]:58137 Accepted
+[Sat Nov  8 11:16:53 2025] [::1]:58137 [200]: POST /receiver.php
+[Sat Nov  8 11:16:53 2025] [::1]:58137 Closing
+[Sat Nov  8 11:16:55 2025] [::1]:58138 Accepted
+[Sat Nov  8 11:16:55 2025] [::1]:58138 [200]: POST /receiver.php
+[Sat Nov  8 11:16:55 2025] [::1]:58138 Closing
+[Sat Nov  8 11:16:57 2025] [::1]:58139 Accepted
+[Sat Nov  8 11:16:57 2025] [::1]:58139 [200]: POST /receiver.php
+[Sat Nov  8 11:16:57 2025] [::1]:58139 Closing
+[Sat Nov  8 11:16:59 2025] [::1]:58140 Accepted
+[Sat Nov  8 11:16:59 2025] [::1]:58140 [200]: POST /receiver.php
+[Sat Nov  8 11:16:59 2025] [::1]:58140 Closing
+[Sat Nov  8 11:17:01 2025] [::1]:58141 Accepted
+[Sat Nov  8 11:17:01 2025] [::1]:58141 [200]: POST /receiver.php
+[Sat Nov  8 11:17:01 2025] [::1]:58141 Closing
+[Sat Nov  8 11:17:03 2025] [::1]:58143 Accepted
+[Sat Nov  8 11:17:03 2025] [::1]:58143 [200]: POST /receiver.php
+[Sat Nov  8 11:17:03 2025] [::1]:58143 Closing
+[Sat Nov  8 11:17:05 2025] [::1]:58144 Accepted
+[Sat Nov  8 11:17:05 2025] [::1]:58144 [200]: POST /receiver.php
+[Sat Nov  8 11:17:05 2025] [::1]:58144 Closing
+[Sat Nov  8 11:17:07 2025] [::1]:58145 Accepted
+[Sat Nov  8 11:17:07 2025] [::1]:58145 [200]: POST /receiver.php
+[Sat Nov  8 11:17:07 2025] [::1]:58145 Closing
+[Sat Nov  8 11:17:09 2025] [::1]:58146 Accepted
+[Sat Nov  8 11:17:09 2025] [::1]:58146 [200]: POST /receiver.php
+[Sat Nov  8 11:17:09 2025] [::1]:58146 Closing
+[Sat Nov  8 11:17:11 2025] [::1]:58147 Accepted
+[Sat Nov  8 11:17:11 2025] [::1]:58147 [200]: POST /receiver.php
+[Sat Nov  8 11:17:11 2025] [::1]:58147 Closing
+[Sat Nov  8 11:17:13 2025] [::1]:58149 Accepted
+[Sat Nov  8 11:17:13 2025] [::1]:58149 [200]: POST /receiver.php
+[Sat Nov  8 11:17:13 2025] [::1]:58149 Closing
+[Sat Nov  8 11:17:15 2025] [::1]:58150 Accepted
+[Sat Nov  8 11:17:15 2025] [::1]:58150 [200]: POST /receiver.php
+[Sat Nov  8 11:17:15 2025] [::1]:58150 Closing
+[Sat Nov  8 11:17:17 2025] [::1]:58151 Accepted
+[Sat Nov  8 11:17:17 2025] [::1]:58151 [200]: POST /receiver.php
+[Sat Nov  8 11:17:17 2025] [::1]:58151 Closing
+[Sat Nov  8 11:17:19 2025] [::1]:58152 Accepted
+[Sat Nov  8 11:17:19 2025] [::1]:58152 [200]: POST /receiver.php
+[Sat Nov  8 11:17:19 2025] [::1]:58152 Closing
+[Sat Nov  8 11:17:21 2025] [::1]:58153 Accepted
+[Sat Nov  8 11:17:21 2025] [::1]:58153 [200]: POST /receiver.php
+[Sat Nov  8 11:17:21 2025] [::1]:58153 Closing
+[Sat Nov  8 11:17:23 2025] [::1]:58155 Accepted
+[Sat Nov  8 11:17:23 2025] [::1]:58155 [200]: POST /receiver.php
+[Sat Nov  8 11:17:23 2025] [::1]:58155 Closing
+[Sat Nov  8 11:17:25 2025] [::1]:58157 Accepted
+[Sat Nov  8 11:17:25 2025] [::1]:58157 [200]: POST /receiver.php
+[Sat Nov  8 11:17:25 2025] [::1]:58157 Closing
+[Sat Nov  8 11:17:27 2025] [::1]:58158 Accepted
+[Sat Nov  8 11:17:27 2025] [::1]:58158 [200]: POST /receiver.php
+[Sat Nov  8 11:17:27 2025] [::1]:58158 Closing
+[Sat Nov  8 11:17:29 2025] [::1]:58159 Accepted
+[Sat Nov  8 11:17:29 2025] [::1]:58159 [200]: POST /receiver.php
+[Sat Nov  8 11:17:29 2025] [::1]:58159 Closing
+[Sat Nov  8 11:17:29 2025] [::1]:58160 Accepted
+[Sat Nov  8 11:17:29 2025] [::1]:58160 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:17:30 2025] [::1]:58160 Closing
+[Sat Nov  8 11:17:30 2025] [::1]:58161 Accepted
+[Sat Nov  8 11:17:30 2025] [::1]:58161 [200]: GET /assets/js/jquery.min.js
+[Sat Nov  8 11:17:30 2025] [::1]:58161 Closing
+[Sat Nov  8 11:17:30 2025] [::1]:58163 Accepted
+[Sat Nov  8 11:17:30 2025] [::1]:58164 Accepted
+[Sat Nov  8 11:17:30 2025] [::1]:58165 Accepted
+[Sat Nov  8 11:17:30 2025] [::1]:58164 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:17:30 2025] [::1]:58162 Accepted
+[Sat Nov  8 11:17:30 2025] [::1]:58163 [200]: GET /assets/js/loc.js
+[Sat Nov  8 11:17:30 2025] [::1]:58165 [200]: GET /assets/js/client.min.js
+[Sat Nov  8 11:17:30 2025] [::1]:58162 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:17:30 2025] [::1]:58164 Closing
+[Sat Nov  8 11:17:30 2025] [::1]:58163 Closing
+[Sat Nov  8 11:17:30 2025] [::1]:58165 Closing
+[Sat Nov  8 11:17:30 2025] [::1]:58162 Closing
+[Sat Nov  8 11:17:31 2025] [::1]:58166 Accepted
+[Sat Nov  8 11:17:31 2025] [::1]:58166 [200]: POST /receiver.php
+[Sat Nov  8 11:17:31 2025] [::1]:58166 Closing
+[Sat Nov  8 11:17:31 2025] [::1]:58167 Accepted
+[Sat Nov  8 11:17:31 2025] [::1]:58167 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sat Nov  8 11:17:31 2025] [::1]:58167 Closing
+[Sat Nov  8 11:17:32 2025] [::1]:58168 Accepted
+[Sat Nov  8 11:17:32 2025] [::1]:58168 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sat Nov  8 11:17:32 2025] [::1]:58168 Closing
+[Sat Nov  8 11:17:33 2025] [::1]:58170 Accepted
+[Sat Nov  8 11:17:33 2025] [::1]:58170 [200]: POST /receiver.php
+[Sat Nov  8 11:17:33 2025] [::1]:58170 Closing
+[Sat Nov  8 11:17:33 2025] [::1]:58171 Accepted
+[Sat Nov  8 11:17:33 2025] [::1]:58171 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sat Nov  8 11:17:33 2025] [::1]:58171 Closing
+[Sat Nov  8 11:17:33 2025] [::1]:58172 Accepted
+[Sat Nov  8 11:17:33 2025] [::1]:58172 [404]: GET /templates/webfonts/fa-solid-900.svg - No such file or directory
+[Sat Nov  8 11:17:33 2025] [::1]:58172 Closing
+[Sat Nov  8 11:17:34 2025] [::1]:58173 Accepted
+[Sat Nov  8 11:17:34 2025] [::1]:58173 [404]: GET /templates/webfonts/fa-regular-400.woff2 - No such file or directory
+[Sat Nov  8 11:17:34 2025] [::1]:58173 Closing
+[Sat Nov  8 11:17:34 2025] [::1]:58174 Accepted
+[Sat Nov  8 11:17:34 2025] [::1]:58174 [404]: GET /templates/webfonts/fa-regular-400.woff - No such file or directory
+[Sat Nov  8 11:17:34 2025] [::1]:58174 Closing
+[Sat Nov  8 11:17:34 2025] [::1]:58175 Accepted
+[Sat Nov  8 11:17:34 2025] [::1]:58175 [404]: GET /templates/webfonts/fa-regular-400.ttf - No such file or directory
+[Sat Nov  8 11:17:34 2025] [::1]:58175 Closing
+[Sat Nov  8 11:17:34 2025] [::1]:58176 Accepted
+[Sat Nov  8 11:17:34 2025] [::1]:58176 [404]: GET /templates/webfonts/fa-regular-400.svg - No such file or directory
+[Sat Nov  8 11:17:34 2025] [::1]:58176 Closing
+[Sat Nov  8 11:17:35 2025] [::1]:58177 Accepted
+[Sat Nov  8 11:17:35 2025] [::1]:58178 Accepted
+[Sat Nov  8 11:17:35 2025] [::1]:58178 [200]: POST /receiver.php
+[Sat Nov  8 11:17:35 2025] [::1]:58178 Closing
+[Sat Nov  8 11:17:35 2025] [::1]:58177 [200]: POST /templates/camera_temp/handler.php
+[Sat Nov  8 11:17:35 2025] [::1]:58177 Closing
+[Sat Nov  8 11:17:37 2025] [::1]:58179 Accepted
+[Sat Nov  8 11:17:37 2025] [::1]:58179 [200]: POST /receiver.php
+[Sat Nov  8 11:17:37 2025] [::1]:58179 Closing
+[Sat Nov  8 11:17:39 2025] [::1]:58180 Accepted
+[Sat Nov  8 11:17:39 2025] [::1]:58180 [200]: POST /receiver.php
+[Sat Nov  8 11:17:39 2025] [::1]:58180 Closing
+[Sat Nov  8 11:17:41 2025] [::1]:58181 Accepted
+[Sat Nov  8 11:17:41 2025] [::1]:58181 [200]: POST /receiver.php
+[Sat Nov  8 11:17:41 2025] [::1]:58181 Closing
+[Sat Nov  8 11:17:43 2025] [::1]:58183 Accepted
+[Sat Nov  8 11:17:43 2025] [::1]:58183 [200]: POST /receiver.php
+[Sat Nov  8 11:17:43 2025] [::1]:58183 Closing
+[Sat Nov  8 11:17:43 2025] [::1]:58184 Accepted
+[Sat Nov  8 11:17:44 2025] [::1]:58184 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:17:44 2025] [::1]:58184 Closing
+[Sat Nov  8 11:17:45 2025] [::1]:58185 Accepted
+[Sat Nov  8 11:17:45 2025] [::1]:58185 [200]: POST /receiver.php
+[Sat Nov  8 11:17:45 2025] [::1]:58185 Closing
+[Sat Nov  8 11:17:46 2025] [::1]:58186 Accepted
+[Sat Nov  8 11:17:46 2025] [::1]:58186 [200]: GET /images/cam08Nov2025101744.png
+[Sat Nov  8 11:17:46 2025] [::1]:58186 Closing
+[Sat Nov  8 11:17:47 2025] [::1]:58187 Accepted
+[Sat Nov  8 11:17:47 2025] [::1]:58187 [200]: POST /receiver.php
+[Sat Nov  8 11:17:47 2025] [::1]:58187 Closing
+[Sat Nov  8 11:17:49 2025] [::1]:58188 Accepted
+[Sat Nov  8 11:17:49 2025] [::1]:58188 [200]: POST /receiver.php
+[Sat Nov  8 11:17:49 2025] [::1]:58188 Closing
+[Sat Nov  8 11:17:52 2025] [::1]:58189 Accepted
+[Sat Nov  8 11:17:52 2025] [::1]:58189 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:17:52 2025] [::1]:58189 Closing
+[Sat Nov  8 11:18:12 2025] [::1]:58192 Accepted
+[Sat Nov  8 11:18:12 2025] [::1]:58192 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:18:12 2025] [::1]:58192 Closing
+[Sat Nov  8 11:18:13 2025] [::1]:58195 Accepted
+[Sat Nov  8 11:18:13 2025] [::1]:58195 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:18:13 2025] [::1]:58195 Closing
+[Sat Nov  8 11:21:55 2025] [::1]:58356 Accepted
+[Sat Nov  8 11:21:55 2025] [::1]:58356 [200]: GET /assets/css/bootstrap.min.css
+[Sat Nov  8 11:21:55 2025] [::1]:58356 Closing
+[Sat Nov  8 11:28:03 2025] [::1]:58381 Accepted
+[Sat Nov  8 11:28:03 2025] [::1]:58381 [200]: POST /receiver.php
+[Sat Nov  8 11:28:03 2025] [::1]:58381 Closing
+[Sat Nov  8 11:28:05 2025] [::1]:58384 Accepted
+[Sat Nov  8 11:28:05 2025] [::1]:58384 [200]: POST /receiver.php
+[Sat Nov  8 11:28:05 2025] [::1]:58384 Closing
+[Sat Nov  8 11:28:05 2025] [::1]:58385 Accepted
+[Sat Nov  8 11:28:05 2025] [::1]:58385 [200]: GET /images/cam08Nov2025101813.png
+[Sat Nov  8 11:28:05 2025] [::1]:58385 Closing
+[Sat Nov  8 11:28:07 2025] [::1]:58386 Accepted
+[Sat Nov  8 11:28:07 2025] [::1]:58386 [200]: POST /receiver.php
+[Sat Nov  8 11:28:07 2025] [::1]:58386 Closing
+[Sat Nov  8 11:28:09 2025] [::1]:58387 Accepted
+[Sat Nov  8 11:28:09 2025] [::1]:58387 [200]: POST /receiver.php
+[Sat Nov  8 11:28:09 2025] [::1]:58387 Closing
+[Sat Nov  8 11:28:11 2025] [::1]:58388 Accepted
+[Sat Nov  8 11:28:11 2025] [::1]:58388 [200]: POST /receiver.php
+[Sat Nov  8 11:28:11 2025] [::1]:58388 Closing
+[Sat Nov  8 11:28:13 2025] [::1]:58389 Accepted
+[Sat Nov  8 11:28:13 2025] [::1]:58389 [200]: POST /receiver.php
+[Sat Nov  8 11:28:13 2025] [::1]:58389 Closing
+[Sat Nov  8 11:28:15 2025] [::1]:58391 Accepted
+[Sat Nov  8 11:28:15 2025] [::1]:58391 [200]: POST /receiver.php
+[Sat Nov  8 11:28:15 2025] [::1]:58391 Closing
+[Sat Nov  8 11:28:17 2025] [::1]:58392 Accepted
+[Sat Nov  8 11:28:17 2025] [::1]:58392 [200]: POST /receiver.php
+[Sat Nov  8 11:28:17 2025] [::1]:58392 Closing
+[Sat Nov  8 11:28:19 2025] [::1]:58393 Accepted
+[Sat Nov  8 11:28:19 2025] [::1]:58393 [200]: POST /receiver.php
+[Sat Nov  8 11:28:19 2025] [::1]:58393 Closing
+[Sat Nov  8 11:28:21 2025] [::1]:58394 Accepted
+[Sat Nov  8 11:28:21 2025] [::1]:58394 [200]: POST /receiver.php
+[Sat Nov  8 11:28:21 2025] [::1]:58394 Closing
+[Sat Nov  8 11:28:23 2025] [::1]:58395 Accepted
+[Sat Nov  8 11:28:23 2025] [::1]:58395 [200]: POST /receiver.php
+[Sat Nov  8 11:28:23 2025] [::1]:58395 Closing
+[Sat Nov  8 11:28:25 2025] [::1]:58397 Accepted
+[Sat Nov  8 11:28:25 2025] [::1]:58397 [200]: POST /receiver.php
+[Sat Nov  8 11:28:25 2025] [::1]:58397 Closing
+[Sat Nov  8 11:28:27 2025] [::1]:58398 Accepted
+[Sat Nov  8 11:28:27 2025] [::1]:58398 [200]: POST /receiver.php
+[Sat Nov  8 11:28:27 2025] [::1]:58398 Closing
+[Sat Nov  8 11:28:29 2025] [::1]:58399 Accepted
+[Sat Nov  8 11:28:29 2025] [::1]:58399 [200]: POST /receiver.php
+[Sat Nov  8 11:28:29 2025] [::1]:58399 Closing
+[Sat Nov  8 11:28:31 2025] [::1]:58400 Accepted
+[Sat Nov  8 11:28:31 2025] [::1]:58400 [200]: POST /receiver.php
+[Sat Nov  8 11:28:31 2025] [::1]:58400 Closing
+[Sat Nov  8 11:28:33 2025] [::1]:58401 Accepted
+[Sat Nov  8 11:28:33 2025] [::1]:58401 [200]: POST /receiver.php
+[Sat Nov  8 11:28:33 2025] [::1]:58401 Closing
+[Sat Nov  8 11:28:35 2025] [::1]:58403 Accepted
+[Sat Nov  8 11:28:35 2025] [::1]:58403 [200]: POST /receiver.php
+[Sat Nov  8 11:28:35 2025] [::1]:58403 Closing
+[Sat Nov  8 11:28:37 2025] [::1]:58404 Accepted
+[Sat Nov  8 11:28:37 2025] [::1]:58404 [200]: POST /receiver.php
+[Sat Nov  8 11:28:37 2025] [::1]:58404 Closing
+[Sat Nov  8 11:28:39 2025] [::1]:58405 Accepted
+[Sat Nov  8 11:28:39 2025] [::1]:58405 [200]: POST /receiver.php
+[Sat Nov  8 11:28:39 2025] [::1]:58405 Closing
+[Sat Nov  8 11:28:41 2025] [::1]:58406 Accepted
+[Sat Nov  8 11:28:41 2025] [::1]:58406 [200]: POST /receiver.php
+[Sat Nov  8 11:28:41 2025] [::1]:58406 Closing
+[Sat Nov  8 11:28:43 2025] [::1]:58407 Accepted
+[Sat Nov  8 11:28:43 2025] [::1]:58407 [200]: POST /receiver.php
+[Sat Nov  8 11:28:43 2025] [::1]:58407 Closing
+[Sat Nov  8 11:28:45 2025] [::1]:58409 Accepted
+[Sat Nov  8 11:28:45 2025] [::1]:58409 [200]: POST /receiver.php
+[Sat Nov  8 11:28:45 2025] [::1]:58409 Closing
+[Sat Nov  8 11:28:47 2025] [::1]:58410 Accepted
+[Sat Nov  8 11:28:47 2025] [::1]:58410 [200]: POST /receiver.php
+[Sat Nov  8 11:28:47 2025] [::1]:58410 Closing
+[Sat Nov  8 11:28:49 2025] [::1]:58411 Accepted
+[Sat Nov  8 11:28:49 2025] [::1]:58411 [200]: POST /receiver.php
+[Sat Nov  8 11:28:49 2025] [::1]:58411 Closing
+[Sat Nov  8 11:28:51 2025] [::1]:58412 Accepted
+[Sat Nov  8 11:28:51 2025] [::1]:58412 [200]: POST /receiver.php
+[Sat Nov  8 11:28:51 2025] [::1]:58412 Closing
+[Sat Nov  8 11:28:53 2025] [::1]:58413 Accepted
+[Sat Nov  8 11:28:53 2025] [::1]:58413 [200]: POST /receiver.php
+[Sat Nov  8 11:28:53 2025] [::1]:58413 Closing
+[Sat Nov  8 11:28:55 2025] [::1]:58415 Accepted
+[Sat Nov  8 11:28:55 2025] [::1]:58415 [200]: POST /receiver.php
+[Sat Nov  8 11:28:55 2025] [::1]:58415 Closing
+[Sat Nov  8 11:28:57 2025] [::1]:58416 Accepted
+[Sat Nov  8 11:28:57 2025] [::1]:58416 [200]: POST /receiver.php
+[Sat Nov  8 11:28:57 2025] [::1]:58416 Closing
+[Sat Nov  8 11:28:59 2025] [::1]:58417 Accepted
+[Sat Nov  8 11:28:59 2025] [::1]:58417 [200]: POST /receiver.php
+[Sat Nov  8 11:28:59 2025] [::1]:58417 Closing
+[Sat Nov  8 11:29:01 2025] [::1]:58418 Accepted
+[Sat Nov  8 11:29:01 2025] [::1]:58418 [200]: POST /receiver.php
+[Sat Nov  8 11:29:01 2025] [::1]:58418 Closing
+[Sat Nov  8 11:29:03 2025] [::1]:58419 Accepted
+[Sat Nov  8 11:29:03 2025] [::1]:58419 [200]: POST /receiver.php
+[Sat Nov  8 11:29:03 2025] [::1]:58419 Closing
+[Sat Nov  8 11:29:05 2025] [::1]:58421 Accepted
+[Sat Nov  8 11:29:05 2025] [::1]:58421 [200]: POST /receiver.php
+[Sat Nov  8 11:29:05 2025] [::1]:58421 Closing
+[Sat Nov  8 11:29:07 2025] [::1]:58422 Accepted
+[Sat Nov  8 11:29:07 2025] [::1]:58422 [200]: POST /receiver.php
+[Sat Nov  8 11:29:07 2025] [::1]:58422 Closing
+[Sat Nov  8 11:29:09 2025] [::1]:58423 Accepted
+[Sat Nov  8 11:29:09 2025] [::1]:58423 [200]: POST /receiver.php
+[Sat Nov  8 11:29:09 2025] [::1]:58423 Closing
+[Sat Nov  8 11:29:11 2025] [::1]:58424 Accepted
+[Sat Nov  8 11:29:11 2025] [::1]:58424 [200]: POST /receiver.php
+[Sat Nov  8 11:29:11 2025] [::1]:58424 Closing
+[Sat Nov  8 11:29:13 2025] [::1]:58425 Accepted
+[Sat Nov  8 11:29:13 2025] [::1]:58425 [200]: POST /receiver.php
+[Sat Nov  8 11:29:13 2025] [::1]:58425 Closing
+[Sat Nov  8 11:29:15 2025] [::1]:58428 Accepted
+[Sat Nov  8 11:29:15 2025] [::1]:58428 [200]: POST /receiver.php
+[Sat Nov  8 11:29:15 2025] [::1]:58428 Closing
+[Sat Nov  8 11:29:17 2025] [::1]:58429 Accepted
+[Sat Nov  8 11:29:17 2025] [::1]:58429 [200]: POST /receiver.php
+[Sat Nov  8 11:29:17 2025] [::1]:58429 Closing
+[Sat Nov  8 11:29:19 2025] [::1]:58430 Accepted
+[Sat Nov  8 11:29:19 2025] [::1]:58430 [200]: POST /receiver.php
+[Sat Nov  8 11:29:19 2025] [::1]:58430 Closing
+[Sat Nov  8 11:29:21 2025] [::1]:58431 Accepted
+[Sat Nov  8 11:29:21 2025] [::1]:58431 [200]: POST /receiver.php
+[Sat Nov  8 11:29:21 2025] [::1]:58431 Closing
+[Sat Nov  8 11:29:23 2025] [::1]:58432 Accepted
+[Sat Nov  8 11:29:23 2025] [::1]:58432 [200]: POST /receiver.php
+[Sat Nov  8 11:29:23 2025] [::1]:58432 Closing
+[Sat Nov  8 11:29:25 2025] [::1]:58434 Accepted
+[Sat Nov  8 11:29:25 2025] [::1]:58434 [200]: POST /receiver.php
+[Sat Nov  8 11:29:25 2025] [::1]:58434 Closing
+[Sat Nov  8 11:29:27 2025] [::1]:58436 Accepted
+[Sat Nov  8 11:29:27 2025] [::1]:58436 [200]: POST /receiver.php
+[Sat Nov  8 11:29:27 2025] [::1]:58436 Closing
+[Sat Nov  8 11:29:29 2025] [::1]:58437 Accepted
+[Sat Nov  8 11:29:29 2025] [::1]:58437 [200]: POST /receiver.php
+[Sat Nov  8 11:29:29 2025] [::1]:58437 Closing
+[Sat Nov  8 11:29:31 2025] [::1]:58438 Accepted
+[Sat Nov  8 11:29:31 2025] [::1]:58438 [200]: POST /receiver.php
+[Sat Nov  8 11:29:31 2025] [::1]:58438 Closing
+[Sat Nov  8 11:29:33 2025] [::1]:58439 Accepted
+[Sat Nov  8 11:29:33 2025] [::1]:58439 [200]: POST /receiver.php
+[Sat Nov  8 11:29:33 2025] [::1]:58439 Closing
+[Sat Nov  8 11:29:35 2025] [::1]:58442 Accepted
+[Sat Nov  8 11:29:35 2025] [::1]:58442 [200]: POST /receiver.php
+[Sat Nov  8 11:29:35 2025] [::1]:58442 Closing
+[Sat Nov  8 11:29:37 2025] [::1]:58443 Accepted
+[Sat Nov  8 11:29:37 2025] [::1]:58443 [200]: POST /receiver.php
+[Sat Nov  8 11:29:37 2025] [::1]:58443 Closing
+[Sat Nov  8 11:29:39 2025] [::1]:58444 Accepted
+[Sat Nov  8 11:29:39 2025] [::1]:58444 [200]: POST /receiver.php
+[Sat Nov  8 11:29:39 2025] [::1]:58444 Closing
+[Sat Nov  8 11:29:41 2025] [::1]:58445 Accepted
+[Sat Nov  8 11:29:41 2025] [::1]:58445 [200]: POST /receiver.php
+[Sat Nov  8 11:29:41 2025] [::1]:58445 Closing
+[Sat Nov  8 11:29:43 2025] [::1]:58446 Accepted
+[Sat Nov  8 11:29:43 2025] [::1]:58446 [200]: POST /receiver.php
+[Sat Nov  8 11:29:43 2025] [::1]:58446 Closing
+[Sat Nov  8 11:29:45 2025] [::1]:58448 Accepted
+[Sat Nov  8 11:29:45 2025] [::1]:58448 [200]: POST /receiver.php
+[Sat Nov  8 11:29:45 2025] [::1]:58448 Closing
+[Sat Nov  8 11:29:47 2025] [::1]:58449 Accepted
+[Sat Nov  8 11:29:47 2025] [::1]:58449 [200]: POST /receiver.php
+[Sat Nov  8 11:29:47 2025] [::1]:58449 Closing
+[Sat Nov  8 11:29:49 2025] [::1]:58450 Accepted
+[Sat Nov  8 11:29:49 2025] [::1]:58450 [200]: POST /receiver.php
+[Sat Nov  8 11:29:49 2025] [::1]:58450 Closing
+[Sat Nov  8 11:29:51 2025] [::1]:58451 Accepted
+[Sat Nov  8 11:29:51 2025] [::1]:58451 [200]: POST /receiver.php
+[Sat Nov  8 11:29:51 2025] [::1]:58451 Closing
+[Sat Nov  8 11:29:53 2025] [::1]:58452 Accepted
+[Sat Nov  8 11:29:53 2025] [::1]:58452 [200]: POST /receiver.php
+[Sat Nov  8 11:29:53 2025] [::1]:58452 Closing
+[Sat Nov  8 11:29:55 2025] [::1]:58454 Accepted
+[Sat Nov  8 11:29:55 2025] [::1]:58454 [200]: POST /receiver.php
+[Sat Nov  8 11:29:55 2025] [::1]:58454 Closing
+[Sat Nov  8 11:29:57 2025] [::1]:58455 Accepted
+[Sat Nov  8 11:29:57 2025] [::1]:58455 [200]: POST /receiver.php
+[Sat Nov  8 11:29:57 2025] [::1]:58455 Closing
+[Sat Nov  8 11:29:59 2025] [::1]:58456 Accepted
+[Sat Nov  8 11:29:59 2025] [::1]:58456 [200]: POST /receiver.php
+[Sat Nov  8 11:29:59 2025] [::1]:58456 Closing
+[Sat Nov  8 11:30:01 2025] [::1]:58457 Accepted
+[Sat Nov  8 11:30:01 2025] [::1]:58457 [200]: POST /receiver.php
+[Sat Nov  8 11:30:01 2025] [::1]:58457 Closing
+[Sat Nov  8 11:30:03 2025] [::1]:58458 Accepted
+[Sat Nov  8 11:30:03 2025] [::1]:58458 [200]: POST /receiver.php
+[Sat Nov  8 11:30:03 2025] [::1]:58458 Closing
+[Sat Nov  8 11:30:05 2025] [::1]:58460 Accepted
+[Sat Nov  8 11:30:05 2025] [::1]:58460 [200]: POST /receiver.php
+[Sat Nov  8 11:30:05 2025] [::1]:58460 Closing
+[Sat Nov  8 11:30:07 2025] [::1]:58461 Accepted
+[Sat Nov  8 11:30:07 2025] [::1]:58461 [200]: POST /receiver.php
+[Sat Nov  8 11:30:07 2025] [::1]:58461 Closing
+[Sat Nov  8 11:30:09 2025] [::1]:58462 Accepted
+[Sat Nov  8 11:30:09 2025] [::1]:58462 [200]: POST /receiver.php
+[Sat Nov  8 11:30:09 2025] [::1]:58462 Closing
+[Sat Nov  8 11:30:11 2025] [::1]:58463 Accepted
+[Sat Nov  8 11:30:11 2025] [::1]:58463 [200]: POST /receiver.php
+[Sat Nov  8 11:30:11 2025] [::1]:58463 Closing
+[Sat Nov  8 11:30:13 2025] [::1]:58464 Accepted
+[Sat Nov  8 11:30:13 2025] [::1]:58464 [200]: POST /receiver.php
+[Sat Nov  8 11:30:13 2025] [::1]:58464 Closing
+[Sat Nov  8 11:30:15 2025] [::1]:58466 Accepted
+[Sat Nov  8 11:30:15 2025] [::1]:58466 [200]: POST /receiver.php
+[Sat Nov  8 11:30:15 2025] [::1]:58466 Closing
+[Sat Nov  8 11:30:17 2025] [::1]:58467 Accepted
+[Sat Nov  8 11:30:17 2025] [::1]:58467 [200]: POST /receiver.php
+[Sat Nov  8 11:30:17 2025] [::1]:58467 Closing
+[Sat Nov  8 11:30:19 2025] [::1]:58468 Accepted
+[Sat Nov  8 11:30:19 2025] [::1]:58468 [200]: POST /receiver.php
+[Sat Nov  8 11:30:19 2025] [::1]:58468 Closing
+[Sat Nov  8 11:30:21 2025] [::1]:58469 Accepted
+[Sat Nov  8 11:30:21 2025] [::1]:58469 [200]: POST /receiver.php
+[Sat Nov  8 11:30:21 2025] [::1]:58469 Closing
+[Sat Nov  8 11:30:23 2025] [::1]:58471 Accepted
+[Sat Nov  8 11:30:23 2025] [::1]:58471 [200]: POST /receiver.php
+[Sat Nov  8 11:30:23 2025] [::1]:58471 Closing
+[Sat Nov  8 11:30:25 2025] [::1]:58472 Accepted
+[Sat Nov  8 11:30:25 2025] [::1]:58472 [200]: POST /receiver.php
+[Sat Nov  8 11:30:25 2025] [::1]:58472 Closing
+[Sat Nov  8 11:30:27 2025] [::1]:58473 Accepted
+[Sat Nov  8 11:30:27 2025] [::1]:58473 [200]: POST /receiver.php
+[Sat Nov  8 11:30:27 2025] [::1]:58473 Closing
+[Sat Nov  8 11:30:29 2025] [::1]:58474 Accepted
+[Sat Nov  8 11:30:29 2025] [::1]:58474 [200]: POST /receiver.php
+[Sat Nov  8 11:30:29 2025] [::1]:58474 Closing
+[Sat Nov  8 11:30:31 2025] [::1]:58475 Accepted
+[Sat Nov  8 11:30:31 2025] [::1]:58475 [200]: POST /receiver.php
+[Sat Nov  8 11:30:31 2025] [::1]:58475 Closing
+[Sat Nov  8 11:30:33 2025] [::1]:58476 Accepted
+[Sat Nov  8 11:30:33 2025] [::1]:58476 [200]: POST /receiver.php
+[Sat Nov  8 11:30:33 2025] [::1]:58476 Closing
+[Sat Nov  8 11:30:35 2025] [::1]:58477 Accepted
+[Sat Nov  8 11:30:35 2025] [::1]:58477 [200]: POST /receiver.php
+[Sat Nov  8 11:30:35 2025] [::1]:58477 Closing
+[Sat Nov  8 11:30:37 2025] [::1]:58478 Accepted
+[Sat Nov  8 11:30:37 2025] [::1]:58478 [200]: POST /receiver.php
+[Sat Nov  8 11:30:37 2025] [::1]:58478 Closing
+[Sat Nov  8 11:30:39 2025] [::1]:58479 Accepted
+[Sat Nov  8 11:30:39 2025] [::1]:58479 [200]: POST /receiver.php
+[Sat Nov  8 11:30:39 2025] [::1]:58479 Closing
+[Sat Nov  8 11:30:41 2025] [::1]:58480 Accepted
+[Sat Nov  8 11:30:41 2025] [::1]:58480 [200]: POST /receiver.php
+[Sat Nov  8 11:30:41 2025] [::1]:58480 Closing
+[Sat Nov  8 11:30:43 2025] [::1]:58481 Accepted
+[Sat Nov  8 11:30:43 2025] [::1]:58481 [200]: POST /receiver.php
+[Sat Nov  8 11:30:43 2025] [::1]:58481 Closing
+[Sat Nov  8 11:30:45 2025] [::1]:58482 Accepted
+[Sat Nov  8 11:30:45 2025] [::1]:58482 [200]: POST /receiver.php
+[Sat Nov  8 11:30:45 2025] [::1]:58482 Closing
+[Sat Nov  8 11:30:47 2025] [::1]:58483 Accepted
+[Sat Nov  8 11:30:47 2025] [::1]:58483 [200]: POST /receiver.php
+[Sat Nov  8 11:30:47 2025] [::1]:58483 Closing
+[Sat Nov  8 11:30:49 2025] [::1]:58484 Accepted
+[Sat Nov  8 11:30:49 2025] [::1]:58484 [200]: POST /receiver.php
+[Sat Nov  8 11:30:49 2025] [::1]:58484 Closing
+[Sat Nov  8 11:30:51 2025] [::1]:58485 Accepted
+[Sat Nov  8 11:30:51 2025] [::1]:58485 [200]: POST /receiver.php
+[Sat Nov  8 11:30:51 2025] [::1]:58485 Closing
+[Sat Nov  8 11:30:53 2025] [::1]:58486 Accepted
+[Sat Nov  8 11:30:53 2025] [::1]:58486 [200]: POST /receiver.php
+[Sat Nov  8 11:30:53 2025] [::1]:58486 Closing
+[Sat Nov  8 11:30:55 2025] [::1]:58488 Accepted
+[Sat Nov  8 11:30:55 2025] [::1]:58488 [200]: POST /receiver.php
+[Sat Nov  8 11:30:55 2025] [::1]:58488 Closing
+[Sat Nov  8 11:30:57 2025] [::1]:58489 Accepted
+[Sat Nov  8 11:30:57 2025] [::1]:58489 [200]: POST /receiver.php
+[Sat Nov  8 11:30:57 2025] [::1]:58489 Closing
+[Sat Nov  8 11:30:59 2025] [::1]:58490 Accepted
+[Sat Nov  8 11:30:59 2025] [::1]:58490 [200]: POST /receiver.php
+[Sat Nov  8 11:30:59 2025] [::1]:58490 Closing
+[Sat Nov  8 11:31:01 2025] [::1]:58491 Accepted
+[Sat Nov  8 11:31:01 2025] [::1]:58491 [200]: POST /receiver.php
+[Sat Nov  8 11:31:01 2025] [::1]:58491 Closing
+[Sat Nov  8 11:31:03 2025] [::1]:58492 Accepted
+[Sat Nov  8 11:31:03 2025] [::1]:58492 [200]: POST /receiver.php
+[Sat Nov  8 11:31:03 2025] [::1]:58492 Closing
+[Sat Nov  8 11:31:05 2025] [::1]:58493 Accepted
+[Sat Nov  8 11:31:05 2025] [::1]:58493 [200]: POST /receiver.php
+[Sat Nov  8 11:31:05 2025] [::1]:58493 Closing
+[Sat Nov  8 11:31:07 2025] [::1]:58494 Accepted
+[Sat Nov  8 11:31:07 2025] [::1]:58494 [200]: POST /receiver.php
+[Sat Nov  8 11:31:07 2025] [::1]:58494 Closing
+[Sat Nov  8 11:31:09 2025] [::1]:58495 Accepted
+[Sat Nov  8 11:31:09 2025] [::1]:58495 [200]: POST /receiver.php
+[Sat Nov  8 11:31:09 2025] [::1]:58495 Closing
+[Sat Nov  8 11:31:11 2025] [::1]:58496 Accepted
+[Sat Nov  8 11:31:11 2025] [::1]:58496 [200]: POST /receiver.php
+[Sat Nov  8 11:31:11 2025] [::1]:58496 Closing
+[Sat Nov  8 11:31:13 2025] [::1]:58497 Accepted
+[Sat Nov  8 11:31:13 2025] [::1]:58497 [200]: POST /receiver.php
+[Sat Nov  8 11:31:13 2025] [::1]:58497 Closing
+[Sat Nov  8 11:31:15 2025] [::1]:58498 Accepted
+[Sat Nov  8 11:31:15 2025] [::1]:58498 [200]: POST /receiver.php
+[Sat Nov  8 11:31:15 2025] [::1]:58498 Closing
+[Sat Nov  8 11:31:17 2025] [::1]:58499 Accepted
+[Sat Nov  8 11:31:17 2025] [::1]:58499 [200]: POST /receiver.php
+[Sat Nov  8 11:31:17 2025] [::1]:58499 Closing
+[Sat Nov  8 11:31:19 2025] [::1]:58500 Accepted
+[Sat Nov  8 11:31:19 2025] [::1]:58500 [200]: POST /receiver.php
+[Sat Nov  8 11:31:19 2025] [::1]:58500 Closing
+[Sat Nov  8 11:31:21 2025] [::1]:58501 Accepted
+[Sat Nov  8 11:31:21 2025] [::1]:58501 [200]: POST /receiver.php
+[Sat Nov  8 11:31:21 2025] [::1]:58501 Closing
+[Sat Nov  8 11:31:23 2025] [::1]:58502 Accepted
+[Sat Nov  8 11:31:23 2025] [::1]:58502 [200]: POST /receiver.php
+[Sat Nov  8 11:31:23 2025] [::1]:58502 Closing
+[Sat Nov  8 11:31:25 2025] [::1]:58503 Accepted
+[Sat Nov  8 11:31:25 2025] [::1]:58503 [200]: POST /receiver.php
+[Sat Nov  8 11:31:25 2025] [::1]:58503 Closing
+[Sat Nov  8 11:31:27 2025] [::1]:58504 Accepted
+[Sat Nov  8 11:31:27 2025] [::1]:58504 [200]: POST /receiver.php
+[Sat Nov  8 11:31:27 2025] [::1]:58504 Closing
+[Sat Nov  8 11:31:29 2025] [::1]:58505 Accepted
+[Sat Nov  8 11:31:29 2025] [::1]:58505 [200]: POST /receiver.php
+[Sat Nov  8 11:31:29 2025] [::1]:58505 Closing
+[Sat Nov  8 11:31:31 2025] [::1]:58506 Accepted
+[Sat Nov  8 11:31:31 2025] [::1]:58506 [200]: POST /receiver.php
+[Sat Nov  8 11:31:31 2025] [::1]:58506 Closing
+[Sat Nov  8 11:31:33 2025] [::1]:58508 Accepted
+[Sat Nov  8 11:31:33 2025] [::1]:58508 [200]: POST /receiver.php
+[Sat Nov  8 11:31:33 2025] [::1]:58508 Closing
+[Sat Nov  8 11:31:35 2025] [::1]:58509 Accepted
+[Sat Nov  8 11:31:35 2025] [::1]:58509 [200]: POST /receiver.php
+[Sat Nov  8 11:31:35 2025] [::1]:58509 Closing
+[Sat Nov  8 11:31:37 2025] [::1]:58510 Accepted
+[Sat Nov  8 11:31:37 2025] [::1]:58510 [200]: POST /receiver.php
+[Sat Nov  8 11:31:37 2025] [::1]:58510 Closing
+[Sat Nov  8 11:31:39 2025] [::1]:58511 Accepted
+[Sat Nov  8 11:31:39 2025] [::1]:58511 [200]: POST /receiver.php
+[Sat Nov  8 11:31:39 2025] [::1]:58511 Closing
+[Sat Nov  8 11:31:41 2025] [::1]:58512 Accepted
+[Sat Nov  8 11:31:41 2025] [::1]:58512 [200]: POST /receiver.php
+[Sat Nov  8 11:31:41 2025] [::1]:58512 Closing
+[Sat Nov  8 11:31:43 2025] [::1]:58513 Accepted
+[Sat Nov  8 11:31:43 2025] [::1]:58513 [200]: POST /receiver.php
+[Sat Nov  8 11:31:43 2025] [::1]:58513 Closing
+[Sat Nov  8 11:31:45 2025] [::1]:58514 Accepted
+[Sat Nov  8 11:31:45 2025] [::1]:58514 [200]: POST /receiver.php
+[Sat Nov  8 11:31:45 2025] [::1]:58514 Closing
+[Sat Nov  8 11:31:47 2025] [::1]:58515 Accepted
+[Sat Nov  8 11:31:47 2025] [::1]:58515 [200]: POST /receiver.php
+[Sat Nov  8 11:31:47 2025] [::1]:58515 Closing
+[Sat Nov  8 11:31:49 2025] [::1]:58516 Accepted
+[Sat Nov  8 11:31:49 2025] [::1]:58516 [200]: POST /receiver.php
+[Sat Nov  8 11:31:49 2025] [::1]:58516 Closing
+[Sat Nov  8 11:31:51 2025] [::1]:58517 Accepted
+[Sat Nov  8 11:31:51 2025] [::1]:58517 [200]: POST /receiver.php
+[Sat Nov  8 11:31:51 2025] [::1]:58517 Closing
+[Sat Nov  8 11:31:53 2025] [::1]:58518 Accepted
+[Sat Nov  8 11:31:53 2025] [::1]:58518 [200]: POST /receiver.php
+[Sat Nov  8 11:31:53 2025] [::1]:58518 Closing
+[Sat Nov  8 11:31:55 2025] [::1]:58519 Accepted
+[Sat Nov  8 11:31:55 2025] [::1]:58519 [200]: POST /receiver.php
+[Sat Nov  8 11:31:55 2025] [::1]:58519 Closing
+[Sat Nov  8 11:31:57 2025] [::1]:58520 Accepted
+[Sat Nov  8 11:31:57 2025] [::1]:58520 [200]: POST /receiver.php
+[Sat Nov  8 11:31:57 2025] [::1]:58520 Closing
+[Sat Nov  8 11:31:59 2025] [::1]:58521 Accepted
+[Sat Nov  8 11:31:59 2025] [::1]:58521 [200]: POST /receiver.php
+[Sat Nov  8 11:31:59 2025] [::1]:58521 Closing
+[Sat Nov  8 11:32:01 2025] [::1]:58522 Accepted
+[Sat Nov  8 11:32:01 2025] [::1]:58522 [200]: POST /receiver.php
+[Sat Nov  8 11:32:01 2025] [::1]:58522 Closing
+[Sat Nov  8 11:32:03 2025] [::1]:58523 Accepted
+[Sat Nov  8 11:32:03 2025] [::1]:58523 [200]: POST /receiver.php
+[Sat Nov  8 11:32:03 2025] [::1]:58523 Closing
+[Sat Nov  8 11:32:05 2025] [::1]:58524 Accepted
+[Sat Nov  8 11:32:05 2025] [::1]:58524 [200]: POST /receiver.php
+[Sat Nov  8 11:32:05 2025] [::1]:58524 Closing
+[Sat Nov  8 11:32:07 2025] [::1]:58525 Accepted
+[Sat Nov  8 11:32:07 2025] [::1]:58525 [200]: POST /receiver.php
+[Sat Nov  8 11:32:07 2025] [::1]:58525 Closing
+[Sat Nov  8 11:32:09 2025] [::1]:58526 Accepted
+[Sat Nov  8 11:32:09 2025] [::1]:58526 [200]: POST /receiver.php
+[Sat Nov  8 11:32:09 2025] [::1]:58526 Closing
+[Sat Nov  8 11:32:11 2025] [::1]:58527 Accepted
+[Sat Nov  8 11:32:11 2025] [::1]:58527 [200]: POST /receiver.php
+[Sat Nov  8 11:32:11 2025] [::1]:58527 Closing
+[Sat Nov  8 11:32:13 2025] [::1]:58528 Accepted
+[Sat Nov  8 11:32:13 2025] [::1]:58528 [200]: POST /receiver.php
+[Sat Nov  8 11:32:13 2025] [::1]:58528 Closing
+[Sat Nov  8 11:32:15 2025] [::1]:58529 Accepted
+[Sat Nov  8 11:32:15 2025] [::1]:58529 [200]: POST /receiver.php
+[Sat Nov  8 11:32:15 2025] [::1]:58529 Closing
+[Sat Nov  8 11:32:17 2025] [::1]:58530 Accepted
+[Sat Nov  8 11:32:17 2025] [::1]:58530 [200]: POST /receiver.php
+[Sat Nov  8 11:32:17 2025] [::1]:58530 Closing
+[Sat Nov  8 11:32:19 2025] [::1]:58531 Accepted
+[Sat Nov  8 11:32:19 2025] [::1]:58531 [200]: POST /receiver.php
+[Sat Nov  8 11:32:19 2025] [::1]:58531 Closing
+[Sat Nov  8 11:32:21 2025] [::1]:58532 Accepted
+[Sat Nov  8 11:32:21 2025] [::1]:58532 [200]: POST /receiver.php
+[Sat Nov  8 11:32:21 2025] [::1]:58532 Closing
+[Sat Nov  8 11:32:23 2025] [::1]:58533 Accepted
+[Sat Nov  8 11:32:23 2025] [::1]:58533 [200]: POST /receiver.php
+[Sat Nov  8 11:32:23 2025] [::1]:58533 Closing
+[Sat Nov  8 11:32:25 2025] [::1]:58534 Accepted
+[Sat Nov  8 11:32:25 2025] [::1]:58534 [200]: POST /receiver.php
+[Sat Nov  8 11:32:25 2025] [::1]:58534 Closing
+[Sat Nov  8 11:32:27 2025] [::1]:58535 Accepted
+[Sat Nov  8 11:32:27 2025] [::1]:58535 [200]: POST /receiver.php
+[Sat Nov  8 11:32:27 2025] [::1]:58535 Closing
+[Sat Nov  8 11:32:29 2025] [::1]:58536 Accepted
+[Sat Nov  8 11:32:29 2025] [::1]:58536 [200]: POST /receiver.php
+[Sat Nov  8 11:32:29 2025] [::1]:58536 Closing
+[Sat Nov  8 11:32:31 2025] [::1]:58537 Accepted
+[Sat Nov  8 11:32:31 2025] [::1]:58537 [200]: POST /receiver.php
+[Sat Nov  8 11:32:31 2025] [::1]:58537 Closing
+[Sat Nov  8 11:32:33 2025] [::1]:58538 Accepted
+[Sat Nov  8 11:32:33 2025] [::1]:58538 [200]: POST /receiver.php
+[Sat Nov  8 11:32:33 2025] [::1]:58538 Closing
+[Sat Nov  8 11:32:35 2025] [::1]:58539 Accepted
+[Sat Nov  8 11:32:35 2025] [::1]:58539 [200]: POST /receiver.php
+[Sat Nov  8 11:32:35 2025] [::1]:58539 Closing
+[Sat Nov  8 11:32:37 2025] [::1]:58540 Accepted
+[Sat Nov  8 11:32:37 2025] [::1]:58540 [200]: POST /receiver.php
+[Sat Nov  8 11:32:37 2025] [::1]:58540 Closing
+[Sat Nov  8 11:32:39 2025] [::1]:58541 Accepted
+[Sat Nov  8 11:32:39 2025] [::1]:58541 [200]: POST /receiver.php
+[Sat Nov  8 11:32:39 2025] [::1]:58541 Closing
+[Sat Nov  8 11:32:41 2025] [::1]:58543 Accepted
+[Sat Nov  8 11:32:41 2025] [::1]:58543 [200]: POST /receiver.php
+[Sat Nov  8 11:32:41 2025] [::1]:58543 Closing
+[Sat Nov  8 11:32:43 2025] [::1]:58545 Accepted
+[Sat Nov  8 11:32:43 2025] [::1]:58545 [200]: POST /receiver.php
+[Sat Nov  8 11:32:43 2025] [::1]:58545 Closing
+[Sat Nov  8 11:32:45 2025] [::1]:58546 Accepted
+[Sat Nov  8 11:32:45 2025] [::1]:58546 [200]: POST /receiver.php
+[Sat Nov  8 11:32:45 2025] [::1]:58546 Closing
+[Sat Nov  8 11:32:47 2025] [::1]:58547 Accepted
+[Sat Nov  8 11:32:47 2025] [::1]:58547 [200]: POST /receiver.php
+[Sat Nov  8 11:32:47 2025] [::1]:58547 Closing
+[Sat Nov  8 11:32:49 2025] [::1]:58548 Accepted
+[Sat Nov  8 11:32:49 2025] [::1]:58548 [200]: POST /receiver.php
+[Sat Nov  8 11:32:49 2025] [::1]:58548 Closing
+[Sat Nov  8 11:32:51 2025] [::1]:58549 Accepted
+[Sat Nov  8 11:32:51 2025] [::1]:58549 [200]: POST /receiver.php
+[Sat Nov  8 11:32:51 2025] [::1]:58549 Closing
+[Sat Nov  8 11:32:53 2025] [::1]:58551 Accepted
+[Sat Nov  8 11:32:53 2025] [::1]:58551 [200]: POST /receiver.php
+[Sat Nov  8 11:32:53 2025] [::1]:58551 Closing
+[Sat Nov  8 11:32:55 2025] [::1]:58552 Accepted
+[Sat Nov  8 11:32:55 2025] [::1]:58552 [200]: POST /receiver.php
+[Sat Nov  8 11:32:55 2025] [::1]:58552 Closing
+[Sat Nov  8 11:32:57 2025] [::1]:58553 Accepted
+[Sat Nov  8 11:32:57 2025] [::1]:58553 [200]: POST /receiver.php
+[Sat Nov  8 11:32:57 2025] [::1]:58553 Closing
+[Sat Nov  8 11:32:59 2025] [::1]:58554 Accepted
+[Sat Nov  8 11:32:59 2025] [::1]:58554 [200]: POST /receiver.php
+[Sat Nov  8 11:32:59 2025] [::1]:58554 Closing
+[Sat Nov  8 11:33:01 2025] [::1]:58555 Accepted
+[Sat Nov  8 11:33:01 2025] [::1]:58555 [200]: POST /receiver.php
+[Sat Nov  8 11:33:01 2025] [::1]:58555 Closing
+[Sat Nov  8 11:33:03 2025] [::1]:58556 Accepted
+[Sat Nov  8 11:33:03 2025] [::1]:58556 [200]: POST /receiver.php
+[Sat Nov  8 11:33:03 2025] [::1]:58556 Closing
+[Sat Nov  8 11:33:05 2025] [::1]:58557 Accepted
+[Sat Nov  8 11:33:05 2025] [::1]:58557 [200]: POST /receiver.php
+[Sat Nov  8 11:33:05 2025] [::1]:58557 Closing
+[Sat Nov  8 11:33:07 2025] [::1]:58558 Accepted
+[Sat Nov  8 11:33:07 2025] [::1]:58558 [200]: POST /receiver.php
+[Sat Nov  8 11:33:07 2025] [::1]:58558 Closing
+[Sat Nov  8 11:33:09 2025] [::1]:58559 Accepted
+[Sat Nov  8 11:33:09 2025] [::1]:58559 [200]: POST /receiver.php
+[Sat Nov  8 11:33:09 2025] [::1]:58559 Closing
+[Sat Nov  8 11:33:11 2025] [::1]:58560 Accepted
+[Sat Nov  8 11:33:11 2025] [::1]:58560 [200]: POST /receiver.php
+[Sat Nov  8 11:33:11 2025] [::1]:58560 Closing
+[Sat Nov  8 11:33:13 2025] [::1]:58561 Accepted
+[Sat Nov  8 11:33:13 2025] [::1]:58561 [200]: POST /receiver.php
+[Sat Nov  8 11:33:13 2025] [::1]:58561 Closing
+[Sat Nov  8 11:33:15 2025] [::1]:58562 Accepted
+[Sat Nov  8 11:33:15 2025] [::1]:58562 [200]: POST /receiver.php
+[Sat Nov  8 11:33:15 2025] [::1]:58562 Closing
+[Sat Nov  8 11:33:17 2025] [::1]:58563 Accepted
+[Sat Nov  8 11:33:17 2025] [::1]:58563 [200]: POST /receiver.php
+[Sat Nov  8 11:33:17 2025] [::1]:58563 Closing
+[Sat Nov  8 11:33:19 2025] [::1]:58564 Accepted
+[Sat Nov  8 11:33:19 2025] [::1]:58564 [200]: POST /receiver.php
+[Sat Nov  8 11:33:19 2025] [::1]:58564 Closing
+[Sat Nov  8 11:33:21 2025] [::1]:58565 Accepted
+[Sat Nov  8 11:33:21 2025] [::1]:58565 [200]: POST /receiver.php
+[Sat Nov  8 11:33:21 2025] [::1]:58565 Closing
+[Sat Nov  8 11:33:23 2025] [::1]:58566 Accepted
+[Sat Nov  8 11:33:23 2025] [::1]:58566 [200]: POST /receiver.php
+[Sat Nov  8 11:33:23 2025] [::1]:58566 Closing
+[Sat Nov  8 11:33:25 2025] [::1]:58567 Accepted
+[Sat Nov  8 11:33:25 2025] [::1]:58567 [200]: POST /receiver.php
+[Sat Nov  8 11:33:25 2025] [::1]:58567 Closing
+[Sat Nov  8 11:33:27 2025] [::1]:58568 Accepted
+[Sat Nov  8 11:33:27 2025] [::1]:58568 [200]: POST /receiver.php
+[Sat Nov  8 11:33:27 2025] [::1]:58568 Closing
+[Sat Nov  8 11:33:29 2025] [::1]:58569 Accepted
+[Sat Nov  8 11:33:29 2025] [::1]:58569 [200]: POST /receiver.php
+[Sat Nov  8 11:33:29 2025] [::1]:58569 Closing
+[Sat Nov  8 11:33:31 2025] [::1]:58570 Accepted
+[Sat Nov  8 11:33:31 2025] [::1]:58570 [200]: POST /receiver.php
+[Sat Nov  8 11:33:31 2025] [::1]:58570 Closing
+[Sat Nov  8 11:33:33 2025] [::1]:58571 Accepted
+[Sat Nov  8 11:33:33 2025] [::1]:58571 [200]: POST /receiver.php
+[Sat Nov  8 11:33:33 2025] [::1]:58571 Closing
+[Sat Nov  8 11:33:35 2025] [::1]:58573 Accepted
+[Sat Nov  8 11:33:35 2025] [::1]:58573 [200]: POST /receiver.php
+[Sat Nov  8 11:33:35 2025] [::1]:58573 Closing
+[Sat Nov  8 11:33:37 2025] [::1]:58574 Accepted
+[Sat Nov  8 11:33:37 2025] [::1]:58574 [200]: POST /receiver.php
+[Sat Nov  8 11:33:37 2025] [::1]:58574 Closing
+[Sat Nov  8 11:33:39 2025] [::1]:58575 Accepted
+[Sat Nov  8 11:33:39 2025] [::1]:58575 [200]: POST /receiver.php
+[Sat Nov  8 11:33:39 2025] [::1]:58575 Closing
+[Sat Nov  8 11:33:41 2025] [::1]:58576 Accepted
+[Sat Nov  8 11:33:41 2025] [::1]:58576 [200]: POST /receiver.php
+[Sat Nov  8 11:33:41 2025] [::1]:58576 Closing
+[Sat Nov  8 11:33:43 2025] [::1]:58577 Accepted
+[Sat Nov  8 11:33:43 2025] [::1]:58577 [200]: POST /receiver.php
+[Sat Nov  8 11:33:43 2025] [::1]:58577 Closing
+[Sat Nov  8 11:33:45 2025] [::1]:58578 Accepted
+[Sat Nov  8 11:33:45 2025] [::1]:58578 [200]: POST /receiver.php
+[Sat Nov  8 11:33:45 2025] [::1]:58578 Closing
+[Sat Nov  8 11:33:47 2025] [::1]:58579 Accepted
+[Sat Nov  8 11:33:47 2025] [::1]:58579 [200]: POST /receiver.php
+[Sat Nov  8 11:33:47 2025] [::1]:58579 Closing
+[Sat Nov  8 11:33:49 2025] [::1]:58580 Accepted
+[Sat Nov  8 11:33:49 2025] [::1]:58580 [200]: POST /receiver.php
+[Sat Nov  8 11:33:49 2025] [::1]:58580 Closing
+[Sat Nov  8 11:33:51 2025] [::1]:58583 Accepted
+[Sat Nov  8 11:33:51 2025] [::1]:58583 [200]: POST /receiver.php
+[Sat Nov  8 11:33:51 2025] [::1]:58583 Closing
+[Sat Nov  8 11:33:53 2025] [::1]:58584 Accepted
+[Sat Nov  8 11:33:53 2025] [::1]:58584 [200]: POST /receiver.php
+[Sat Nov  8 11:33:53 2025] [::1]:58584 Closing
+[Sat Nov  8 11:33:55 2025] [::1]:58585 Accepted
+[Sat Nov  8 11:33:55 2025] [::1]:58585 [200]: POST /receiver.php
+[Sat Nov  8 11:33:55 2025] [::1]:58585 Closing
+[Sat Nov  8 11:33:57 2025] [::1]:58586 Accepted
+[Sat Nov  8 11:33:57 2025] [::1]:58586 [200]: POST /receiver.php
+[Sat Nov  8 11:33:57 2025] [::1]:58586 Closing
+[Sat Nov  8 11:33:59 2025] [::1]:58587 Accepted
+[Sat Nov  8 11:33:59 2025] [::1]:58587 [200]: POST /receiver.php
+[Sat Nov  8 11:33:59 2025] [::1]:58587 Closing
+[Sat Nov  8 11:34:01 2025] [::1]:58589 Accepted
+[Sat Nov  8 11:34:01 2025] [::1]:58589 [200]: POST /receiver.php
+[Sat Nov  8 11:34:01 2025] [::1]:58589 Closing
+[Sat Nov  8 11:34:03 2025] [::1]:58590 Accepted
+[Sat Nov  8 11:34:03 2025] [::1]:58590 [200]: POST /receiver.php
+[Sat Nov  8 11:34:03 2025] [::1]:58590 Closing
+[Sat Nov  8 11:34:05 2025] [::1]:58591 Accepted
+[Sat Nov  8 11:34:05 2025] [::1]:58591 [200]: POST /receiver.php
+[Sat Nov  8 11:34:05 2025] [::1]:58591 Closing
+[Sat Nov  8 11:34:07 2025] [::1]:58592 Accepted
+[Sat Nov  8 11:34:07 2025] [::1]:58592 [200]: POST /receiver.php
+[Sat Nov  8 11:34:07 2025] [::1]:58592 Closing
+[Sat Nov  8 11:34:09 2025] [::1]:58593 Accepted
+[Sat Nov  8 11:34:09 2025] [::1]:58593 [200]: POST /receiver.php
+[Sat Nov  8 11:34:09 2025] [::1]:58593 Closing
+[Sat Nov  8 11:34:11 2025] [::1]:58595 Accepted
+[Sat Nov  8 11:34:11 2025] [::1]:58595 [200]: POST /receiver.php
+[Sat Nov  8 11:34:11 2025] [::1]:58595 Closing
+[Sat Nov  8 11:34:13 2025] [::1]:58596 Accepted
+[Sat Nov  8 11:34:13 2025] [::1]:58596 [200]: POST /receiver.php
+[Sat Nov  8 11:34:13 2025] [::1]:58596 Closing
+[Sat Nov  8 11:34:15 2025] [::1]:58597 Accepted
+[Sat Nov  8 11:34:15 2025] [::1]:58597 [200]: POST /receiver.php
+[Sat Nov  8 11:34:15 2025] [::1]:58597 Closing
+[Sat Nov  8 11:34:17 2025] [::1]:58598 Accepted
+[Sat Nov  8 11:34:17 2025] [::1]:58598 [200]: POST /receiver.php
+[Sat Nov  8 11:34:17 2025] [::1]:58598 Closing
+[Sat Nov  8 11:34:19 2025] [::1]:58599 Accepted
+[Sat Nov  8 11:34:19 2025] [::1]:58599 [200]: POST /receiver.php
+[Sat Nov  8 11:34:19 2025] [::1]:58599 Closing
+[Sat Nov  8 11:34:21 2025] [::1]:58601 Accepted
+[Sat Nov  8 11:34:21 2025] [::1]:58601 [200]: POST /receiver.php
+[Sat Nov  8 11:34:21 2025] [::1]:58601 Closing
+[Sat Nov  8 11:34:23 2025] [::1]:58602 Accepted
+[Sat Nov  8 11:34:23 2025] [::1]:58602 [200]: POST /receiver.php
+[Sat Nov  8 11:34:23 2025] [::1]:58602 Closing
+[Sat Nov  8 11:34:25 2025] [::1]:58603 Accepted
+[Sat Nov  8 11:34:25 2025] [::1]:58603 [200]: POST /receiver.php
+[Sat Nov  8 11:34:25 2025] [::1]:58603 Closing
+[Sat Nov  8 11:34:27 2025] [::1]:58604 Accepted
+[Sat Nov  8 11:34:27 2025] [::1]:58604 [200]: POST /receiver.php
+[Sat Nov  8 11:34:27 2025] [::1]:58604 Closing
+[Sat Nov  8 11:34:29 2025] [::1]:58605 Accepted
+[Sat Nov  8 11:34:29 2025] [::1]:58605 [200]: POST /receiver.php
+[Sat Nov  8 11:34:29 2025] [::1]:58605 Closing
+[Sat Nov  8 11:34:31 2025] [::1]:58607 Accepted
+[Sat Nov  8 11:34:31 2025] [::1]:58607 [200]: POST /receiver.php
+[Sat Nov  8 11:34:31 2025] [::1]:58607 Closing
+[Sat Nov  8 11:34:33 2025] [::1]:58608 Accepted
+[Sat Nov  8 11:34:33 2025] [::1]:58608 [200]: POST /receiver.php
+[Sat Nov  8 11:34:33 2025] [::1]:58608 Closing
+[Sat Nov  8 11:34:35 2025] [::1]:58609 Accepted
+[Sat Nov  8 11:34:35 2025] [::1]:58609 [200]: POST /receiver.php
+[Sat Nov  8 11:34:35 2025] [::1]:58609 Closing
+[Sat Nov  8 11:34:37 2025] [::1]:58611 Accepted
+[Sat Nov  8 11:34:37 2025] [::1]:58611 [200]: POST /receiver.php
+[Sat Nov  8 11:34:37 2025] [::1]:58611 Closing
+[Sat Nov  8 11:34:39 2025] [::1]:58612 Accepted
+[Sat Nov  8 11:34:39 2025] [::1]:58612 [200]: POST /receiver.php
+[Sat Nov  8 11:34:39 2025] [::1]:58612 Closing
+[Sat Nov  8 11:34:41 2025] [::1]:58614 Accepted
+[Sat Nov  8 11:34:41 2025] [::1]:58614 [200]: POST /receiver.php
+[Sat Nov  8 11:34:41 2025] [::1]:58614 Closing
+[Sat Nov  8 11:34:43 2025] [::1]:58615 Accepted
+[Sat Nov  8 11:34:43 2025] [::1]:58615 [200]: POST /receiver.php
+[Sat Nov  8 11:34:43 2025] [::1]:58615 Closing
+[Sat Nov  8 11:34:45 2025] [::1]:58616 Accepted
+[Sat Nov  8 11:34:45 2025] [::1]:58616 [200]: POST /receiver.php
+[Sat Nov  8 11:34:45 2025] [::1]:58616 Closing
+[Sat Nov  8 11:34:47 2025] [::1]:58617 Accepted
+[Sat Nov  8 11:34:47 2025] [::1]:58617 [200]: POST /receiver.php
+[Sat Nov  8 11:34:47 2025] [::1]:58617 Closing
+[Sat Nov  8 11:34:49 2025] [::1]:58618 Accepted
+[Sat Nov  8 11:34:49 2025] [::1]:58618 [200]: POST /receiver.php
+[Sat Nov  8 11:34:49 2025] [::1]:58618 Closing
+[Sat Nov  8 11:34:51 2025] [::1]:58620 Accepted
+[Sat Nov  8 11:34:51 2025] [::1]:58620 [200]: POST /receiver.php
+[Sat Nov  8 11:34:51 2025] [::1]:58620 Closing
+[Sat Nov  8 11:34:53 2025] [::1]:58621 Accepted
+[Sat Nov  8 11:34:53 2025] [::1]:58621 [200]: POST /receiver.php
+[Sat Nov  8 11:34:53 2025] [::1]:58621 Closing
+[Sat Nov  8 11:34:55 2025] [::1]:58622 Accepted
+[Sat Nov  8 11:34:55 2025] [::1]:58622 [200]: POST /receiver.php
+[Sat Nov  8 11:34:55 2025] [::1]:58622 Closing
+[Sat Nov  8 11:34:57 2025] [::1]:58623 Accepted
+[Sat Nov  8 11:34:57 2025] [::1]:58623 [200]: POST /receiver.php
+[Sat Nov  8 11:34:57 2025] [::1]:58623 Closing
+[Sat Nov  8 11:34:59 2025] [::1]:58624 Accepted
+[Sat Nov  8 11:34:59 2025] [::1]:58624 [200]: POST /receiver.php
+[Sat Nov  8 11:34:59 2025] [::1]:58624 Closing
+[Sat Nov  8 11:35:01 2025] [::1]:58627 Accepted
+[Sat Nov  8 11:35:01 2025] [::1]:58627 [200]: POST /receiver.php
+[Sat Nov  8 11:35:01 2025] [::1]:58627 Closing
+[Sat Nov  8 11:35:03 2025] [::1]:58628 Accepted
+[Sat Nov  8 11:35:03 2025] [::1]:58628 [200]: POST /receiver.php
+[Sat Nov  8 11:35:03 2025] [::1]:58628 Closing
+[Sat Nov  8 11:35:05 2025] [::1]:58629 Accepted
+[Sat Nov  8 11:35:05 2025] [::1]:58629 [200]: POST /receiver.php
+[Sat Nov  8 11:35:05 2025] [::1]:58629 Closing
+[Sat Nov  8 11:35:07 2025] [::1]:58630 Accepted
+[Sat Nov  8 11:35:07 2025] [::1]:58630 [200]: POST /receiver.php
+[Sat Nov  8 11:35:07 2025] [::1]:58630 Closing
+[Sat Nov  8 11:35:09 2025] [::1]:58631 Accepted
+[Sat Nov  8 11:35:09 2025] [::1]:58631 [200]: POST /receiver.php
+[Sat Nov  8 11:35:09 2025] [::1]:58631 Closing
+[Sat Nov  8 11:35:11 2025] [::1]:58633 Accepted
+[Sat Nov  8 11:35:11 2025] [::1]:58633 [200]: POST /receiver.php
+[Sat Nov  8 11:35:11 2025] [::1]:58633 Closing
+[Sat Nov  8 11:35:13 2025] [::1]:58634 Accepted
+[Sat Nov  8 11:35:13 2025] [::1]:58634 [200]: POST /receiver.php
+[Sat Nov  8 11:35:13 2025] [::1]:58634 Closing
+[Sat Nov  8 11:35:15 2025] [::1]:58635 Accepted
+[Sat Nov  8 11:35:15 2025] [::1]:58635 [200]: POST /receiver.php
+[Sat Nov  8 11:35:15 2025] [::1]:58635 Closing
+[Sat Nov  8 11:35:17 2025] [::1]:58636 Accepted
+[Sat Nov  8 11:35:17 2025] [::1]:58636 [200]: POST /receiver.php
+[Sat Nov  8 11:35:17 2025] [::1]:58636 Closing
+[Sat Nov  8 11:35:19 2025] [::1]:58637 Accepted
+[Sat Nov  8 11:35:19 2025] [::1]:58637 [200]: POST /receiver.php
+[Sat Nov  8 11:35:19 2025] [::1]:58637 Closing
+[Sat Nov  8 11:35:21 2025] [::1]:58639 Accepted
+[Sat Nov  8 11:35:21 2025] [::1]:58639 [200]: POST /receiver.php
+[Sat Nov  8 11:35:21 2025] [::1]:58639 Closing
+[Sat Nov  8 11:35:23 2025] [::1]:58640 Accepted
+[Sat Nov  8 11:35:23 2025] [::1]:58640 [200]: POST /receiver.php
+[Sat Nov  8 11:35:23 2025] [::1]:58640 Closing
+[Sat Nov  8 11:35:25 2025] [::1]:58641 Accepted
+[Sat Nov  8 11:35:25 2025] [::1]:58641 [200]: POST /receiver.php
+[Sat Nov  8 11:35:25 2025] [::1]:58641 Closing
+[Sat Nov  8 11:35:27 2025] [::1]:58642 Accepted
+[Sat Nov  8 11:35:27 2025] [::1]:58642 [200]: POST /receiver.php
+[Sat Nov  8 11:35:27 2025] [::1]:58642 Closing
+[Sat Nov  8 11:35:29 2025] [::1]:58643 Accepted
+[Sat Nov  8 11:35:29 2025] [::1]:58643 [200]: POST /receiver.php
+[Sat Nov  8 11:35:29 2025] [::1]:58643 Closing
+[Sat Nov  8 11:35:31 2025] [::1]:58645 Accepted
+[Sat Nov  8 11:35:31 2025] [::1]:58645 [200]: POST /receiver.php
+[Sat Nov  8 11:35:31 2025] [::1]:58645 Closing
+[Sat Nov  8 11:35:33 2025] [::1]:58646 Accepted
+[Sat Nov  8 11:35:33 2025] [::1]:58646 [200]: POST /receiver.php
+[Sat Nov  8 11:35:33 2025] [::1]:58646 Closing
+[Sat Nov  8 11:35:35 2025] [::1]:58647 Accepted
+[Sat Nov  8 11:35:35 2025] [::1]:58647 [200]: POST /receiver.php
+[Sat Nov  8 11:35:35 2025] [::1]:58647 Closing
+[Sat Nov  8 11:35:37 2025] [::1]:58648 Accepted
+[Sat Nov  8 11:35:37 2025] [::1]:58648 [200]: POST /receiver.php
+[Sat Nov  8 11:35:37 2025] [::1]:58648 Closing
+[Sat Nov  8 11:35:39 2025] [::1]:58649 Accepted
+[Sat Nov  8 11:35:39 2025] [::1]:58649 [200]: POST /receiver.php
+[Sat Nov  8 11:35:39 2025] [::1]:58649 Closing
+[Sat Nov  8 11:35:41 2025] [::1]:58651 Accepted
+[Sat Nov  8 11:35:41 2025] [::1]:58651 [200]: POST /receiver.php
+[Sat Nov  8 11:35:41 2025] [::1]:58651 Closing
+[Sat Nov  8 11:35:43 2025] [::1]:58652 Accepted
+[Sat Nov  8 11:35:43 2025] [::1]:58652 [200]: POST /receiver.php
+[Sat Nov  8 11:35:43 2025] [::1]:58652 Closing
+[Sat Nov  8 11:35:45 2025] [::1]:58653 Accepted
+[Sat Nov  8 11:35:45 2025] [::1]:58653 [200]: POST /receiver.php
+[Sat Nov  8 11:35:45 2025] [::1]:58653 Closing
+[Sat Nov  8 11:35:47 2025] [::1]:58654 Accepted
+[Sat Nov  8 11:35:47 2025] [::1]:58654 [200]: POST /receiver.php
+[Sat Nov  8 11:35:47 2025] [::1]:58654 Closing
+[Sat Nov  8 11:35:49 2025] [::1]:58656 Accepted
+[Sat Nov  8 11:35:49 2025] [::1]:58656 [200]: POST /receiver.php
+[Sat Nov  8 11:35:49 2025] [::1]:58656 Closing
+[Sat Nov  8 11:35:51 2025] [::1]:58659 Accepted
+[Sat Nov  8 11:35:51 2025] [::1]:58659 [200]: POST /receiver.php
+[Sat Nov  8 11:35:51 2025] [::1]:58659 Closing
+[Sat Nov  8 11:35:53 2025] [::1]:58660 Accepted
+[Sat Nov  8 11:35:53 2025] [::1]:58660 [200]: POST /receiver.php
+[Sat Nov  8 11:35:53 2025] [::1]:58660 Closing
+[Sat Nov  8 11:35:55 2025] [::1]:58661 Accepted
+[Sat Nov  8 11:35:55 2025] [::1]:58661 [200]: POST /receiver.php
+[Sat Nov  8 11:35:55 2025] [::1]:58661 Closing
+[Sat Nov  8 11:35:57 2025] [::1]:58662 Accepted
+[Sat Nov  8 11:35:57 2025] [::1]:58662 [200]: POST /receiver.php
+[Sat Nov  8 11:35:57 2025] [::1]:58662 Closing
+[Sat Nov  8 11:35:59 2025] [::1]:58663 Accepted
+[Sat Nov  8 11:35:59 2025] [::1]:58663 [200]: POST /receiver.php
+[Sat Nov  8 11:35:59 2025] [::1]:58663 Closing
+[Sat Nov  8 11:36:01 2025] [::1]:58665 Accepted
+[Sat Nov  8 11:36:01 2025] [::1]:58665 [200]: POST /receiver.php
+[Sat Nov  8 11:36:01 2025] [::1]:58665 Closing
+[Sat Nov  8 11:36:03 2025] [::1]:58666 Accepted
+[Sat Nov  8 11:36:03 2025] [::1]:58666 [200]: POST /receiver.php
+[Sat Nov  8 11:36:03 2025] [::1]:58666 Closing
+[Sat Nov  8 11:36:05 2025] [::1]:58667 Accepted
+[Sat Nov  8 11:36:05 2025] [::1]:58667 [200]: POST /receiver.php
+[Sat Nov  8 11:36:05 2025] [::1]:58667 Closing
+[Sat Nov  8 11:36:07 2025] [::1]:58668 Accepted
+[Sat Nov  8 11:36:07 2025] [::1]:58668 [200]: POST /receiver.php
+[Sat Nov  8 11:36:07 2025] [::1]:58668 Closing
+[Sat Nov  8 11:36:09 2025] [::1]:58670 Accepted
+[Sat Nov  8 11:36:09 2025] [::1]:58670 [200]: POST /receiver.php
+[Sat Nov  8 11:36:09 2025] [::1]:58670 Closing
+[Sat Nov  8 11:36:11 2025] [::1]:58672 Accepted
+[Sat Nov  8 11:36:11 2025] [::1]:58672 [200]: POST /receiver.php
+[Sat Nov  8 11:36:11 2025] [::1]:58672 Closing
+[Sat Nov  8 11:36:13 2025] [::1]:58673 Accepted
+[Sat Nov  8 11:36:13 2025] [::1]:58673 [200]: POST /receiver.php
+[Sat Nov  8 11:36:13 2025] [::1]:58673 Closing
+[Sat Nov  8 11:36:15 2025] [::1]:58674 Accepted
+[Sat Nov  8 11:36:15 2025] [::1]:58674 [200]: POST /receiver.php
+[Sat Nov  8 11:36:15 2025] [::1]:58674 Closing
+[Sat Nov  8 11:36:17 2025] [::1]:58675 Accepted
+[Sat Nov  8 11:36:17 2025] [::1]:58675 [200]: POST /receiver.php
+[Sat Nov  8 11:36:17 2025] [::1]:58675 Closing
+[Sat Nov  8 11:36:19 2025] [::1]:58676 Accepted
+[Sat Nov  8 11:36:19 2025] [::1]:58676 [200]: POST /receiver.php
+[Sat Nov  8 11:36:19 2025] [::1]:58676 Closing
+[Sat Nov  8 11:36:21 2025] [::1]:58678 Accepted
+[Sat Nov  8 11:36:21 2025] [::1]:58678 [200]: POST /receiver.php
+[Sat Nov  8 11:36:21 2025] [::1]:58678 Closing
+[Sat Nov  8 11:36:23 2025] [::1]:58679 Accepted
+[Sat Nov  8 11:36:23 2025] [::1]:58679 [200]: POST /receiver.php
+[Sat Nov  8 11:36:23 2025] [::1]:58679 Closing
+[Sat Nov  8 11:36:25 2025] [::1]:58680 Accepted
+[Sat Nov  8 11:36:25 2025] [::1]:58680 [200]: POST /receiver.php
+[Sat Nov  8 11:36:25 2025] [::1]:58680 Closing
+[Sat Nov  8 11:36:27 2025] [::1]:58681 Accepted
+[Sat Nov  8 11:36:27 2025] [::1]:58681 [200]: POST /receiver.php
+[Sat Nov  8 11:36:27 2025] [::1]:58681 Closing
+[Sat Nov  8 11:36:29 2025] [::1]:58682 Accepted
+[Sat Nov  8 11:36:29 2025] [::1]:58682 [200]: POST /receiver.php
+[Sat Nov  8 11:36:29 2025] [::1]:58682 Closing
+[Sat Nov  8 11:36:31 2025] [::1]:58684 Accepted
+[Sat Nov  8 11:36:31 2025] [::1]:58684 [200]: POST /receiver.php
+[Sat Nov  8 11:36:31 2025] [::1]:58684 Closing
+[Sat Nov  8 11:36:33 2025] [::1]:58685 Accepted
+[Sat Nov  8 11:36:33 2025] [::1]:58685 [200]: POST /receiver.php
+[Sat Nov  8 11:36:33 2025] [::1]:58685 Closing
+[Sat Nov  8 11:36:35 2025] [::1]:58686 Accepted
+[Sat Nov  8 11:36:35 2025] [::1]:58686 [200]: POST /receiver.php
+[Sat Nov  8 11:36:35 2025] [::1]:58686 Closing
+[Sat Nov  8 11:36:37 2025] [::1]:58687 Accepted
+[Sat Nov  8 11:36:37 2025] [::1]:58687 [200]: POST /receiver.php
+[Sat Nov  8 11:36:37 2025] [::1]:58687 Closing
+[Sat Nov  8 11:36:39 2025] [::1]:58688 Accepted
+[Sat Nov  8 11:36:39 2025] [::1]:58688 [200]: POST /receiver.php
+[Sat Nov  8 11:36:39 2025] [::1]:58688 Closing
+[Sat Nov  8 11:36:41 2025] [::1]:58690 Accepted
+[Sat Nov  8 11:36:41 2025] [::1]:58690 [200]: POST /receiver.php
+[Sat Nov  8 11:36:41 2025] [::1]:58690 Closing
+[Sat Nov  8 11:36:43 2025] [::1]:58691 Accepted
+[Sat Nov  8 11:36:43 2025] [::1]:58691 [200]: POST /receiver.php
+[Sat Nov  8 11:36:43 2025] [::1]:58691 Closing
+[Sat Nov  8 11:36:45 2025] [::1]:58692 Accepted
+[Sat Nov  8 11:36:45 2025] [::1]:58692 [200]: POST /receiver.php
+[Sat Nov  8 11:36:45 2025] [::1]:58692 Closing
+[Sat Nov  8 11:36:47 2025] [::1]:58693 Accepted
+[Sat Nov  8 11:36:47 2025] [::1]:58693 [200]: POST /receiver.php
+[Sat Nov  8 11:36:47 2025] [::1]:58693 Closing
+[Sat Nov  8 11:36:49 2025] [::1]:58694 Accepted
+[Sat Nov  8 11:36:49 2025] [::1]:58694 [200]: POST /receiver.php
+[Sat Nov  8 11:36:49 2025] [::1]:58694 Closing
+[Sat Nov  8 11:36:51 2025] [::1]:58696 Accepted
+[Sat Nov  8 11:36:51 2025] [::1]:58696 [200]: POST /receiver.php
+[Sat Nov  8 11:36:51 2025] [::1]:58696 Closing
+[Sat Nov  8 11:36:53 2025] [::1]:58697 Accepted
+[Sat Nov  8 11:36:53 2025] [::1]:58697 [200]: POST /receiver.php
+[Sat Nov  8 11:36:53 2025] [::1]:58697 Closing
+[Sat Nov  8 11:36:55 2025] [::1]:58698 Accepted
+[Sat Nov  8 11:36:55 2025] [::1]:58698 [200]: POST /receiver.php
+[Sat Nov  8 11:36:55 2025] [::1]:58698 Closing
+[Sat Nov  8 11:36:57 2025] [::1]:58699 Accepted
+[Sat Nov  8 11:36:57 2025] [::1]:58699 [200]: POST /receiver.php
+[Sat Nov  8 11:36:57 2025] [::1]:58699 Closing
+[Sat Nov  8 11:36:59 2025] [::1]:58700 Accepted
+[Sat Nov  8 11:36:59 2025] [::1]:58700 [200]: POST /receiver.php
+[Sat Nov  8 11:36:59 2025] [::1]:58700 Closing
+[Sat Nov  8 11:37:01 2025] [::1]:58702 Accepted
+[Sat Nov  8 11:37:01 2025] [::1]:58702 [200]: POST /receiver.php
+[Sat Nov  8 11:37:01 2025] [::1]:58702 Closing
+[Sat Nov  8 11:37:03 2025] [::1]:58703 Accepted
+[Sat Nov  8 11:37:03 2025] [::1]:58703 [200]: POST /receiver.php
+[Sat Nov  8 11:37:03 2025] [::1]:58703 Closing
+[Sat Nov  8 11:37:05 2025] [::1]:58704 Accepted
+[Sat Nov  8 11:37:05 2025] [::1]:58704 [200]: POST /receiver.php
+[Sat Nov  8 11:37:05 2025] [::1]:58704 Closing
+[Sat Nov  8 11:37:07 2025] [::1]:58705 Accepted
+[Sat Nov  8 11:37:07 2025] [::1]:58705 [200]: POST /receiver.php
+[Sat Nov  8 11:37:07 2025] [::1]:58705 Closing
+[Sat Nov  8 11:37:09 2025] [::1]:58706 Accepted
+[Sat Nov  8 11:37:09 2025] [::1]:58706 [200]: POST /receiver.php
+[Sat Nov  8 11:37:09 2025] [::1]:58706 Closing
+[Sat Nov  8 11:37:11 2025] [::1]:58708 Accepted
+[Sat Nov  8 11:37:11 2025] [::1]:58708 [200]: POST /receiver.php
+[Sat Nov  8 11:37:11 2025] [::1]:58708 Closing
+[Sat Nov  8 11:37:13 2025] [::1]:58709 Accepted
+[Sat Nov  8 11:37:13 2025] [::1]:58709 [200]: POST /receiver.php
+[Sat Nov  8 11:37:13 2025] [::1]:58709 Closing
+[Sat Nov  8 11:37:15 2025] [::1]:58711 Accepted
+[Sat Nov  8 11:37:15 2025] [::1]:58711 [200]: POST /receiver.php
+[Sat Nov  8 11:37:15 2025] [::1]:58711 Closing
+[Sat Nov  8 11:37:17 2025] [::1]:58712 Accepted
+[Sat Nov  8 11:37:17 2025] [::1]:58712 [200]: POST /receiver.php
+[Sat Nov  8 11:37:17 2025] [::1]:58712 Closing
+[Sat Nov  8 11:37:19 2025] [::1]:58713 Accepted
+[Sat Nov  8 11:37:19 2025] [::1]:58713 [200]: POST /receiver.php
+[Sat Nov  8 11:37:19 2025] [::1]:58713 Closing
+[Sat Nov  8 11:37:21 2025] [::1]:58715 Accepted
+[Sat Nov  8 11:37:21 2025] [::1]:58715 [200]: POST /receiver.php
+[Sat Nov  8 11:37:21 2025] [::1]:58715 Closing
+[Sat Nov  8 11:37:23 2025] [::1]:58716 Accepted
+[Sat Nov  8 11:37:23 2025] [::1]:58716 [200]: POST /receiver.php
+[Sat Nov  8 11:37:23 2025] [::1]:58716 Closing
+[Sat Nov  8 11:37:25 2025] [::1]:58717 Accepted
+[Sat Nov  8 11:37:25 2025] [::1]:58717 [200]: POST /receiver.php
+[Sat Nov  8 11:37:25 2025] [::1]:58717 Closing
+[Sat Nov  8 11:37:27 2025] [::1]:58718 Accepted
+[Sat Nov  8 11:37:27 2025] [::1]:58718 [200]: POST /receiver.php
+[Sat Nov  8 11:37:27 2025] [::1]:58718 Closing
+[Sat Nov  8 11:37:29 2025] [::1]:58719 Accepted
+[Sat Nov  8 11:37:29 2025] [::1]:58719 [200]: POST /receiver.php
+[Sat Nov  8 11:37:29 2025] [::1]:58719 Closing
+[Sat Nov  8 11:37:31 2025] [::1]:58721 Accepted
+[Sat Nov  8 11:37:31 2025] [::1]:58721 [200]: POST /receiver.php
+[Sat Nov  8 11:37:31 2025] [::1]:58721 Closing
+[Sat Nov  8 11:37:33 2025] [::1]:58722 Accepted
+[Sat Nov  8 11:37:33 2025] [::1]:58722 [200]: POST /receiver.php
+[Sat Nov  8 11:37:33 2025] [::1]:58722 Closing
+[Sat Nov  8 11:37:35 2025] [::1]:58723 Accepted
+[Sat Nov  8 11:37:35 2025] [::1]:58723 [200]: POST /receiver.php
+[Sat Nov  8 11:37:35 2025] [::1]:58723 Closing
+[Sat Nov  8 11:37:37 2025] [::1]:58724 Accepted
+[Sat Nov  8 11:37:37 2025] [::1]:58724 [200]: POST /receiver.php
+[Sat Nov  8 11:37:37 2025] [::1]:58724 Closing
+[Sat Nov  8 11:37:39 2025] [::1]:58725 Accepted
+[Sat Nov  8 11:37:39 2025] [::1]:58725 [200]: POST /receiver.php
+[Sat Nov  8 11:37:39 2025] [::1]:58725 Closing
+[Sat Nov  8 11:37:41 2025] [::1]:58727 Accepted
+[Sat Nov  8 11:37:41 2025] [::1]:58727 [200]: POST /receiver.php
+[Sat Nov  8 11:37:41 2025] [::1]:58727 Closing
+[Sat Nov  8 11:37:43 2025] [::1]:58728 Accepted
+[Sat Nov  8 11:37:43 2025] [::1]:58728 [200]: POST /receiver.php
+[Sat Nov  8 11:37:43 2025] [::1]:58728 Closing
+[Sat Nov  8 11:37:45 2025] [::1]:58729 Accepted
+[Sat Nov  8 11:37:45 2025] [::1]:58729 [200]: POST /receiver.php
+[Sat Nov  8 11:37:45 2025] [::1]:58729 Closing
+[Sat Nov  8 11:37:47 2025] [::1]:58730 Accepted
+[Sat Nov  8 11:37:47 2025] [::1]:58730 [200]: POST /receiver.php
+[Sat Nov  8 11:37:47 2025] [::1]:58730 Closing
+[Sat Nov  8 11:37:49 2025] [::1]:58731 Accepted
+[Sat Nov  8 11:37:49 2025] [::1]:58731 [200]: POST /receiver.php
+[Sat Nov  8 11:37:49 2025] [::1]:58731 Closing
+[Sat Nov  8 11:37:51 2025] [::1]:58733 Accepted
+[Sat Nov  8 11:37:51 2025] [::1]:58733 [200]: POST /receiver.php
+[Sat Nov  8 11:37:51 2025] [::1]:58733 Closing
+[Sat Nov  8 11:37:53 2025] [::1]:58734 Accepted
+[Sat Nov  8 11:37:53 2025] [::1]:58734 [200]: POST /receiver.php
+[Sat Nov  8 11:37:53 2025] [::1]:58734 Closing
+[Sat Nov  8 11:37:55 2025] [::1]:58735 Accepted
+[Sat Nov  8 11:37:55 2025] [::1]:58735 [200]: POST /receiver.php
+[Sat Nov  8 11:37:55 2025] [::1]:58735 Closing
+[Sat Nov  8 11:37:57 2025] [::1]:58736 Accepted
+[Sat Nov  8 11:37:57 2025] [::1]:58736 [200]: POST /receiver.php
+[Sat Nov  8 11:37:57 2025] [::1]:58736 Closing
+[Sat Nov  8 11:37:59 2025] [::1]:58737 Accepted
+[Sat Nov  8 11:37:59 2025] [::1]:58737 [200]: POST /receiver.php
+[Sat Nov  8 11:37:59 2025] [::1]:58737 Closing
+[Sat Nov  8 11:38:01 2025] [::1]:58739 Accepted
+[Sat Nov  8 11:38:01 2025] [::1]:58739 [200]: POST /receiver.php
+[Sat Nov  8 11:38:01 2025] [::1]:58739 Closing
+[Sat Nov  8 11:38:03 2025] [::1]:58740 Accepted
+[Sat Nov  8 11:38:03 2025] [::1]:58740 [200]: POST /receiver.php
+[Sat Nov  8 11:38:03 2025] [::1]:58740 Closing
+[Sat Nov  8 11:38:05 2025] [::1]:58741 Accepted
+[Sat Nov  8 11:38:05 2025] [::1]:58741 [200]: POST /receiver.php
+[Sat Nov  8 11:38:05 2025] [::1]:58741 Closing
+[Sat Nov  8 11:38:07 2025] [::1]:58742 Accepted
+[Sat Nov  8 11:38:07 2025] [::1]:58742 [200]: POST /receiver.php
+[Sat Nov  8 11:38:07 2025] [::1]:58742 Closing
+[Sat Nov  8 11:38:09 2025] [::1]:58743 Accepted
+[Sat Nov  8 11:38:09 2025] [::1]:58743 [200]: POST /receiver.php
+[Sat Nov  8 11:38:09 2025] [::1]:58743 Closing
+[Sat Nov  8 11:38:11 2025] [::1]:58745 Accepted
+[Sat Nov  8 11:38:11 2025] [::1]:58745 [200]: POST /receiver.php
+[Sat Nov  8 11:38:11 2025] [::1]:58745 Closing
+[Sat Nov  8 11:38:13 2025] [::1]:58746 Accepted
+[Sat Nov  8 11:38:13 2025] [::1]:58746 [200]: POST /receiver.php
+[Sat Nov  8 11:38:13 2025] [::1]:58746 Closing
+[Sat Nov  8 11:38:15 2025] [::1]:58747 Accepted
+[Sat Nov  8 11:38:15 2025] [::1]:58747 [200]: POST /receiver.php
+[Sat Nov  8 11:38:15 2025] [::1]:58747 Closing
+[Sat Nov  8 11:38:17 2025] [::1]:58748 Accepted
+[Sat Nov  8 11:38:17 2025] [::1]:58748 [200]: POST /receiver.php
+[Sat Nov  8 11:38:17 2025] [::1]:58748 Closing
+[Sat Nov  8 11:38:19 2025] [::1]:58749 Accepted
+[Sat Nov  8 11:38:19 2025] [::1]:58749 [200]: POST /receiver.php
+[Sat Nov  8 11:38:19 2025] [::1]:58749 Closing
+[Sat Nov  8 11:38:21 2025] [::1]:58751 Accepted
+[Sat Nov  8 11:38:21 2025] [::1]:58751 [200]: POST /receiver.php
+[Sat Nov  8 11:38:21 2025] [::1]:58751 Closing
+[Sat Nov  8 11:38:23 2025] [::1]:58753 Accepted
+[Sat Nov  8 11:38:23 2025] [::1]:58753 [200]: POST /receiver.php
+[Sat Nov  8 11:38:23 2025] [::1]:58753 Closing
+[Sat Nov  8 11:38:25 2025] [::1]:58754 Accepted
+[Sat Nov  8 11:38:25 2025] [::1]:58754 [200]: POST /receiver.php
+[Sat Nov  8 11:38:25 2025] [::1]:58754 Closing
+[Sat Nov  8 11:38:27 2025] [::1]:58755 Accepted
+[Sat Nov  8 11:38:27 2025] [::1]:58755 [200]: POST /receiver.php
+[Sat Nov  8 11:38:27 2025] [::1]:58755 Closing
+[Sat Nov  8 11:38:29 2025] [::1]:58756 Accepted
+[Sat Nov  8 11:38:29 2025] [::1]:58756 [200]: POST /receiver.php
+[Sat Nov  8 11:38:29 2025] [::1]:58756 Closing
+[Sat Nov  8 11:38:31 2025] [::1]:58759 Accepted
+[Sat Nov  8 11:38:31 2025] [::1]:58759 [200]: POST /receiver.php
+[Sat Nov  8 11:38:31 2025] [::1]:58759 Closing
+[Sat Nov  8 11:38:33 2025] [::1]:58760 Accepted
+[Sat Nov  8 11:38:33 2025] [::1]:58760 [200]: POST /receiver.php
+[Sat Nov  8 11:38:33 2025] [::1]:58760 Closing
+[Sat Nov  8 11:38:35 2025] [::1]:58761 Accepted
+[Sat Nov  8 11:38:35 2025] [::1]:58761 [200]: POST /receiver.php
+[Sat Nov  8 11:38:35 2025] [::1]:58761 Closing
+[Sat Nov  8 11:38:37 2025] [::1]:58762 Accepted
+[Sat Nov  8 11:38:37 2025] [::1]:58762 [200]: POST /receiver.php
+[Sat Nov  8 11:38:37 2025] [::1]:58762 Closing
+[Sat Nov  8 11:38:39 2025] [::1]:58763 Accepted
+[Sat Nov  8 11:38:39 2025] [::1]:58763 [200]: POST /receiver.php
+[Sat Nov  8 11:38:39 2025] [::1]:58763 Closing
+[Sat Nov  8 11:38:41 2025] [::1]:58765 Accepted
+[Sat Nov  8 11:38:41 2025] [::1]:58765 [200]: POST /receiver.php
+[Sat Nov  8 11:38:41 2025] [::1]:58765 Closing
+[Sat Nov  8 11:38:43 2025] [::1]:58766 Accepted
+[Sat Nov  8 11:38:43 2025] [::1]:58766 [200]: POST /receiver.php
+[Sat Nov  8 11:38:43 2025] [::1]:58766 Closing
+[Sat Nov  8 11:38:45 2025] [::1]:58767 Accepted
+[Sat Nov  8 11:38:45 2025] [::1]:58767 [200]: POST /receiver.php
+[Sat Nov  8 11:38:45 2025] [::1]:58767 Closing
+[Sat Nov  8 11:38:47 2025] [::1]:58768 Accepted
+[Sat Nov  8 11:38:47 2025] [::1]:58768 [200]: POST /receiver.php
+[Sat Nov  8 11:38:47 2025] [::1]:58768 Closing
+[Sat Nov  8 11:38:49 2025] [::1]:58769 Accepted
+[Sat Nov  8 11:38:49 2025] [::1]:58769 [200]: POST /receiver.php
+[Sat Nov  8 11:38:49 2025] [::1]:58769 Closing
+[Sat Nov  8 11:38:51 2025] [::1]:58771 Accepted
+[Sat Nov  8 11:38:51 2025] [::1]:58771 [200]: POST /receiver.php
+[Sat Nov  8 11:38:51 2025] [::1]:58771 Closing
+[Sat Nov  8 11:38:53 2025] [::1]:58772 Accepted
+[Sat Nov  8 11:38:53 2025] [::1]:58772 [200]: POST /receiver.php
+[Sat Nov  8 11:38:53 2025] [::1]:58772 Closing
+[Sat Nov  8 11:38:55 2025] [::1]:58773 Accepted
+[Sat Nov  8 11:38:55 2025] [::1]:58773 [200]: POST /receiver.php
+[Sat Nov  8 11:38:55 2025] [::1]:58773 Closing
+[Sat Nov  8 11:38:57 2025] [::1]:58774 Accepted
+[Sat Nov  8 11:38:57 2025] [::1]:58774 [200]: POST /receiver.php
+[Sat Nov  8 11:38:57 2025] [::1]:58774 Closing
+[Sat Nov  8 11:38:59 2025] [::1]:58775 Accepted
+[Sat Nov  8 11:38:59 2025] [::1]:58775 [200]: POST /receiver.php
+[Sat Nov  8 11:38:59 2025] [::1]:58775 Closing
+[Sat Nov  8 11:39:01 2025] [::1]:58777 Accepted
+[Sat Nov  8 11:39:01 2025] [::1]:58777 [200]: POST /receiver.php
+[Sat Nov  8 11:39:01 2025] [::1]:58777 Closing
+[Sat Nov  8 11:39:03 2025] [::1]:58778 Accepted
+[Sat Nov  8 11:39:03 2025] [::1]:58778 [200]: POST /receiver.php
+[Sat Nov  8 11:39:03 2025] [::1]:58778 Closing
+[Sat Nov  8 11:39:05 2025] [::1]:58779 Accepted
+[Sat Nov  8 11:39:05 2025] [::1]:58779 [200]: POST /receiver.php
+[Sat Nov  8 11:39:05 2025] [::1]:58779 Closing
+[Sat Nov  8 11:39:07 2025] [::1]:58780 Accepted
+[Sat Nov  8 11:39:07 2025] [::1]:58780 [200]: POST /receiver.php
+[Sat Nov  8 11:39:07 2025] [::1]:58780 Closing
+[Sat Nov  8 11:39:09 2025] [::1]:58781 Accepted
+[Sat Nov  8 11:39:09 2025] [::1]:58781 [200]: POST /receiver.php
+[Sat Nov  8 11:39:09 2025] [::1]:58781 Closing
+[Sat Nov  8 11:39:11 2025] [::1]:58783 Accepted
+[Sat Nov  8 11:39:11 2025] [::1]:58783 [200]: POST /receiver.php
+[Sat Nov  8 11:39:11 2025] [::1]:58783 Closing
+[Sat Nov  8 11:39:13 2025] [::1]:58784 Accepted
+[Sat Nov  8 11:39:13 2025] [::1]:58784 [200]: POST /receiver.php
+[Sat Nov  8 11:39:13 2025] [::1]:58784 Closing
+[Sat Nov  8 11:39:15 2025] [::1]:58785 Accepted
+[Sat Nov  8 11:39:15 2025] [::1]:58785 [200]: POST /receiver.php
+[Sat Nov  8 11:39:15 2025] [::1]:58785 Closing
+[Sat Nov  8 11:39:17 2025] [::1]:58786 Accepted
+[Sat Nov  8 11:39:17 2025] [::1]:58786 [200]: POST /receiver.php
+[Sat Nov  8 11:39:17 2025] [::1]:58786 Closing
+[Sat Nov  8 11:39:19 2025] [::1]:58787 Accepted
+[Sat Nov  8 11:39:19 2025] [::1]:58787 [200]: POST /receiver.php
+[Sat Nov  8 11:39:19 2025] [::1]:58787 Closing
+[Sat Nov  8 11:39:21 2025] [::1]:58789 Accepted
+[Sat Nov  8 11:39:21 2025] [::1]:58789 [200]: POST /receiver.php
+[Sat Nov  8 11:39:21 2025] [::1]:58789 Closing
+[Sat Nov  8 11:39:23 2025] [::1]:58790 Accepted
+[Sat Nov  8 11:39:23 2025] [::1]:58790 [200]: POST /receiver.php
+[Sat Nov  8 11:39:23 2025] [::1]:58790 Closing
+[Sat Nov  8 11:39:25 2025] [::1]:58792 Accepted
+[Sat Nov  8 11:39:25 2025] [::1]:58792 [200]: POST /receiver.php
+[Sat Nov  8 11:39:25 2025] [::1]:58792 Closing
+[Sat Nov  8 11:39:27 2025] [::1]:58793 Accepted
+[Sat Nov  8 11:39:27 2025] [::1]:58793 [200]: POST /receiver.php
+[Sat Nov  8 11:39:27 2025] [::1]:58793 Closing
+[Sat Nov  8 11:39:29 2025] [::1]:58794 Accepted
+[Sat Nov  8 11:39:29 2025] [::1]:58794 [200]: POST /receiver.php
+[Sat Nov  8 11:39:29 2025] [::1]:58794 Closing
+[Sat Nov  8 11:39:31 2025] [::1]:58796 Accepted
+[Sat Nov  8 11:39:31 2025] [::1]:58796 [200]: POST /receiver.php
+[Sat Nov  8 11:39:31 2025] [::1]:58796 Closing
+[Sat Nov  8 11:39:33 2025] [::1]:58798 Accepted
+[Sat Nov  8 11:39:33 2025] [::1]:58798 [200]: POST /receiver.php
+[Sat Nov  8 11:39:33 2025] [::1]:58798 Closing
+[Sat Nov  8 11:39:35 2025] [::1]:58799 Accepted
+[Sat Nov  8 11:39:35 2025] [::1]:58799 [200]: POST /receiver.php
+[Sat Nov  8 11:39:35 2025] [::1]:58799 Closing
+[Sat Nov  8 11:39:37 2025] [::1]:58802 Accepted
+[Sat Nov  8 11:39:37 2025] [::1]:58802 [200]: POST /receiver.php
+[Sat Nov  8 11:39:37 2025] [::1]:58802 Closing
+[Sat Nov  8 11:39:39 2025] [::1]:58803 Accepted
+[Sat Nov  8 11:39:39 2025] [::1]:58803 [200]: POST /receiver.php
+[Sat Nov  8 11:39:39 2025] [::1]:58803 Closing
+[Sat Nov  8 11:39:41 2025] [::1]:58808 Accepted
+[Sat Nov  8 11:39:41 2025] [::1]:58808 [200]: POST /receiver.php
+[Sat Nov  8 11:39:41 2025] [::1]:58808 Closing
+[Sat Nov  8 11:39:43 2025] [::1]:58809 Accepted
+[Sat Nov  8 11:39:43 2025] [::1]:58809 [200]: POST /receiver.php
+[Sat Nov  8 11:39:43 2025] [::1]:58809 Closing
+[Sat Nov  8 11:39:45 2025] [::1]:58810 Accepted
+[Sat Nov  8 11:39:45 2025] [::1]:58810 [200]: POST /receiver.php
+[Sat Nov  8 11:39:45 2025] [::1]:58810 Closing
+[Sat Nov  8 11:39:47 2025] [::1]:58811 Accepted
+[Sat Nov  8 11:39:47 2025] [::1]:58811 [200]: POST /receiver.php
+[Sat Nov  8 11:39:47 2025] [::1]:58811 Closing
+[Sat Nov  8 11:39:49 2025] [::1]:58812 Accepted
+[Sat Nov  8 11:39:49 2025] [::1]:58812 [200]: POST /receiver.php
+[Sat Nov  8 11:39:49 2025] [::1]:58812 Closing
+[Sat Nov  8 11:39:51 2025] [::1]:58814 Accepted
+[Sat Nov  8 11:39:51 2025] [::1]:58814 [200]: POST /receiver.php
+[Sat Nov  8 11:39:51 2025] [::1]:58814 Closing
+[Sat Nov  8 11:39:53 2025] [::1]:58815 Accepted
+[Sat Nov  8 11:39:53 2025] [::1]:58815 [200]: POST /receiver.php
+[Sat Nov  8 11:39:53 2025] [::1]:58815 Closing
+[Sat Nov  8 11:39:55 2025] [::1]:58816 Accepted
+[Sat Nov  8 11:39:55 2025] [::1]:58816 [200]: POST /receiver.php
+[Sat Nov  8 11:39:55 2025] [::1]:58816 Closing
+[Sat Nov  8 11:39:57 2025] [::1]:58817 Accepted
+[Sat Nov  8 11:39:57 2025] [::1]:58817 [200]: POST /receiver.php
+[Sat Nov  8 11:39:57 2025] [::1]:58817 Closing
+[Sat Nov  8 11:39:59 2025] [::1]:58818 Accepted
+[Sat Nov  8 11:39:59 2025] [::1]:58818 [200]: POST /receiver.php
+[Sat Nov  8 11:39:59 2025] [::1]:58818 Closing
+[Sat Nov  8 11:40:01 2025] [::1]:58820 Accepted
+[Sat Nov  8 11:40:01 2025] [::1]:58820 [200]: POST /receiver.php
+[Sat Nov  8 11:40:01 2025] [::1]:58820 Closing
+[Sat Nov  8 11:40:03 2025] [::1]:58821 Accepted
+[Sat Nov  8 11:40:03 2025] [::1]:58821 [200]: POST /receiver.php
+[Sat Nov  8 11:40:03 2025] [::1]:58821 Closing
+[Sat Nov  8 11:40:05 2025] [::1]:58822 Accepted
+[Sat Nov  8 11:40:05 2025] [::1]:58822 [200]: POST /receiver.php
+[Sat Nov  8 11:40:05 2025] [::1]:58822 Closing
+[Sat Nov  8 11:40:07 2025] [::1]:58823 Accepted
+[Sat Nov  8 11:40:07 2025] [::1]:58823 [200]: POST /receiver.php
+[Sat Nov  8 11:40:07 2025] [::1]:58823 Closing
+[Sat Nov  8 11:40:09 2025] [::1]:58824 Accepted
+[Sat Nov  8 11:40:09 2025] [::1]:58824 [200]: POST /receiver.php
+[Sat Nov  8 11:40:09 2025] [::1]:58824 Closing
+[Sat Nov  8 11:40:11 2025] [::1]:58826 Accepted
+[Sat Nov  8 11:40:11 2025] [::1]:58826 [200]: POST /receiver.php
+[Sat Nov  8 11:40:11 2025] [::1]:58826 Closing
+[Sat Nov  8 11:40:13 2025] [::1]:58827 Accepted
+[Sat Nov  8 11:40:13 2025] [::1]:58827 [200]: POST /receiver.php
+[Sat Nov  8 11:40:13 2025] [::1]:58827 Closing
+[Sat Nov  8 11:40:15 2025] [::1]:58828 Accepted
+[Sat Nov  8 11:40:15 2025] [::1]:58828 [200]: POST /receiver.php
+[Sat Nov  8 11:40:15 2025] [::1]:58828 Closing
+[Sat Nov  8 11:40:17 2025] [::1]:58829 Accepted
+[Sat Nov  8 11:40:17 2025] [::1]:58829 [200]: POST /receiver.php
+[Sat Nov  8 11:40:17 2025] [::1]:58829 Closing
+[Sat Nov  8 11:40:19 2025] [::1]:58830 Accepted
+[Sat Nov  8 11:40:19 2025] [::1]:58830 [200]: POST /receiver.php
+[Sat Nov  8 11:40:19 2025] [::1]:58830 Closing
+[Sat Nov  8 11:40:21 2025] [::1]:58832 Accepted
+[Sat Nov  8 11:40:21 2025] [::1]:58832 [200]: POST /receiver.php
+[Sat Nov  8 11:40:21 2025] [::1]:58832 Closing
+[Sat Nov  8 11:40:23 2025] [::1]:58833 Accepted
+[Sat Nov  8 11:40:23 2025] [::1]:58833 [200]: POST /receiver.php
+[Sat Nov  8 11:40:23 2025] [::1]:58833 Closing
+[Sat Nov  8 11:40:25 2025] [::1]:58834 Accepted
+[Sat Nov  8 11:40:25 2025] [::1]:58834 [200]: POST /receiver.php
+[Sat Nov  8 11:40:25 2025] [::1]:58834 Closing
+[Sat Nov  8 11:40:27 2025] [::1]:58835 Accepted
+[Sat Nov  8 11:40:27 2025] [::1]:58835 [200]: POST /receiver.php
+[Sat Nov  8 11:40:27 2025] [::1]:58835 Closing
+[Sat Nov  8 11:40:29 2025] [::1]:58836 Accepted
+[Sat Nov  8 11:40:29 2025] [::1]:58836 [200]: POST /receiver.php
+[Sat Nov  8 11:40:29 2025] [::1]:58836 Closing
+[Sat Nov  8 11:40:31 2025] [::1]:58838 Accepted
+[Sat Nov  8 11:40:31 2025] [::1]:58838 [200]: POST /receiver.php
+[Sat Nov  8 11:40:31 2025] [::1]:58838 Closing
+[Sat Nov  8 11:40:33 2025] [::1]:58839 Accepted
+[Sat Nov  8 11:40:33 2025] [::1]:58839 [200]: POST /receiver.php
+[Sat Nov  8 11:40:33 2025] [::1]:58839 Closing
+[Sat Nov  8 11:40:35 2025] [::1]:58840 Accepted
+[Sat Nov  8 11:40:35 2025] [::1]:58840 [200]: POST /receiver.php
+[Sat Nov  8 11:40:35 2025] [::1]:58840 Closing
+[Sat Nov  8 11:40:37 2025] [::1]:58841 Accepted
+[Sat Nov  8 11:40:37 2025] [::1]:58841 [200]: POST /receiver.php
+[Sat Nov  8 11:40:37 2025] [::1]:58841 Closing
+[Sat Nov  8 11:40:39 2025] [::1]:58842 Accepted
+[Sat Nov  8 11:40:39 2025] [::1]:58842 [200]: POST /receiver.php
+[Sat Nov  8 11:40:39 2025] [::1]:58842 Closing
+[Sat Nov  8 11:40:41 2025] [::1]:58844 Accepted
+[Sat Nov  8 11:40:41 2025] [::1]:58844 [200]: POST /receiver.php
+[Sat Nov  8 11:40:41 2025] [::1]:58844 Closing
+[Sat Nov  8 11:40:43 2025] [::1]:58845 Accepted
+[Sat Nov  8 11:40:43 2025] [::1]:58845 [200]: POST /receiver.php
+[Sat Nov  8 11:40:43 2025] [::1]:58845 Closing
+[Sat Nov  8 11:40:45 2025] [::1]:58846 Accepted
+[Sat Nov  8 11:40:45 2025] [::1]:58846 [200]: POST /receiver.php
+[Sat Nov  8 11:40:45 2025] [::1]:58846 Closing
+[Sat Nov  8 11:40:47 2025] [::1]:58847 Accepted
+[Sat Nov  8 11:40:47 2025] [::1]:58847 [200]: POST /receiver.php
+[Sat Nov  8 11:40:47 2025] [::1]:58847 Closing
+[Sat Nov  8 11:40:49 2025] [::1]:58849 Accepted
+[Sat Nov  8 11:40:49 2025] [::1]:58849 [200]: POST /receiver.php
+[Sat Nov  8 11:40:49 2025] [::1]:58849 Closing
+[Sat Nov  8 11:40:51 2025] [::1]:58851 Accepted
+[Sat Nov  8 11:40:51 2025] [::1]:58851 [200]: POST /receiver.php
+[Sat Nov  8 11:40:51 2025] [::1]:58851 Closing
+[Sat Nov  8 11:40:53 2025] [::1]:58852 Accepted
+[Sat Nov  8 11:40:53 2025] [::1]:58852 [200]: POST /receiver.php
+[Sat Nov  8 11:40:53 2025] [::1]:58852 Closing
+[Sat Nov  8 11:40:55 2025] [::1]:58853 Accepted
+[Sat Nov  8 11:40:55 2025] [::1]:58853 [200]: POST /receiver.php
+[Sat Nov  8 11:40:55 2025] [::1]:58853 Closing
+[Sat Nov  8 11:40:57 2025] [::1]:58854 Accepted
+[Sat Nov  8 11:40:57 2025] [::1]:58854 [200]: POST /receiver.php
+[Sat Nov  8 11:40:57 2025] [::1]:58854 Closing
+[Sat Nov  8 11:40:59 2025] [::1]:58855 Accepted
+[Sat Nov  8 11:40:59 2025] [::1]:58855 [200]: POST /receiver.php
+[Sat Nov  8 11:40:59 2025] [::1]:58855 Closing
+[Sat Nov  8 11:41:01 2025] [::1]:58857 Accepted
+[Sat Nov  8 11:41:01 2025] [::1]:58857 [200]: POST /receiver.php
+[Sat Nov  8 11:41:01 2025] [::1]:58857 Closing
+[Sat Nov  8 11:41:03 2025] [::1]:58858 Accepted
+[Sat Nov  8 11:41:03 2025] [::1]:58858 [200]: POST /receiver.php
+[Sat Nov  8 11:41:03 2025] [::1]:58858 Closing
+[Sat Nov  8 11:41:05 2025] [::1]:58859 Accepted
+[Sat Nov  8 11:41:05 2025] [::1]:58859 [200]: POST /receiver.php
+[Sat Nov  8 11:41:05 2025] [::1]:58859 Closing
+[Sat Nov  8 11:41:07 2025] [::1]:58860 Accepted
+[Sat Nov  8 11:41:07 2025] [::1]:58860 [200]: POST /receiver.php
+[Sat Nov  8 11:41:07 2025] [::1]:58860 Closing
+[Sat Nov  8 11:41:09 2025] [::1]:58861 Accepted
+[Sat Nov  8 11:41:09 2025] [::1]:58861 [200]: POST /receiver.php
+[Sat Nov  8 11:41:09 2025] [::1]:58861 Closing
+[Sat Nov  8 11:41:11 2025] [::1]:58863 Accepted
+[Sat Nov  8 11:41:11 2025] [::1]:58863 [200]: POST /receiver.php
+[Sat Nov  8 11:41:11 2025] [::1]:58863 Closing
+[Sat Nov  8 11:41:13 2025] [::1]:58864 Accepted
+[Sat Nov  8 11:41:13 2025] [::1]:58864 [200]: POST /receiver.php
+[Sat Nov  8 11:41:13 2025] [::1]:58864 Closing
+[Sat Nov  8 11:41:15 2025] [::1]:58865 Accepted
+[Sat Nov  8 11:41:15 2025] [::1]:58865 [200]: POST /receiver.php
+[Sat Nov  8 11:41:15 2025] [::1]:58865 Closing
+[Sat Nov  8 11:41:17 2025] [::1]:58866 Accepted
+[Sat Nov  8 11:41:17 2025] [::1]:58866 [200]: POST /receiver.php
+[Sat Nov  8 11:41:17 2025] [::1]:58866 Closing
+[Sat Nov  8 11:41:19 2025] [::1]:58867 Accepted
+[Sat Nov  8 11:41:19 2025] [::1]:58867 [200]: POST /receiver.php
+[Sat Nov  8 11:41:19 2025] [::1]:58867 Closing
+[Sat Nov  8 11:41:21 2025] [::1]:58869 Accepted
+[Sat Nov  8 11:41:21 2025] [::1]:58869 [200]: POST /receiver.php
+[Sat Nov  8 11:41:21 2025] [::1]:58869 Closing
+[Sat Nov  8 11:41:23 2025] [::1]:58870 Accepted
+[Sat Nov  8 11:41:23 2025] [::1]:58870 [200]: POST /receiver.php
+[Sat Nov  8 11:41:23 2025] [::1]:58870 Closing
+[Sat Nov  8 11:41:25 2025] [::1]:58871 Accepted
+[Sat Nov  8 11:41:25 2025] [::1]:58871 [200]: POST /receiver.php
+[Sat Nov  8 11:41:25 2025] [::1]:58871 Closing
+[Sat Nov  8 11:41:27 2025] [::1]:58872 Accepted
+[Sat Nov  8 11:41:27 2025] [::1]:58872 [200]: POST /receiver.php
+[Sat Nov  8 11:41:27 2025] [::1]:58872 Closing
+[Sat Nov  8 11:41:29 2025] [::1]:58873 Accepted
+[Sat Nov  8 11:41:29 2025] [::1]:58873 [200]: POST /receiver.php
+[Sat Nov  8 11:41:29 2025] [::1]:58873 Closing
+[Sat Nov  8 11:41:31 2025] [::1]:58875 Accepted
+[Sat Nov  8 11:41:31 2025] [::1]:58875 [200]: POST /receiver.php
+[Sat Nov  8 11:41:31 2025] [::1]:58875 Closing
+[Sat Nov  8 11:41:33 2025] [::1]:58876 Accepted
+[Sat Nov  8 11:41:33 2025] [::1]:58876 [200]: POST /receiver.php
+[Sat Nov  8 11:41:33 2025] [::1]:58876 Closing
+[Sat Nov  8 11:41:35 2025] [::1]:58877 Accepted
+[Sat Nov  8 11:41:35 2025] [::1]:58877 [200]: POST /receiver.php
+[Sat Nov  8 11:41:35 2025] [::1]:58877 Closing
+[Sat Nov  8 11:41:37 2025] [::1]:58878 Accepted
+[Sat Nov  8 11:41:37 2025] [::1]:58878 [200]: POST /receiver.php
+[Sat Nov  8 11:41:37 2025] [::1]:58878 Closing
+[Sat Nov  8 11:41:39 2025] [::1]:58879 Accepted
+[Sat Nov  8 11:41:39 2025] [::1]:58879 [200]: POST /receiver.php
+[Sat Nov  8 11:41:39 2025] [::1]:58879 Closing
+[Sat Nov  8 11:41:41 2025] [::1]:58881 Accepted
+[Sat Nov  8 11:41:41 2025] [::1]:58881 [200]: POST /receiver.php
+[Sat Nov  8 11:41:41 2025] [::1]:58881 Closing
+[Sat Nov  8 11:41:43 2025] [::1]:58882 Accepted
+[Sat Nov  8 11:41:43 2025] [::1]:58882 [200]: POST /receiver.php
+[Sat Nov  8 11:41:43 2025] [::1]:58882 Closing
+[Sat Nov  8 11:41:45 2025] [::1]:58883 Accepted
+[Sat Nov  8 11:41:45 2025] [::1]:58883 [200]: POST /receiver.php
+[Sat Nov  8 11:41:45 2025] [::1]:58883 Closing
+[Sat Nov  8 11:41:47 2025] [::1]:58884 Accepted
+[Sat Nov  8 11:41:47 2025] [::1]:58884 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:41:47 2025] [::1]:58884 Closing
+[Sat Nov  8 11:41:47 2025] [::1]:58885 Accepted
+[Sat Nov  8 11:41:47 2025] [::1]:58885 [200]: POST /receiver.php
+[Sat Nov  8 11:41:47 2025] [::1]:58885 Closing
+[Sat Nov  8 11:41:49 2025] [::1]:58886 Accepted
+[Sat Nov  8 11:41:49 2025] [::1]:58886 [200]: POST /receiver.php
+[Sat Nov  8 11:41:49 2025] [::1]:58886 Closing
+[Sat Nov  8 11:41:51 2025] [::1]:58888 Accepted
+[Sat Nov  8 11:41:51 2025] [::1]:58888 [200]: POST /receiver.php
+[Sat Nov  8 11:41:51 2025] [::1]:58888 Closing
+[Sat Nov  8 11:41:52 2025] [::1]:58889 Accepted
+[Sat Nov  8 11:41:52 2025] [::1]:58889 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 11:41:52 2025] [::1]:58889 Closing
+[Sat Nov  8 11:41:53 2025] [::1]:58890 Accepted
+[Sat Nov  8 11:41:53 2025] [::1]:58890 [200]: POST /receiver.php
+[Sat Nov  8 11:41:53 2025] [::1]:58890 Closing
+[Sat Nov  8 11:41:55 2025] [::1]:58891 Accepted
+[Sat Nov  8 11:41:55 2025] [::1]:58891 [200]: POST /receiver.php
+[Sat Nov  8 11:41:55 2025] [::1]:58891 Closing
+[Sat Nov  8 11:41:57 2025] [::1]:58892 Accepted
+[Sat Nov  8 11:41:57 2025] [::1]:58892 [200]: POST /receiver.php
+[Sat Nov  8 11:41:57 2025] [::1]:58892 Closing
+[Sat Nov  8 11:41:59 2025] [::1]:58893 Accepted
+[Sat Nov  8 11:41:59 2025] [::1]:58893 [200]: POST /receiver.php
+[Sat Nov  8 11:41:59 2025] [::1]:58893 Closing
+[Sat Nov  8 11:42:01 2025] [::1]:58895 Accepted
+[Sat Nov  8 11:42:01 2025] [::1]:58895 [200]: POST /receiver.php
+[Sat Nov  8 11:42:01 2025] [::1]:58895 Closing
+[Sat Nov  8 11:42:03 2025] [::1]:58896 Accepted
+[Sat Nov  8 11:42:03 2025] [::1]:58896 [200]: POST /receiver.php
+[Sat Nov  8 11:42:03 2025] [::1]:58896 Closing
+[Sat Nov  8 11:42:05 2025] [::1]:58897 Accepted
+[Sat Nov  8 11:42:05 2025] [::1]:58897 [200]: POST /receiver.php
+[Sat Nov  8 11:42:05 2025] [::1]:58897 Closing
+[Sat Nov  8 11:42:07 2025] [::1]:58900 Accepted
+[Sat Nov  8 11:42:07 2025] [::1]:58900 [200]: POST /receiver.php
+[Sat Nov  8 11:42:07 2025] [::1]:58900 Closing
+[Sat Nov  8 11:42:09 2025] [::1]:58901 Accepted
+[Sat Nov  8 11:42:09 2025] [::1]:58901 [200]: POST /receiver.php
+[Sat Nov  8 11:42:09 2025] [::1]:58901 Closing
+[Sat Nov  8 11:42:11 2025] [::1]:58904 Accepted
+[Sat Nov  8 11:42:11 2025] [::1]:58904 [200]: POST /receiver.php
+[Sat Nov  8 11:42:11 2025] [::1]:58904 Closing
+[Sat Nov  8 11:42:13 2025] [::1]:58905 Accepted
+[Sat Nov  8 11:42:13 2025] [::1]:58905 [200]: POST /receiver.php
+[Sat Nov  8 11:42:13 2025] [::1]:58905 Closing
+[Sat Nov  8 11:42:15 2025] [::1]:58906 Accepted
+[Sat Nov  8 11:42:15 2025] [::1]:58906 [200]: POST /receiver.php
+[Sat Nov  8 11:42:15 2025] [::1]:58906 Closing
+[Sat Nov  8 11:42:17 2025] [::1]:58907 Accepted
+[Sat Nov  8 11:42:17 2025] [::1]:58907 [200]: POST /receiver.php
+[Sat Nov  8 11:42:17 2025] [::1]:58907 Closing
+[Sat Nov  8 11:42:19 2025] [::1]:58909 Accepted
+[Sat Nov  8 11:42:19 2025] [::1]:58909 [200]: POST /receiver.php
+[Sat Nov  8 11:42:19 2025] [::1]:58909 Closing
+[Sat Nov  8 11:42:21 2025] [::1]:58911 Accepted
+[Sat Nov  8 11:42:21 2025] [::1]:58911 [200]: POST /receiver.php
+[Sat Nov  8 11:42:21 2025] [::1]:58911 Closing
+[Sat Nov  8 11:42:23 2025] [::1]:58912 Accepted
+[Sat Nov  8 11:42:23 2025] [::1]:58912 [200]: POST /receiver.php
+[Sat Nov  8 11:42:23 2025] [::1]:58912 Closing
+[Sat Nov  8 11:42:25 2025] [::1]:58913 Accepted
+[Sat Nov  8 11:42:25 2025] [::1]:58913 [200]: POST /receiver.php
+[Sat Nov  8 11:42:25 2025] [::1]:58913 Closing
+[Sat Nov  8 11:42:27 2025] [::1]:58914 Accepted
+[Sat Nov  8 11:42:27 2025] [::1]:58914 [200]: POST /receiver.php
+[Sat Nov  8 11:42:27 2025] [::1]:58914 Closing
+[Sat Nov  8 11:42:29 2025] [::1]:58916 Accepted
+[Sat Nov  8 11:42:29 2025] [::1]:58916 [200]: POST /receiver.php
+[Sat Nov  8 11:42:29 2025] [::1]:58916 Closing
+[Sat Nov  8 11:42:31 2025] [::1]:58918 Accepted
+[Sat Nov  8 11:42:31 2025] [::1]:58918 [200]: POST /receiver.php
+[Sat Nov  8 11:42:31 2025] [::1]:58918 Closing
+[Sat Nov  8 11:42:33 2025] [::1]:58920 Accepted
+[Sat Nov  8 11:42:33 2025] [::1]:58920 [200]: POST /receiver.php
+[Sat Nov  8 11:42:33 2025] [::1]:58920 Closing
+[Sat Nov  8 11:42:35 2025] [::1]:58922 Accepted
+[Sat Nov  8 11:42:35 2025] [::1]:58922 [200]: POST /receiver.php
+[Sat Nov  8 11:42:35 2025] [::1]:58922 Closing
+[Sat Nov  8 11:42:37 2025] [::1]:58923 Accepted
+[Sat Nov  8 11:42:37 2025] [::1]:58923 [200]: POST /receiver.php
+[Sat Nov  8 11:42:37 2025] [::1]:58923 Closing
+[Sat Nov  8 11:42:39 2025] [::1]:58924 Accepted
+[Sat Nov  8 11:42:39 2025] [::1]:58924 [200]: POST /receiver.php
+[Sat Nov  8 11:42:39 2025] [::1]:58924 Closing
+[Sat Nov  8 11:42:41 2025] [::1]:58927 Accepted
+[Sat Nov  8 11:42:41 2025] [::1]:58927 [200]: POST /receiver.php
+[Sat Nov  8 11:42:41 2025] [::1]:58927 Closing
+[Sat Nov  8 11:42:43 2025] [::1]:58928 Accepted
+[Sat Nov  8 11:42:43 2025] [::1]:58928 [200]: POST /receiver.php
+[Sat Nov  8 11:42:43 2025] [::1]:58928 Closing
+[Sat Nov  8 11:42:45 2025] [::1]:58930 Accepted
+[Sat Nov  8 11:42:45 2025] [::1]:58930 [200]: POST /receiver.php
+[Sat Nov  8 11:42:45 2025] [::1]:58930 Closing
+[Sat Nov  8 11:42:47 2025] [::1]:58931 Accepted
+[Sat Nov  8 11:42:47 2025] [::1]:58931 [200]: POST /receiver.php
+[Sat Nov  8 11:42:47 2025] [::1]:58931 Closing
+[Sat Nov  8 11:42:49 2025] [::1]:58932 Accepted
+[Sat Nov  8 11:42:49 2025] [::1]:58932 [200]: POST /receiver.php
+[Sat Nov  8 11:42:49 2025] [::1]:58932 Closing
+[Sat Nov  8 11:42:51 2025] [::1]:58934 Accepted
+[Sat Nov  8 11:42:51 2025] [::1]:58934 [200]: POST /receiver.php
+[Sat Nov  8 11:42:51 2025] [::1]:58934 Closing
+[Sat Nov  8 11:42:53 2025] [::1]:58937 Accepted
+[Sat Nov  8 11:42:53 2025] [::1]:58937 [200]: POST /receiver.php
+[Sat Nov  8 11:42:53 2025] [::1]:58937 Closing
+[Sat Nov  8 11:42:55 2025] [::1]:58939 Accepted
+[Sat Nov  8 11:42:55 2025] [::1]:58939 [200]: POST /receiver.php
+[Sat Nov  8 11:42:55 2025] [::1]:58939 Closing
+[Sat Nov  8 11:42:57 2025] [::1]:58941 Accepted
+[Sat Nov  8 11:42:57 2025] [::1]:58941 [200]: POST /receiver.php
+[Sat Nov  8 11:42:57 2025] [::1]:58941 Closing
+[Sat Nov  8 11:42:59 2025] [::1]:58942 Accepted
+[Sat Nov  8 11:42:59 2025] [::1]:58942 [200]: POST /receiver.php
+[Sat Nov  8 11:42:59 2025] [::1]:58942 Closing
+[Sat Nov  8 11:43:01 2025] [::1]:58944 Accepted
+[Sat Nov  8 11:43:01 2025] [::1]:58944 [200]: POST /receiver.php
+[Sat Nov  8 11:43:01 2025] [::1]:58944 Closing
+[Sat Nov  8 11:43:03 2025] [::1]:58945 Accepted
+[Sat Nov  8 11:43:03 2025] [::1]:58945 [200]: POST /receiver.php
+[Sat Nov  8 11:43:03 2025] [::1]:58945 Closing
+[Sat Nov  8 11:43:05 2025] [::1]:58946 Accepted
+[Sat Nov  8 11:43:05 2025] [::1]:58946 [200]: POST /receiver.php
+[Sat Nov  8 11:43:05 2025] [::1]:58946 Closing
+[Sat Nov  8 11:43:07 2025] [::1]:58947 Accepted
+[Sat Nov  8 11:43:07 2025] [::1]:58947 [200]: POST /receiver.php
+[Sat Nov  8 11:43:07 2025] [::1]:58947 Closing
+[Sat Nov  8 11:43:09 2025] [::1]:58949 Accepted
+[Sat Nov  8 11:43:09 2025] [::1]:58949 [200]: POST /receiver.php
+[Sat Nov  8 11:43:09 2025] [::1]:58949 Closing
+[Sat Nov  8 11:43:11 2025] [::1]:58952 Accepted
+[Sat Nov  8 11:43:11 2025] [::1]:58952 [200]: POST /receiver.php
+[Sat Nov  8 11:43:11 2025] [::1]:58952 Closing
+[Sat Nov  8 11:43:13 2025] [::1]:58953 Accepted
+[Sat Nov  8 11:43:13 2025] [::1]:58953 [200]: POST /receiver.php
+[Sat Nov  8 11:43:13 2025] [::1]:58953 Closing
+[Sat Nov  8 11:43:15 2025] [::1]:58956 Accepted
+[Sat Nov  8 11:43:15 2025] [::1]:58956 [200]: POST /receiver.php
+[Sat Nov  8 11:43:15 2025] [::1]:58956 Closing
+[Sat Nov  8 11:43:17 2025] [::1]:58957 Accepted
+[Sat Nov  8 11:43:17 2025] [::1]:58957 [200]: POST /receiver.php
+[Sat Nov  8 11:43:17 2025] [::1]:58957 Closing
+[Sat Nov  8 11:43:19 2025] [::1]:58958 Accepted
+[Sat Nov  8 11:43:19 2025] [::1]:58958 [200]: POST /receiver.php
+[Sat Nov  8 11:43:19 2025] [::1]:58958 Closing
+[Sat Nov  8 11:43:21 2025] [::1]:58961 Accepted
+[Sat Nov  8 11:43:21 2025] [::1]:58961 [200]: POST /receiver.php
+[Sat Nov  8 11:43:21 2025] [::1]:58961 Closing
+[Sat Nov  8 11:43:51 2025] [::1]:58963 Accepted
+[Sat Nov  8 11:43:51 2025] [::1]:58963 [200]: POST /receiver.php
+[Sat Nov  8 11:43:51 2025] [::1]:58963 Closing
+[Sat Nov  8 11:44:10 2025] [::1]:58965 Accepted
+[Sat Nov  8 11:44:10 2025] [::1]:58965 [200]: POST /receiver.php
+[Sat Nov  8 11:44:10 2025] [::1]:58965 Closing
+[Sat Nov  8 11:44:11 2025] [::1]:58966 Accepted
+[Sat Nov  8 11:44:11 2025] [::1]:58966 [200]: POST /receiver.php
+[Sat Nov  8 11:44:11 2025] [::1]:58966 Closing
+[Sat Nov  8 11:44:15 2025] [::1]:58967 Accepted
+[Sat Nov  8 11:44:15 2025] [::1]:58967 [200]: POST /receiver.php
+[Sat Nov  8 11:44:15 2025] [::1]:58967 Closing
+[Sat Nov  8 11:44:17 2025] [::1]:58968 Accepted
+[Sat Nov  8 11:44:17 2025] [::1]:58968 [200]: POST /receiver.php
+[Sat Nov  8 11:44:17 2025] [::1]:58968 Closing
+[Sat Nov  8 11:44:19 2025] [::1]:58969 Accepted
+[Sat Nov  8 11:44:19 2025] [::1]:58969 [200]: POST /receiver.php
+[Sat Nov  8 11:44:19 2025] [::1]:58969 Closing
+[Sat Nov  8 11:44:21 2025] [::1]:58971 Accepted
+[Sat Nov  8 11:44:21 2025] [::1]:58971 [200]: POST /receiver.php
+[Sat Nov  8 11:44:21 2025] [::1]:58971 Closing
+[Sat Nov  8 11:44:23 2025] [::1]:58973 Accepted
+[Sat Nov  8 11:44:23 2025] [::1]:58973 [200]: POST /receiver.php
+[Sat Nov  8 11:44:23 2025] [::1]:58973 Closing
+[Sat Nov  8 11:44:26 2025] [::1]:58974 Accepted
+[Sat Nov  8 11:44:26 2025] [::1]:58974 [200]: POST /receiver.php
+[Sat Nov  8 11:44:26 2025] [::1]:58974 Closing
+[Sat Nov  8 11:44:28 2025] [::1]:58975 Accepted
+[Sat Nov  8 11:44:28 2025] [::1]:58975 [200]: POST /receiver.php
+[Sat Nov  8 11:44:28 2025] [::1]:58975 Closing
+[Sat Nov  8 11:44:30 2025] [::1]:58976 Accepted
+[Sat Nov  8 11:44:30 2025] [::1]:58976 [200]: POST /receiver.php
+[Sat Nov  8 11:44:30 2025] [::1]:58976 Closing
+[Sat Nov  8 11:44:32 2025] [::1]:58978 Accepted
+[Sat Nov  8 11:44:32 2025] [::1]:58978 [200]: POST /receiver.php
+[Sat Nov  8 11:44:32 2025] [::1]:58978 Closing
+[Sat Nov  8 11:44:34 2025] [::1]:58980 Accepted
+[Sat Nov  8 11:44:34 2025] [::1]:58980 [200]: POST /receiver.php
+[Sat Nov  8 11:44:34 2025] [::1]:58980 Closing
+[Sat Nov  8 11:44:36 2025] [::1]:58981 Accepted
+[Sat Nov  8 11:44:36 2025] [::1]:58981 [200]: POST /receiver.php
+[Sat Nov  8 11:44:36 2025] [::1]:58981 Closing
+[Sat Nov  8 11:44:38 2025] [::1]:58983 Accepted
+[Sat Nov  8 11:44:38 2025] [::1]:58983 [200]: POST /receiver.php
+[Sat Nov  8 11:44:38 2025] [::1]:58983 Closing
+[Sat Nov  8 11:44:40 2025] [::1]:58984 Accepted
+[Sat Nov  8 11:44:40 2025] [::1]:58984 [200]: POST /receiver.php
+[Sat Nov  8 11:44:40 2025] [::1]:58984 Closing
+[Sat Nov  8 11:44:42 2025] [::1]:58986 Accepted
+[Sat Nov  8 11:44:42 2025] [::1]:58986 [200]: POST /receiver.php
+[Sat Nov  8 11:44:42 2025] [::1]:58986 Closing
+[Sat Nov  8 11:44:44 2025] [::1]:58988 Accepted
+[Sat Nov  8 11:44:44 2025] [::1]:58988 [200]: POST /receiver.php
+[Sat Nov  8 11:44:44 2025] [::1]:58988 Closing
+[Sat Nov  8 11:44:46 2025] [::1]:58989 Accepted
+[Sat Nov  8 11:44:46 2025] [::1]:58989 [200]: POST /receiver.php
+[Sat Nov  8 11:44:46 2025] [::1]:58989 Closing
+[Sat Nov  8 11:44:48 2025] [::1]:58990 Accepted
+[Sat Nov  8 11:44:48 2025] [::1]:58990 [200]: POST /receiver.php
+[Sat Nov  8 11:44:48 2025] [::1]:58990 Closing
+[Sat Nov  8 11:44:50 2025] [::1]:58991 Accepted
+[Sat Nov  8 11:44:50 2025] [::1]:58991 [200]: POST /receiver.php
+[Sat Nov  8 11:44:50 2025] [::1]:58991 Closing
+[Sat Nov  8 11:44:52 2025] [::1]:58993 Accepted
+[Sat Nov  8 11:44:52 2025] [::1]:58993 [200]: POST /receiver.php
+[Sat Nov  8 11:44:52 2025] [::1]:58993 Closing
+[Sat Nov  8 11:44:54 2025] [::1]:58995 Accepted
+[Sat Nov  8 11:44:54 2025] [::1]:58995 [200]: POST /receiver.php
+[Sat Nov  8 11:44:54 2025] [::1]:58995 Closing
+[Sat Nov  8 11:44:56 2025] [::1]:58996 Accepted
+[Sat Nov  8 11:44:56 2025] [::1]:58996 [200]: POST /receiver.php
+[Sat Nov  8 11:44:56 2025] [::1]:58996 Closing
+[Sat Nov  8 11:44:58 2025] [::1]:58997 Accepted
+[Sat Nov  8 11:44:58 2025] [::1]:58997 [200]: POST /receiver.php
+[Sat Nov  8 11:44:58 2025] [::1]:58997 Closing
+[Sat Nov  8 11:45:00 2025] [::1]:58998 Accepted
+[Sat Nov  8 11:45:00 2025] [::1]:58998 [200]: POST /receiver.php
+[Sat Nov  8 11:45:00 2025] [::1]:58998 Closing
+[Sat Nov  8 11:45:02 2025] [::1]:59001 Accepted
+[Sat Nov  8 11:45:02 2025] [::1]:59001 [200]: POST /receiver.php
+[Sat Nov  8 11:45:02 2025] [::1]:59001 Closing
+[Sat Nov  8 11:45:04 2025] [::1]:59002 Accepted
+[Sat Nov  8 11:45:04 2025] [::1]:59002 [200]: POST /receiver.php
+[Sat Nov  8 11:45:04 2025] [::1]:59002 Closing
+[Sat Nov  8 11:45:06 2025] [::1]:59004 Accepted
+[Sat Nov  8 11:45:06 2025] [::1]:59004 [200]: POST /receiver.php
+[Sat Nov  8 11:45:06 2025] [::1]:59004 Closing
+[Sat Nov  8 11:45:08 2025] [::1]:59005 Accepted
+[Sat Nov  8 11:45:08 2025] [::1]:59005 [200]: POST /receiver.php
+[Sat Nov  8 11:45:08 2025] [::1]:59005 Closing
+[Sat Nov  8 11:45:10 2025] [::1]:59006 Accepted
+[Sat Nov  8 11:45:10 2025] [::1]:59006 [200]: POST /receiver.php
+[Sat Nov  8 11:45:10 2025] [::1]:59006 Closing
+[Sat Nov  8 11:45:12 2025] [::1]:59008 Accepted
+[Sat Nov  8 11:45:12 2025] [::1]:59008 [200]: POST /receiver.php
+[Sat Nov  8 11:45:12 2025] [::1]:59008 Closing
+[Sat Nov  8 11:45:14 2025] [::1]:59010 Accepted
+[Sat Nov  8 11:45:14 2025] [::1]:59010 [200]: POST /receiver.php
+[Sat Nov  8 11:45:14 2025] [::1]:59010 Closing
+[Sat Nov  8 11:45:16 2025] [::1]:59011 Accepted
+[Sat Nov  8 11:45:16 2025] [::1]:59011 [200]: POST /receiver.php
+[Sat Nov  8 11:45:16 2025] [::1]:59011 Closing
+[Sat Nov  8 11:45:18 2025] [::1]:59012 Accepted
+[Sat Nov  8 11:45:18 2025] [::1]:59012 [200]: POST /receiver.php
+[Sat Nov  8 11:45:18 2025] [::1]:59012 Closing
+[Sat Nov  8 11:45:20 2025] [::1]:59014 Accepted
+[Sat Nov  8 11:45:20 2025] [::1]:59014 [200]: POST /receiver.php
+[Sat Nov  8 11:45:20 2025] [::1]:59014 Closing
+[Sat Nov  8 11:45:22 2025] [::1]:59016 Accepted
+[Sat Nov  8 11:45:22 2025] [::1]:59016 [200]: POST /receiver.php
+[Sat Nov  8 11:45:22 2025] [::1]:59016 Closing
+[Sat Nov  8 11:45:24 2025] [::1]:59017 Accepted
+[Sat Nov  8 11:45:24 2025] [::1]:59017 [200]: POST /receiver.php
+[Sat Nov  8 11:45:24 2025] [::1]:59017 Closing
+[Sat Nov  8 11:45:35 2025] [::1]:59020 Accepted
+[Sat Nov  8 11:45:35 2025] [::1]:59020 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:45:35 2025] [::1]:59020 Closing
+[Sat Nov  8 11:45:36 2025] [::1]:59022 Accepted
+[Sat Nov  8 11:45:36 2025] [::1]:59022 [200]: POST /receiver.php
+[Sat Nov  8 11:45:36 2025] [::1]:59022 Closing
+[Sat Nov  8 11:45:37 2025] [::1]:59023 Accepted
+[Sat Nov  8 11:45:37 2025] [::1]:59023 [200]: POST /receiver.php
+[Sat Nov  8 11:45:37 2025] [::1]:59023 Closing
+[Sat Nov  8 11:45:39 2025] [::1]:59024 Accepted
+[Sat Nov  8 11:45:39 2025] [::1]:59024 [200]: POST /receiver.php
+[Sat Nov  8 11:45:39 2025] [::1]:59024 Closing
+[Sat Nov  8 11:45:41 2025] [::1]:59026 Accepted
+[Sat Nov  8 11:45:41 2025] [::1]:59026 [200]: POST /receiver.php
+[Sat Nov  8 11:45:41 2025] [::1]:59026 Closing
+[Sat Nov  8 11:45:43 2025] [::1]:59027 Accepted
+[Sat Nov  8 11:45:43 2025] [::1]:59027 [200]: POST /receiver.php
+[Sat Nov  8 11:45:43 2025] [::1]:59027 Closing
+[Sat Nov  8 11:45:45 2025] [::1]:59028 Accepted
+[Sat Nov  8 11:45:45 2025] [::1]:59028 [200]: POST /receiver.php
+[Sat Nov  8 11:45:45 2025] [::1]:59028 Closing
+[Sat Nov  8 11:45:47 2025] [::1]:59029 Accepted
+[Sat Nov  8 11:45:47 2025] [::1]:59029 [200]: POST /receiver.php
+[Sat Nov  8 11:45:47 2025] [::1]:59029 Closing
+[Sat Nov  8 11:45:49 2025] [::1]:59030 Accepted
+[Sat Nov  8 11:45:49 2025] [::1]:59030 [200]: POST /receiver.php
+[Sat Nov  8 11:45:49 2025] [::1]:59030 Closing
+[Sat Nov  8 11:45:51 2025] [::1]:59032 Accepted
+[Sat Nov  8 11:45:51 2025] [::1]:59032 [200]: POST /receiver.php
+[Sat Nov  8 11:45:51 2025] [::1]:59032 Closing
+[Sat Nov  8 11:45:53 2025] [::1]:59033 Accepted
+[Sat Nov  8 11:45:53 2025] [::1]:59033 [200]: POST /receiver.php
+[Sat Nov  8 11:45:53 2025] [::1]:59033 Closing
+[Sat Nov  8 11:45:55 2025] [::1]:59034 Accepted
+[Sat Nov  8 11:45:55 2025] [::1]:59034 [200]: POST /receiver.php
+[Sat Nov  8 11:45:55 2025] [::1]:59034 Closing
+[Sat Nov  8 11:45:57 2025] [::1]:59035 Accepted
+[Sat Nov  8 11:45:57 2025] [::1]:59035 [200]: POST /receiver.php
+[Sat Nov  8 11:45:57 2025] [::1]:59035 Closing
+[Sat Nov  8 11:45:59 2025] [::1]:59036 Accepted
+[Sat Nov  8 11:45:59 2025] [::1]:59036 [200]: POST /receiver.php
+[Sat Nov  8 11:45:59 2025] [::1]:59036 Closing
+[Sat Nov  8 11:46:01 2025] [::1]:59038 Accepted
+[Sat Nov  8 11:46:01 2025] [::1]:59038 [200]: POST /receiver.php
+[Sat Nov  8 11:46:01 2025] [::1]:59038 Closing
+[Sat Nov  8 11:46:03 2025] [::1]:59039 Accepted
+[Sat Nov  8 11:46:03 2025] [::1]:59039 [200]: POST /receiver.php
+[Sat Nov  8 11:46:03 2025] [::1]:59039 Closing
+[Sat Nov  8 11:46:05 2025] [::1]:59040 Accepted
+[Sat Nov  8 11:46:05 2025] [::1]:59040 [200]: POST /receiver.php
+[Sat Nov  8 11:46:05 2025] [::1]:59040 Closing
+[Sat Nov  8 11:46:07 2025] [::1]:59041 Accepted
+[Sat Nov  8 11:46:07 2025] [::1]:59041 [200]: POST /receiver.php
+[Sat Nov  8 11:46:07 2025] [::1]:59041 Closing
+[Sat Nov  8 11:46:09 2025] [::1]:59043 Accepted
+[Sat Nov  8 11:46:09 2025] [::1]:59043 [200]: POST /receiver.php
+[Sat Nov  8 11:46:09 2025] [::1]:59043 Closing
+[Sat Nov  8 11:46:11 2025] [::1]:59046 Accepted
+[Sat Nov  8 11:46:11 2025] [::1]:59046 [200]: POST /receiver.php
+[Sat Nov  8 11:46:11 2025] [::1]:59046 Closing
+[Sat Nov  8 11:46:13 2025] [::1]:59047 Accepted
+[Sat Nov  8 11:46:13 2025] [::1]:59047 [200]: POST /receiver.php
+[Sat Nov  8 11:46:13 2025] [::1]:59047 Closing
+[Sat Nov  8 11:46:15 2025] [::1]:59048 Accepted
+[Sat Nov  8 11:46:15 2025] [::1]:59048 [200]: POST /receiver.php
+[Sat Nov  8 11:46:15 2025] [::1]:59048 Closing
+[Sat Nov  8 11:46:17 2025] [::1]:59049 Accepted
+[Sat Nov  8 11:46:17 2025] [::1]:59049 [200]: POST /receiver.php
+[Sat Nov  8 11:46:17 2025] [::1]:59049 Closing
+[Sat Nov  8 11:46:19 2025] [::1]:59050 Accepted
+[Sat Nov  8 11:46:19 2025] [::1]:59050 [200]: POST /receiver.php
+[Sat Nov  8 11:46:19 2025] [::1]:59050 Closing
+[Sat Nov  8 11:46:21 2025] [::1]:59052 Accepted
+[Sat Nov  8 11:46:21 2025] [::1]:59052 [200]: POST /receiver.php
+[Sat Nov  8 11:46:21 2025] [::1]:59052 Closing
+[Sat Nov  8 11:46:23 2025] [::1]:59053 Accepted
+[Sat Nov  8 11:46:23 2025] [::1]:59053 [200]: POST /receiver.php
+[Sat Nov  8 11:46:23 2025] [::1]:59053 Closing
+[Sat Nov  8 11:46:25 2025] [::1]:59054 Accepted
+[Sat Nov  8 11:46:25 2025] [::1]:59054 [200]: POST /receiver.php
+[Sat Nov  8 11:46:25 2025] [::1]:59054 Closing
+[Sat Nov  8 11:46:27 2025] [::1]:59055 Accepted
+[Sat Nov  8 11:46:27 2025] [::1]:59055 [200]: POST /receiver.php
+[Sat Nov  8 11:46:27 2025] [::1]:59055 Closing
+[Sat Nov  8 11:46:29 2025] [::1]:59056 Accepted
+[Sat Nov  8 11:46:29 2025] [::1]:59056 [200]: POST /receiver.php
+[Sat Nov  8 11:46:29 2025] [::1]:59056 Closing
+[Sat Nov  8 11:46:31 2025] [::1]:59058 Accepted
+[Sat Nov  8 11:46:31 2025] [::1]:59058 [200]: POST /receiver.php
+[Sat Nov  8 11:46:31 2025] [::1]:59058 Closing
+[Sat Nov  8 11:46:33 2025] [::1]:59059 Accepted
+[Sat Nov  8 11:46:33 2025] [::1]:59059 [200]: POST /receiver.php
+[Sat Nov  8 11:46:33 2025] [::1]:59059 Closing
+[Sat Nov  8 11:46:35 2025] [::1]:59060 Accepted
+[Sat Nov  8 11:46:35 2025] [::1]:59060 [200]: POST /receiver.php
+[Sat Nov  8 11:46:35 2025] [::1]:59060 Closing
+[Sat Nov  8 11:46:37 2025] [::1]:59061 Accepted
+[Sat Nov  8 11:46:37 2025] [::1]:59061 [200]: POST /receiver.php
+[Sat Nov  8 11:46:37 2025] [::1]:59061 Closing
+[Sat Nov  8 11:46:39 2025] [::1]:59062 Accepted
+[Sat Nov  8 11:46:39 2025] [::1]:59062 [200]: POST /receiver.php
+[Sat Nov  8 11:46:39 2025] [::1]:59062 Closing
+[Sat Nov  8 11:46:41 2025] [::1]:59065 Accepted
+[Sat Nov  8 11:46:41 2025] [::1]:59065 [200]: POST /receiver.php
+[Sat Nov  8 11:46:41 2025] [::1]:59065 Closing
+[Sat Nov  8 11:46:43 2025] [::1]:59066 Accepted
+[Sat Nov  8 11:46:43 2025] [::1]:59066 [200]: POST /receiver.php
+[Sat Nov  8 11:46:43 2025] [::1]:59066 Closing
+[Sat Nov  8 11:46:45 2025] [::1]:59067 Accepted
+[Sat Nov  8 11:46:45 2025] [::1]:59067 [200]: POST /receiver.php
+[Sat Nov  8 11:46:45 2025] [::1]:59067 Closing
+[Sat Nov  8 11:46:47 2025] [::1]:59068 Accepted
+[Sat Nov  8 11:46:47 2025] [::1]:59068 [200]: POST /receiver.php
+[Sat Nov  8 11:46:47 2025] [::1]:59068 Closing
+[Sat Nov  8 11:46:49 2025] [::1]:59069 Accepted
+[Sat Nov  8 11:46:49 2025] [::1]:59069 [200]: POST /receiver.php
+[Sat Nov  8 11:46:49 2025] [::1]:59069 Closing
+[Sat Nov  8 11:46:51 2025] [::1]:59071 Accepted
+[Sat Nov  8 11:46:51 2025] [::1]:59071 [200]: POST /receiver.php
+[Sat Nov  8 11:46:51 2025] [::1]:59071 Closing
+[Sat Nov  8 11:46:53 2025] [::1]:59072 Accepted
+[Sat Nov  8 11:46:53 2025] [::1]:59072 [200]: POST /receiver.php
+[Sat Nov  8 11:46:53 2025] [::1]:59072 Closing
+[Sat Nov  8 11:46:55 2025] [::1]:59073 Accepted
+[Sat Nov  8 11:46:55 2025] [::1]:59073 [200]: POST /receiver.php
+[Sat Nov  8 11:46:55 2025] [::1]:59073 Closing
+[Sat Nov  8 11:46:57 2025] [::1]:59074 Accepted
+[Sat Nov  8 11:46:57 2025] [::1]:59074 [200]: POST /receiver.php
+[Sat Nov  8 11:46:57 2025] [::1]:59074 Closing
+[Sat Nov  8 11:46:59 2025] [::1]:59075 Accepted
+[Sat Nov  8 11:46:59 2025] [::1]:59075 [200]: POST /receiver.php
+[Sat Nov  8 11:46:59 2025] [::1]:59075 Closing
+[Sat Nov  8 11:47:01 2025] [::1]:59077 Accepted
+[Sat Nov  8 11:47:01 2025] [::1]:59077 [200]: POST /receiver.php
+[Sat Nov  8 11:47:01 2025] [::1]:59077 Closing
+[Sat Nov  8 11:47:03 2025] [::1]:59078 Accepted
+[Sat Nov  8 11:47:03 2025] [::1]:59078 [200]: POST /receiver.php
+[Sat Nov  8 11:47:03 2025] [::1]:59078 Closing
+[Sat Nov  8 11:47:05 2025] [::1]:59079 Accepted
+[Sat Nov  8 11:47:05 2025] [::1]:59079 [200]: POST /receiver.php
+[Sat Nov  8 11:47:05 2025] [::1]:59079 Closing
+[Sat Nov  8 11:47:07 2025] [::1]:59080 Accepted
+[Sat Nov  8 11:47:07 2025] [::1]:59080 [200]: POST /receiver.php
+[Sat Nov  8 11:47:07 2025] [::1]:59080 Closing
+[Sat Nov  8 11:47:09 2025] [::1]:59081 Accepted
+[Sat Nov  8 11:47:09 2025] [::1]:59081 [200]: POST /receiver.php
+[Sat Nov  8 11:47:09 2025] [::1]:59081 Closing
+[Sat Nov  8 11:47:11 2025] [::1]:59083 Accepted
+[Sat Nov  8 11:47:11 2025] [::1]:59083 [200]: POST /receiver.php
+[Sat Nov  8 11:47:11 2025] [::1]:59083 Closing
+[Sat Nov  8 11:47:13 2025] [::1]:59084 Accepted
+[Sat Nov  8 11:47:13 2025] [::1]:59084 [200]: POST /receiver.php
+[Sat Nov  8 11:47:13 2025] [::1]:59084 Closing
+[Sat Nov  8 11:47:15 2025] [::1]:59085 Accepted
+[Sat Nov  8 11:47:15 2025] [::1]:59085 [200]: POST /receiver.php
+[Sat Nov  8 11:47:15 2025] [::1]:59085 Closing
+[Sat Nov  8 11:47:17 2025] [::1]:59086 Accepted
+[Sat Nov  8 11:47:17 2025] [::1]:59086 [200]: POST /receiver.php
+[Sat Nov  8 11:47:17 2025] [::1]:59086 Closing
+[Sat Nov  8 11:47:19 2025] [::1]:59087 Accepted
+[Sat Nov  8 11:47:19 2025] [::1]:59087 [200]: POST /receiver.php
+[Sat Nov  8 11:47:19 2025] [::1]:59087 Closing
+[Sat Nov  8 11:47:21 2025] [::1]:59089 Accepted
+[Sat Nov  8 11:47:21 2025] [::1]:59089 [200]: POST /receiver.php
+[Sat Nov  8 11:47:21 2025] [::1]:59089 Closing
+[Sat Nov  8 11:47:23 2025] [::1]:59090 Accepted
+[Sat Nov  8 11:47:23 2025] [::1]:59090 [200]: POST /receiver.php
+[Sat Nov  8 11:47:23 2025] [::1]:59090 Closing
+[Sat Nov  8 11:47:25 2025] [::1]:59091 Accepted
+[Sat Nov  8 11:47:25 2025] [::1]:59091 [200]: POST /receiver.php
+[Sat Nov  8 11:47:25 2025] [::1]:59091 Closing
+[Sat Nov  8 11:47:27 2025] [::1]:59092 Accepted
+[Sat Nov  8 11:47:27 2025] [::1]:59092 [200]: POST /receiver.php
+[Sat Nov  8 11:47:27 2025] [::1]:59092 Closing
+[Sat Nov  8 11:47:29 2025] [::1]:59093 Accepted
+[Sat Nov  8 11:47:29 2025] [::1]:59093 [200]: POST /receiver.php
+[Sat Nov  8 11:47:29 2025] [::1]:59093 Closing
+[Sat Nov  8 11:47:31 2025] [::1]:59095 Accepted
+[Sat Nov  8 11:47:31 2025] [::1]:59095 [200]: POST /receiver.php
+[Sat Nov  8 11:47:31 2025] [::1]:59095 Closing
+[Sat Nov  8 11:47:33 2025] [::1]:59096 Accepted
+[Sat Nov  8 11:47:33 2025] [::1]:59096 [200]: POST /receiver.php
+[Sat Nov  8 11:47:33 2025] [::1]:59096 Closing
+[Sat Nov  8 11:47:35 2025] [::1]:59097 Accepted
+[Sat Nov  8 11:47:35 2025] [::1]:59097 [200]: POST /receiver.php
+[Sat Nov  8 11:47:35 2025] [::1]:59097 Closing
+[Sat Nov  8 11:47:37 2025] [::1]:59098 Accepted
+[Sat Nov  8 11:47:37 2025] [::1]:59098 [200]: POST /receiver.php
+[Sat Nov  8 11:47:37 2025] [::1]:59098 Closing
+[Sat Nov  8 11:47:39 2025] [::1]:59099 Accepted
+[Sat Nov  8 11:47:39 2025] [::1]:59099 [200]: POST /receiver.php
+[Sat Nov  8 11:47:39 2025] [::1]:59099 Closing
+[Sat Nov  8 11:47:41 2025] [::1]:59101 Accepted
+[Sat Nov  8 11:47:41 2025] [::1]:59101 [200]: POST /receiver.php
+[Sat Nov  8 11:47:41 2025] [::1]:59101 Closing
+[Sat Nov  8 11:47:43 2025] [::1]:59102 Accepted
+[Sat Nov  8 11:47:43 2025] [::1]:59102 [200]: POST /receiver.php
+[Sat Nov  8 11:47:43 2025] [::1]:59102 Closing
+[Sat Nov  8 11:47:45 2025] [::1]:59103 Accepted
+[Sat Nov  8 11:47:45 2025] [::1]:59103 [200]: POST /receiver.php
+[Sat Nov  8 11:47:45 2025] [::1]:59103 Closing
+[Sat Nov  8 11:47:47 2025] [::1]:59104 Accepted
+[Sat Nov  8 11:47:47 2025] [::1]:59104 [200]: POST /receiver.php
+[Sat Nov  8 11:47:47 2025] [::1]:59104 Closing
+[Sat Nov  8 11:47:49 2025] [::1]:59105 Accepted
+[Sat Nov  8 11:47:49 2025] [::1]:59105 [200]: POST /receiver.php
+[Sat Nov  8 11:47:49 2025] [::1]:59105 Closing
+[Sat Nov  8 11:47:51 2025] [::1]:59107 Accepted
+[Sat Nov  8 11:47:51 2025] [::1]:59107 [200]: POST /receiver.php
+[Sat Nov  8 11:47:51 2025] [::1]:59107 Closing
+[Sat Nov  8 11:47:53 2025] [::1]:59109 Accepted
+[Sat Nov  8 11:47:53 2025] [::1]:59109 [200]: POST /receiver.php
+[Sat Nov  8 11:47:53 2025] [::1]:59109 Closing
+[Sat Nov  8 11:47:55 2025] [::1]:59110 Accepted
+[Sat Nov  8 11:47:55 2025] [::1]:59110 [200]: POST /receiver.php
+[Sat Nov  8 11:47:55 2025] [::1]:59110 Closing
+[Sat Nov  8 11:47:57 2025] [::1]:59111 Accepted
+[Sat Nov  8 11:47:57 2025] [::1]:59111 [200]: POST /receiver.php
+[Sat Nov  8 11:47:57 2025] [::1]:59111 Closing
+[Sat Nov  8 11:47:59 2025] [::1]:59112 Accepted
+[Sat Nov  8 11:47:59 2025] [::1]:59112 [200]: POST /receiver.php
+[Sat Nov  8 11:47:59 2025] [::1]:59112 Closing
+[Sat Nov  8 11:48:01 2025] [::1]:59114 Accepted
+[Sat Nov  8 11:48:01 2025] [::1]:59114 [200]: POST /receiver.php
+[Sat Nov  8 11:48:01 2025] [::1]:59114 Closing
+[Sat Nov  8 11:48:03 2025] [::1]:59115 Accepted
+[Sat Nov  8 11:48:03 2025] [::1]:59115 [200]: POST /receiver.php
+[Sat Nov  8 11:48:03 2025] [::1]:59115 Closing
+[Sat Nov  8 11:48:05 2025] [::1]:59116 Accepted
+[Sat Nov  8 11:48:05 2025] [::1]:59116 [200]: POST /receiver.php
+[Sat Nov  8 11:48:05 2025] [::1]:59116 Closing
+[Sat Nov  8 11:48:07 2025] [::1]:59117 Accepted
+[Sat Nov  8 11:48:07 2025] [::1]:59117 [200]: POST /receiver.php
+[Sat Nov  8 11:48:07 2025] [::1]:59117 Closing
+[Sat Nov  8 11:48:09 2025] [::1]:59118 Accepted
+[Sat Nov  8 11:48:09 2025] [::1]:59118 [200]: POST /receiver.php
+[Sat Nov  8 11:48:09 2025] [::1]:59118 Closing
+[Sat Nov  8 11:48:11 2025] [::1]:59120 Accepted
+[Sat Nov  8 11:48:11 2025] [::1]:59120 [200]: POST /receiver.php
+[Sat Nov  8 11:48:11 2025] [::1]:59120 Closing
+[Sat Nov  8 11:48:13 2025] [::1]:59121 Accepted
+[Sat Nov  8 11:48:13 2025] [::1]:59121 [200]: POST /receiver.php
+[Sat Nov  8 11:48:13 2025] [::1]:59121 Closing
+[Sat Nov  8 11:48:15 2025] [::1]:59122 Accepted
+[Sat Nov  8 11:48:15 2025] [::1]:59122 [200]: POST /receiver.php
+[Sat Nov  8 11:48:15 2025] [::1]:59122 Closing
+[Sat Nov  8 11:48:17 2025] [::1]:59123 Accepted
+[Sat Nov  8 11:48:17 2025] [::1]:59123 [200]: POST /receiver.php
+[Sat Nov  8 11:48:17 2025] [::1]:59123 Closing
+[Sat Nov  8 11:48:19 2025] [::1]:59124 Accepted
+[Sat Nov  8 11:48:19 2025] [::1]:59124 [200]: POST /receiver.php
+[Sat Nov  8 11:48:19 2025] [::1]:59124 Closing
+[Sat Nov  8 11:48:22 2025] [::1]:59126 Accepted
+[Sat Nov  8 11:48:22 2025] [::1]:59126 [200]: POST /receiver.php
+[Sat Nov  8 11:48:22 2025] [::1]:59126 Closing
+[Sat Nov  8 11:48:24 2025] [::1]:59127 Accepted
+[Sat Nov  8 11:48:24 2025] [::1]:59127 [200]: POST /receiver.php
+[Sat Nov  8 11:48:24 2025] [::1]:59127 Closing
+[Sat Nov  8 11:48:26 2025] [::1]:59128 Accepted
+[Sat Nov  8 11:48:26 2025] [::1]:59128 [200]: POST /receiver.php
+[Sat Nov  8 11:48:26 2025] [::1]:59128 Closing
+[Sat Nov  8 11:48:28 2025] [::1]:59129 Accepted
+[Sat Nov  8 11:48:28 2025] [::1]:59129 [200]: POST /receiver.php
+[Sat Nov  8 11:48:28 2025] [::1]:59129 Closing
+[Sat Nov  8 11:48:30 2025] [::1]:59130 Accepted
+[Sat Nov  8 11:48:30 2025] [::1]:59130 [200]: POST /receiver.php
+[Sat Nov  8 11:48:30 2025] [::1]:59130 Closing
+[Sat Nov  8 11:48:32 2025] [::1]:59132 Accepted
+[Sat Nov  8 11:48:32 2025] [::1]:59132 [200]: POST /receiver.php
+[Sat Nov  8 11:48:32 2025] [::1]:59132 Closing
+[Sat Nov  8 11:48:34 2025] [::1]:59133 Accepted
+[Sat Nov  8 11:48:34 2025] [::1]:59133 [200]: POST /receiver.php
+[Sat Nov  8 11:48:34 2025] [::1]:59133 Closing
+[Sat Nov  8 11:48:36 2025] [::1]:59134 Accepted
+[Sat Nov  8 11:48:36 2025] [::1]:59134 [200]: POST /receiver.php
+[Sat Nov  8 11:48:36 2025] [::1]:59134 Closing
+[Sat Nov  8 11:48:38 2025] [::1]:59135 Accepted
+[Sat Nov  8 11:48:38 2025] [::1]:59135 [200]: POST /receiver.php
+[Sat Nov  8 11:48:38 2025] [::1]:59135 Closing
+[Sat Nov  8 11:48:40 2025] [::1]:59137 Accepted
+[Sat Nov  8 11:48:40 2025] [::1]:59137 [200]: POST /receiver.php
+[Sat Nov  8 11:48:40 2025] [::1]:59137 Closing
+[Sat Nov  8 11:48:42 2025] [::1]:59139 Accepted
+[Sat Nov  8 11:48:42 2025] [::1]:59139 [200]: POST /receiver.php
+[Sat Nov  8 11:48:42 2025] [::1]:59139 Closing
+[Sat Nov  8 11:48:44 2025] [::1]:59140 Accepted
+[Sat Nov  8 11:48:44 2025] [::1]:59140 [200]: POST /receiver.php
+[Sat Nov  8 11:48:44 2025] [::1]:59140 Closing
+[Sat Nov  8 11:48:46 2025] [::1]:59141 Accepted
+[Sat Nov  8 11:48:46 2025] [::1]:59141 [200]: POST /receiver.php
+[Sat Nov  8 11:48:46 2025] [::1]:59141 Closing
+[Sat Nov  8 11:48:48 2025] [::1]:59142 Accepted
+[Sat Nov  8 11:48:48 2025] [::1]:59142 [200]: POST /receiver.php
+[Sat Nov  8 11:48:48 2025] [::1]:59142 Closing
+[Sat Nov  8 11:48:50 2025] [::1]:59143 Accepted
+[Sat Nov  8 11:48:50 2025] [::1]:59143 [200]: POST /receiver.php
+[Sat Nov  8 11:48:50 2025] [::1]:59143 Closing
+[Sat Nov  8 11:48:52 2025] [::1]:59145 Accepted
+[Sat Nov  8 11:48:52 2025] [::1]:59145 [200]: POST /receiver.php
+[Sat Nov  8 11:48:52 2025] [::1]:59145 Closing
+[Sat Nov  8 11:48:54 2025] [::1]:59146 Accepted
+[Sat Nov  8 11:48:54 2025] [::1]:59146 [200]: POST /receiver.php
+[Sat Nov  8 11:48:54 2025] [::1]:59146 Closing
+[Sat Nov  8 11:48:56 2025] [::1]:59147 Accepted
+[Sat Nov  8 11:48:56 2025] [::1]:59147 [200]: POST /receiver.php
+[Sat Nov  8 11:48:56 2025] [::1]:59147 Closing
+[Sat Nov  8 11:48:58 2025] [::1]:59148 Accepted
+[Sat Nov  8 11:48:58 2025] [::1]:59148 [200]: POST /receiver.php
+[Sat Nov  8 11:48:58 2025] [::1]:59148 Closing
+[Sat Nov  8 11:49:00 2025] [::1]:59149 Accepted
+[Sat Nov  8 11:49:00 2025] [::1]:59149 [200]: POST /receiver.php
+[Sat Nov  8 11:49:00 2025] [::1]:59149 Closing
+[Sat Nov  8 11:49:02 2025] [::1]:59151 Accepted
+[Sat Nov  8 11:49:02 2025] [::1]:59151 [200]: POST /receiver.php
+[Sat Nov  8 11:49:02 2025] [::1]:59151 Closing
+[Sat Nov  8 11:49:04 2025] [::1]:59153 Accepted
+[Sat Nov  8 11:49:04 2025] [::1]:59153 [200]: POST /receiver.php
+[Sat Nov  8 11:49:04 2025] [::1]:59153 Closing
+[Sat Nov  8 11:49:06 2025] [::1]:59155 Accepted
+[Sat Nov  8 11:49:06 2025] [::1]:59155 [200]: POST /receiver.php
+[Sat Nov  8 11:49:06 2025] [::1]:59155 Closing
+[Sat Nov  8 11:49:08 2025] [::1]:59156 Accepted
+[Sat Nov  8 11:49:08 2025] [::1]:59156 [200]: POST /receiver.php
+[Sat Nov  8 11:49:08 2025] [::1]:59156 Closing
+[Sat Nov  8 11:49:10 2025] [::1]:59157 Accepted
+[Sat Nov  8 11:49:10 2025] [::1]:59157 [200]: POST /receiver.php
+[Sat Nov  8 11:49:10 2025] [::1]:59157 Closing
+[Sat Nov  8 11:49:12 2025] [::1]:59159 Accepted
+[Sat Nov  8 11:49:12 2025] [::1]:59159 [200]: POST /receiver.php
+[Sat Nov  8 11:49:12 2025] [::1]:59159 Closing
+[Sat Nov  8 11:49:14 2025] [::1]:59161 Accepted
+[Sat Nov  8 11:49:14 2025] [::1]:59161 [200]: POST /receiver.php
+[Sat Nov  8 11:49:14 2025] [::1]:59161 Closing
+[Sat Nov  8 11:49:16 2025] [::1]:59162 Accepted
+[Sat Nov  8 11:49:16 2025] [::1]:59162 [200]: POST /receiver.php
+[Sat Nov  8 11:49:16 2025] [::1]:59162 Closing
+[Sat Nov  8 11:49:18 2025] [::1]:59163 Accepted
+[Sat Nov  8 11:49:18 2025] [::1]:59163 [200]: POST /receiver.php
+[Sat Nov  8 11:49:18 2025] [::1]:59163 Closing
+[Sat Nov  8 11:49:20 2025] [::1]:59164 Accepted
+[Sat Nov  8 11:49:20 2025] [::1]:59164 [200]: POST /receiver.php
+[Sat Nov  8 11:49:20 2025] [::1]:59164 Closing
+[Sat Nov  8 11:49:51 2025] [::1]:59170 Accepted
+[Sat Nov  8 11:49:51 2025] [::1]:59170 [200]: POST /receiver.php
+[Sat Nov  8 11:49:51 2025] [::1]:59170 Closing
+[Sat Nov  8 11:50:51 2025] [::1]:59179 Accepted
+[Sat Nov  8 11:50:51 2025] [::1]:59179 [200]: POST /receiver.php
+[Sat Nov  8 11:50:51 2025] [::1]:59179 Closing
+[Sat Nov  8 11:51:51 2025] [::1]:59183 Accepted
+[Sat Nov  8 11:51:51 2025] [::1]:59183 [200]: POST /receiver.php
+[Sat Nov  8 11:51:51 2025] [::1]:59183 Closing
+[Sat Nov  8 11:52:51 2025] [::1]:59186 Accepted
+[Sat Nov  8 11:52:51 2025] [::1]:59186 [200]: POST /receiver.php
+[Sat Nov  8 11:52:51 2025] [::1]:59186 Closing
+[Sat Nov  8 11:53:51 2025] [::1]:59189 Accepted
+[Sat Nov  8 11:53:51 2025] [::1]:59189 [200]: POST /receiver.php
+[Sat Nov  8 11:53:51 2025] [::1]:59189 Closing
+[Sat Nov  8 11:54:51 2025] [::1]:59195 Accepted
+[Sat Nov  8 11:54:51 2025] [::1]:59195 [200]: POST /receiver.php
+[Sat Nov  8 11:54:51 2025] [::1]:59195 Closing
+[Sat Nov  8 11:55:30 2025] [::1]:59201 Accepted
+[Sat Nov  8 11:55:30 2025] [::1]:59201 [200]: POST /receiver.php
+[Sat Nov  8 11:55:30 2025] [::1]:59201 Closing
+[Sat Nov  8 11:55:31 2025] [::1]:59202 Accepted
+[Sat Nov  8 11:55:31 2025] [::1]:59202 [200]: POST /receiver.php
+[Sat Nov  8 11:55:31 2025] [::1]:59202 Closing
+[Sat Nov  8 11:55:32 2025] [::1]:59203 Accepted
+[Sat Nov  8 11:55:32 2025] [::1]:59203 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:55:32 2025] [::1]:59203 Closing
+[Sat Nov  8 11:55:33 2025] [::1]:59205 Accepted
+[Sat Nov  8 11:55:33 2025] [::1]:59205 [200]: POST /receiver.php
+[Sat Nov  8 11:55:33 2025] [::1]:59205 Closing
+[Sat Nov  8 11:55:35 2025] [::1]:59206 Accepted
+[Sat Nov  8 11:55:35 2025] [::1]:59206 [200]: POST /receiver.php
+[Sat Nov  8 11:55:35 2025] [::1]:59206 Closing
+[Sat Nov  8 11:55:37 2025] [::1]:59207 Accepted
+[Sat Nov  8 11:55:37 2025] [::1]:59207 [200]: POST /receiver.php
+[Sat Nov  8 11:55:37 2025] [::1]:59207 Closing
+[Sat Nov  8 11:55:39 2025] [::1]:59208 Accepted
+[Sat Nov  8 11:55:39 2025] [::1]:59208 [200]: POST /receiver.php
+[Sat Nov  8 11:55:39 2025] [::1]:59208 Closing
+[Sat Nov  8 11:55:41 2025] [::1]:59209 Accepted
+[Sat Nov  8 11:55:41 2025] [::1]:59209 [200]: POST /receiver.php
+[Sat Nov  8 11:55:41 2025] [::1]:59209 Closing
+[Sat Nov  8 11:55:43 2025] [::1]:59211 Accepted
+[Sat Nov  8 11:55:43 2025] [::1]:59211 [200]: POST /receiver.php
+[Sat Nov  8 11:55:43 2025] [::1]:59211 Closing
+[Sat Nov  8 11:55:45 2025] [::1]:59212 Accepted
+[Sat Nov  8 11:55:45 2025] [::1]:59212 [200]: POST /receiver.php
+[Sat Nov  8 11:55:45 2025] [::1]:59212 Closing
+[Sat Nov  8 11:55:47 2025] [::1]:59213 Accepted
+[Sat Nov  8 11:55:47 2025] [::1]:59213 [200]: POST /receiver.php
+[Sat Nov  8 11:55:47 2025] [::1]:59213 Closing
+[Sat Nov  8 11:55:49 2025] [::1]:59214 Accepted
+[Sat Nov  8 11:55:49 2025] [::1]:59214 [200]: POST /receiver.php
+[Sat Nov  8 11:55:49 2025] [::1]:59214 Closing
+[Sat Nov  8 11:55:51 2025] [::1]:59215 Accepted
+[Sat Nov  8 11:55:51 2025] [::1]:59215 [200]: POST /receiver.php
+[Sat Nov  8 11:55:51 2025] [::1]:59215 Closing
+[Sat Nov  8 11:55:53 2025] [::1]:59217 Accepted
+[Sat Nov  8 11:55:53 2025] [::1]:59217 [200]: POST /receiver.php
+[Sat Nov  8 11:55:53 2025] [::1]:59217 Closing
+[Sat Nov  8 11:55:55 2025] [::1]:59218 Accepted
+[Sat Nov  8 11:55:55 2025] [::1]:59218 [200]: POST /receiver.php
+[Sat Nov  8 11:55:55 2025] [::1]:59218 Closing
+[Sat Nov  8 11:55:57 2025] [::1]:59219 Accepted
+[Sat Nov  8 11:55:57 2025] [::1]:59219 [200]: POST /receiver.php
+[Sat Nov  8 11:55:57 2025] [::1]:59219 Closing
+[Sat Nov  8 11:55:59 2025] [::1]:59220 Accepted
+[Sat Nov  8 11:55:59 2025] [::1]:59220 [200]: POST /receiver.php
+[Sat Nov  8 11:55:59 2025] [::1]:59220 Closing
+[Sat Nov  8 11:56:01 2025] [::1]:59221 Accepted
+[Sat Nov  8 11:56:01 2025] [::1]:59221 [200]: POST /receiver.php
+[Sat Nov  8 11:56:01 2025] [::1]:59221 Closing
+[Sat Nov  8 11:56:03 2025] [::1]:59223 Accepted
+[Sat Nov  8 11:56:03 2025] [::1]:59223 [200]: POST /receiver.php
+[Sat Nov  8 11:56:03 2025] [::1]:59223 Closing
+[Sat Nov  8 11:56:05 2025] [::1]:59224 Accepted
+[Sat Nov  8 11:56:05 2025] [::1]:59224 [200]: POST /receiver.php
+[Sat Nov  8 11:56:05 2025] [::1]:59224 Closing
+[Sat Nov  8 11:56:07 2025] [::1]:59225 Accepted
+[Sat Nov  8 11:56:07 2025] [::1]:59225 [200]: POST /receiver.php
+[Sat Nov  8 11:56:07 2025] [::1]:59225 Closing
+[Sat Nov  8 11:56:09 2025] [::1]:59226 Accepted
+[Sat Nov  8 11:56:09 2025] [::1]:59226 [200]: POST /receiver.php
+[Sat Nov  8 11:56:09 2025] [::1]:59226 Closing
+[Sat Nov  8 11:56:10 2025] [::1]:59228 Accepted
+[Sat Nov  8 11:56:10 2025] [::1]:59228 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:56:10 2025] [::1]:59228 Closing
+[Sat Nov  8 11:56:11 2025] [::1]:59229 Accepted
+[Sat Nov  8 11:56:11 2025] [::1]:59229 [200]: POST /receiver.php
+[Sat Nov  8 11:56:11 2025] [::1]:59229 Closing
+[Sat Nov  8 11:56:13 2025] [::1]:59231 Accepted
+[Sat Nov  8 11:56:13 2025] [::1]:59231 [200]: POST /receiver.php
+[Sat Nov  8 11:56:13 2025] [::1]:59231 Closing
+[Sat Nov  8 11:56:15 2025] [::1]:59232 Accepted
+[Sat Nov  8 11:56:15 2025] [::1]:59232 [200]: POST /receiver.php
+[Sat Nov  8 11:56:15 2025] [::1]:59232 Closing
+[Sat Nov  8 11:56:17 2025] [::1]:59233 Accepted
+[Sat Nov  8 11:56:17 2025] [::1]:59233 [200]: POST /receiver.php
+[Sat Nov  8 11:56:17 2025] [::1]:59233 Closing
+[Sat Nov  8 11:56:19 2025] [::1]:59234 Accepted
+[Sat Nov  8 11:56:19 2025] [::1]:59234 [200]: POST /receiver.php
+[Sat Nov  8 11:56:19 2025] [::1]:59234 Closing
+[Sat Nov  8 11:56:21 2025] [::1]:59235 Accepted
+[Sat Nov  8 11:56:21 2025] [::1]:59235 [200]: POST /receiver.php
+[Sat Nov  8 11:56:21 2025] [::1]:59235 Closing
+[Sat Nov  8 11:56:23 2025] [::1]:59237 Accepted
+[Sat Nov  8 11:56:23 2025] [::1]:59237 [200]: POST /receiver.php
+[Sat Nov  8 11:56:23 2025] [::1]:59237 Closing
+[Sat Nov  8 11:56:25 2025] [::1]:59238 Accepted
+[Sat Nov  8 11:56:25 2025] [::1]:59238 [200]: POST /receiver.php
+[Sat Nov  8 11:56:25 2025] [::1]:59238 Closing
+[Sat Nov  8 11:56:27 2025] [::1]:59239 Accepted
+[Sat Nov  8 11:56:27 2025] [::1]:59239 [200]: POST /receiver.php
+[Sat Nov  8 11:56:27 2025] [::1]:59239 Closing
+[Sat Nov  8 11:56:29 2025] [::1]:59240 Accepted
+[Sat Nov  8 11:56:29 2025] [::1]:59240 [200]: POST /receiver.php
+[Sat Nov  8 11:56:29 2025] [::1]:59240 Closing
+[Sat Nov  8 11:56:30 2025] [::1]:59241 Accepted
+[Sat Nov  8 11:56:30 2025] [::1]:59241 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:56:30 2025] [::1]:59241 Closing
+[Sat Nov  8 11:56:31 2025] [::1]:59242 Accepted
+[Sat Nov  8 11:56:31 2025] [::1]:59242 [200]: POST /receiver.php
+[Sat Nov  8 11:56:31 2025] [::1]:59242 Closing
+[Sat Nov  8 11:56:33 2025] [::1]:59244 Accepted
+[Sat Nov  8 11:56:33 2025] [::1]:59244 [200]: POST /receiver.php
+[Sat Nov  8 11:56:33 2025] [::1]:59244 Closing
+[Sat Nov  8 11:56:35 2025] [::1]:59245 Accepted
+[Sat Nov  8 11:56:35 2025] [::1]:59245 [200]: POST /receiver.php
+[Sat Nov  8 11:56:35 2025] [::1]:59245 Closing
+[Sat Nov  8 11:56:36 2025] [::1]:59246 Accepted
+[Sat Nov  8 11:56:36 2025] [::1]:59246 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:56:36 2025] [::1]:59246 Closing
+[Sat Nov  8 11:56:36 2025] [::1]:59248 Accepted
+[Sat Nov  8 11:56:36 2025] [::1]:59247 Accepted
+[Sat Nov  8 11:56:36 2025] [::1]:59248 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:56:36 2025] [::1]:59247 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:56:37 2025] [::1]:59248 Closing
+[Sat Nov  8 11:56:37 2025] [::1]:59247 Closing
+[Sat Nov  8 11:56:37 2025] [::1]:59249 Accepted
+[Sat Nov  8 11:56:37 2025] [::1]:59249 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:56:37 2025] [::1]:59249 Closing
+[Sat Nov  8 11:56:37 2025] [::1]:59250 Accepted
+[Sat Nov  8 11:56:37 2025] [::1]:59250 [200]: POST /receiver.php
+[Sat Nov  8 11:56:37 2025] [::1]:59250 Closing
+[Sat Nov  8 11:56:39 2025] [::1]:59251 Accepted
+[Sat Nov  8 11:56:39 2025] [::1]:59251 [200]: POST /receiver.php
+[Sat Nov  8 11:56:39 2025] [::1]:59251 Closing
+[Sat Nov  8 11:56:41 2025] [::1]:59252 Accepted
+[Sat Nov  8 11:56:41 2025] [::1]:59252 [200]: POST /receiver.php
+[Sat Nov  8 11:56:41 2025] [::1]:59252 Closing
+[Sat Nov  8 11:56:43 2025] [::1]:59254 Accepted
+[Sat Nov  8 11:56:43 2025] [::1]:59254 [200]: POST /receiver.php
+[Sat Nov  8 11:56:43 2025] [::1]:59254 Closing
+[Sat Nov  8 11:56:45 2025] [::1]:59255 Accepted
+[Sat Nov  8 11:56:45 2025] [::1]:59255 [200]: POST /receiver.php
+[Sat Nov  8 11:56:45 2025] [::1]:59255 Closing
+[Sat Nov  8 11:56:47 2025] [::1]:59256 Accepted
+[Sat Nov  8 11:56:47 2025] [::1]:59256 [200]: POST /receiver.php
+[Sat Nov  8 11:56:47 2025] [::1]:59256 Closing
+[Sat Nov  8 11:56:49 2025] [::1]:59257 Accepted
+[Sat Nov  8 11:56:49 2025] [::1]:59257 [200]: POST /receiver.php
+[Sat Nov  8 11:56:49 2025] [::1]:59257 Closing
+[Sat Nov  8 11:56:51 2025] [::1]:59258 Accepted
+[Sat Nov  8 11:56:51 2025] [::1]:59258 [200]: POST /receiver.php
+[Sat Nov  8 11:56:51 2025] [::1]:59258 Closing
+[Sat Nov  8 11:56:52 2025] [::1]:59259 Accepted
+[Sat Nov  8 11:56:52 2025] [::1]:59259 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:56:52 2025] [::1]:59259 Closing
+[Sat Nov  8 11:56:52 2025] [::1]:59260 Accepted
+[Sat Nov  8 11:56:52 2025] [::1]:59260 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:56:52 2025] [::1]:59260 Closing
+[Sat Nov  8 11:56:52 2025] [::1]:59261 Accepted
+[Sat Nov  8 11:56:52 2025] [::1]:59261 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:56:52 2025] [::1]:59261 Closing
+[Sat Nov  8 11:56:53 2025] [::1]:59262 Accepted
+[Sat Nov  8 11:56:53 2025] [::1]:59262 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:56:53 2025] [::1]:59262 Closing
+[Sat Nov  8 11:56:53 2025] [::1]:59264 Accepted
+[Sat Nov  8 11:56:53 2025] [::1]:59264 [200]: POST /receiver.php
+[Sat Nov  8 11:56:53 2025] [::1]:59264 Closing
+[Sat Nov  8 11:56:55 2025] [::1]:59265 Accepted
+[Sat Nov  8 11:56:55 2025] [::1]:59265 [200]: POST /receiver.php
+[Sat Nov  8 11:56:55 2025] [::1]:59265 Closing
+[Sat Nov  8 11:56:57 2025] [::1]:59266 Accepted
+[Sat Nov  8 11:56:57 2025] [::1]:59266 [200]: POST /receiver.php
+[Sat Nov  8 11:56:57 2025] [::1]:59266 Closing
+[Sat Nov  8 11:56:59 2025] [::1]:59267 Accepted
+[Sat Nov  8 11:56:59 2025] [::1]:59267 [200]: POST /receiver.php
+[Sat Nov  8 11:56:59 2025] [::1]:59267 Closing
+[Sat Nov  8 11:57:01 2025] [::1]:59268 Accepted
+[Sat Nov  8 11:57:01 2025] [::1]:59268 [200]: POST /receiver.php
+[Sat Nov  8 11:57:01 2025] [::1]:59268 Closing
+[Sat Nov  8 11:57:03 2025] [::1]:59270 Accepted
+[Sat Nov  8 11:57:03 2025] [::1]:59270 [200]: POST /receiver.php
+[Sat Nov  8 11:57:03 2025] [::1]:59270 Closing
+[Sat Nov  8 11:57:05 2025] [::1]:59271 Accepted
+[Sat Nov  8 11:57:05 2025] [::1]:59271 [200]: POST /receiver.php
+[Sat Nov  8 11:57:05 2025] [::1]:59271 Closing
+[Sat Nov  8 11:57:07 2025] [::1]:59272 Accepted
+[Sat Nov  8 11:57:07 2025] [::1]:59272 [200]: POST /receiver.php
+[Sat Nov  8 11:57:07 2025] [::1]:59272 Closing
+[Sat Nov  8 11:57:09 2025] [::1]:59273 Accepted
+[Sat Nov  8 11:57:09 2025] [::1]:59273 [200]: POST /receiver.php
+[Sat Nov  8 11:57:09 2025] [::1]:59273 Closing
+[Sat Nov  8 11:57:11 2025] [::1]:59274 Accepted
+[Sat Nov  8 11:57:11 2025] [::1]:59274 [200]: POST /receiver.php
+[Sat Nov  8 11:57:11 2025] [::1]:59274 Closing
+[Sat Nov  8 11:57:12 2025] [::1]:59275 Accepted
+[Sat Nov  8 11:57:12 2025] [::1]:59275 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:57:12 2025] [::1]:59275 Closing
+[Sat Nov  8 11:57:12 2025] [::1]:59277 Accepted
+[Sat Nov  8 11:57:12 2025] [::1]:59276 Accepted
+[Sat Nov  8 11:57:12 2025] [::1]:59277 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:57:12 2025] [::1]:59276 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:57:12 2025] [::1]:59277 Closing
+[Sat Nov  8 11:57:12 2025] [::1]:59276 Closing
+[Sat Nov  8 11:57:12 2025] [::1]:59278 Accepted
+[Sat Nov  8 11:57:12 2025] [::1]:59278 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:57:12 2025] [::1]:59278 Closing
+[Sat Nov  8 11:57:13 2025] [::1]:59280 Accepted
+[Sat Nov  8 11:57:13 2025] [::1]:59280 [200]: POST /receiver.php
+[Sat Nov  8 11:57:13 2025] [::1]:59280 Closing
+[Sat Nov  8 11:57:15 2025] [::1]:59281 Accepted
+[Sat Nov  8 11:57:15 2025] [::1]:59281 [200]: POST /receiver.php
+[Sat Nov  8 11:57:15 2025] [::1]:59281 Closing
+[Sat Nov  8 11:57:17 2025] [::1]:59282 Accepted
+[Sat Nov  8 11:57:17 2025] [::1]:59282 [200]: POST /receiver.php
+[Sat Nov  8 11:57:17 2025] [::1]:59282 Closing
+[Sat Nov  8 11:57:19 2025] [::1]:59283 Accepted
+[Sat Nov  8 11:57:19 2025] [::1]:59283 [200]: POST /receiver.php
+[Sat Nov  8 11:57:19 2025] [::1]:59283 Closing
+[Sat Nov  8 11:57:21 2025] [::1]:59286 Accepted
+[Sat Nov  8 11:57:21 2025] [::1]:59286 [200]: POST /receiver.php
+[Sat Nov  8 11:57:21 2025] [::1]:59286 Closing
+[Sat Nov  8 11:57:23 2025] [::1]:59288 Accepted
+[Sat Nov  8 11:57:23 2025] [::1]:59288 [200]: POST /receiver.php
+[Sat Nov  8 11:57:23 2025] [::1]:59288 Closing
+[Sat Nov  8 11:57:25 2025] [::1]:59289 Accepted
+[Sat Nov  8 11:57:25 2025] [::1]:59289 [200]: POST /receiver.php
+[Sat Nov  8 11:57:25 2025] [::1]:59289 Closing
+[Sat Nov  8 11:57:27 2025] [::1]:59290 Accepted
+[Sat Nov  8 11:57:27 2025] [::1]:59290 [200]: POST /receiver.php
+[Sat Nov  8 11:57:27 2025] [::1]:59290 Closing
+[Sat Nov  8 11:57:28 2025] [::1]:59291 Accepted
+[Sat Nov  8 11:57:28 2025] [::1]:59291 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:57:28 2025] [::1]:59291 Closing
+[Sat Nov  8 11:57:28 2025] [::1]:59292 Accepted
+[Sat Nov  8 11:57:28 2025] [::1]:59293 Accepted
+[Sat Nov  8 11:57:28 2025] [::1]:59292 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:57:28 2025] [::1]:59293 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:57:28 2025] [::1]:59292 Closing
+[Sat Nov  8 11:57:28 2025] [::1]:59293 Closing
+[Sat Nov  8 11:57:29 2025] [::1]:59295 Accepted
+[Sat Nov  8 11:57:29 2025] [::1]:59295 [200]: POST /receiver.php
+[Sat Nov  8 11:57:29 2025] [::1]:59295 Closing
+[Sat Nov  8 11:57:31 2025] [::1]:59296 Accepted
+[Sat Nov  8 11:57:31 2025] [::1]:59296 [200]: POST /receiver.php
+[Sat Nov  8 11:57:31 2025] [::1]:59296 Closing
+[Sat Nov  8 11:57:33 2025] [::1]:59298 Accepted
+[Sat Nov  8 11:57:33 2025] [::1]:59298 [200]: POST /receiver.php
+[Sat Nov  8 11:57:33 2025] [::1]:59298 Closing
+[Sat Nov  8 11:57:35 2025] [::1]:59299 Accepted
+[Sat Nov  8 11:57:35 2025] [::1]:59299 [200]: POST /receiver.php
+[Sat Nov  8 11:57:35 2025] [::1]:59299 Closing
+[Sat Nov  8 11:57:37 2025] [::1]:59300 Accepted
+[Sat Nov  8 11:57:37 2025] [::1]:59300 [200]: POST /receiver.php
+[Sat Nov  8 11:57:37 2025] [::1]:59300 Closing
+[Sat Nov  8 11:57:39 2025] [::1]:59301 Accepted
+[Sat Nov  8 11:57:39 2025] [::1]:59301 [200]: POST /receiver.php
+[Sat Nov  8 11:57:39 2025] [::1]:59301 Closing
+[Sat Nov  8 11:57:41 2025] [::1]:59302 Accepted
+[Sat Nov  8 11:57:41 2025] [::1]:59302 [200]: POST /receiver.php
+[Sat Nov  8 11:57:41 2025] [::1]:59302 Closing
+[Sat Nov  8 11:57:43 2025] [::1]:59304 Accepted
+[Sat Nov  8 11:57:43 2025] [::1]:59304 [200]: POST /receiver.php
+[Sat Nov  8 11:57:43 2025] [::1]:59304 Closing
+[Sat Nov  8 11:57:45 2025] [::1]:59305 Accepted
+[Sat Nov  8 11:57:45 2025] [::1]:59305 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:57:45 2025] [::1]:59305 Closing
+[Sat Nov  8 11:57:45 2025] [::1]:59306 Accepted
+[Sat Nov  8 11:57:45 2025] [::1]:59306 [200]: POST /receiver.php
+[Sat Nov  8 11:57:45 2025] [::1]:59306 Closing
+[Sat Nov  8 11:57:47 2025] [::1]:59307 Accepted
+[Sat Nov  8 11:57:47 2025] [::1]:59307 [200]: GET /templates/camera_temp/index.html
+[Sat Nov  8 11:57:47 2025] [::1]:59307 Closing
+[Sat Nov  8 11:57:47 2025] [::1]:59308 Accepted
+[Sat Nov  8 11:57:47 2025] [::1]:59309 Accepted
+[Sat Nov  8 11:57:47 2025] [::1]:59309 [200]: GET /templates/camera_temp/style.css
+[Sat Nov  8 11:57:47 2025] [::1]:59308 [200]: GET /templates/camera_temp/all.css
+[Sat Nov  8 11:57:47 2025] [::1]:59309 Closing
+[Sat Nov  8 11:57:47 2025] [::1]:59308 Closing
+[Sat Nov  8 11:57:47 2025] [::1]:59310 Accepted
+[Sat Nov  8 11:57:47 2025] [::1]:59310 [200]: POST /receiver.php
+[Sat Nov  8 11:57:47 2025] [::1]:59310 Closing
+[Sat Nov  8 11:57:48 2025] [::1]:59311 Accepted
+[Sat Nov  8 11:57:48 2025] [::1]:59311 [404]: GET /favicon.ico - No such file or directory
+[Sat Nov  8 11:57:48 2025] [::1]:59311 Closing
+[Sat Nov  8 11:57:49 2025] [::1]:59312 Accepted
+[Sat Nov  8 11:57:49 2025] [::1]:59312 [200]: POST /receiver.php
+[Sat Nov  8 11:57:49 2025] [::1]:59312 Closing
+[Sat Nov  8 11:57:51 2025] [::1]:59313 Accepted
+[Sat Nov  8 11:57:51 2025] [::1]:59313 [200]: POST /receiver.php
+[Sat Nov  8 11:57:51 2025] [::1]:59313 Closing
+[Sat Nov  8 11:57:53 2025] [::1]:59315 Accepted
+[Sat Nov  8 11:57:53 2025] [::1]:59315 [200]: POST /receiver.php
+[Sat Nov  8 11:57:53 2025] [::1]:59315 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59316 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59316 [200]: GET /panel.php
+[Sat Nov  8 11:57:55 2025] [::1]:59316 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59317 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59318 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59317 [200]: GET /assets/css/light-theme.min.css
+[Sat Nov  8 11:57:55 2025] [::1]:59319 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59318 [200]: GET /assets/css/bootstrap.min.css
+[Sat Nov  8 11:57:55 2025] [::1]:59320 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59319 [200]: GET /assets/js/jquery.min.js
+[Sat Nov  8 11:57:55 2025] [::1]:59321 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59320 [200]: GET /assets/js/script.js
+[Sat Nov  8 11:57:55 2025] [::1]:59317 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59322 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59321 [200]: GET /assets/js/growl-notification.min.js
+[Sat Nov  8 11:57:55 2025] [::1]:59322 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Nov  8 11:57:55 2025] [::1]:59318 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59319 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59320 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59321 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59322 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59323 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59323 [200]: POST /list_templates.php
+[Sat Nov  8 11:57:55 2025] [::1]:59323 Closing
+[Sat Nov  8 11:57:55 2025] [::1]:59324 Accepted
+[Sat Nov  8 11:57:55 2025] [::1]:59324 [200]: GET /Settings.json
+[Sat Nov  8 11:57:55 2025] [::1]:59324 Closing
+[Sat Nov  8 11:57:58 2025] [::1]:59326 Accepted
+[Sat Nov  8 11:57:58 2025] [::1]:59326 [200]: POST /receiver.php
+[Sat Nov  8 11:57:58 2025] [::1]:59326 Closing
+[Sat Nov  8 11:58:00 2025] [::1]:59327 Accepted
+[Sat Nov  8 11:58:00 2025] [::1]:59327 [200]: POST /receiver.php
+[Sat Nov  8 11:58:00 2025] [::1]:59327 Closing
+[Sat Nov  8 11:58:02 2025] [::1]:59329 Accepted
+[Sat Nov  8 11:58:02 2025] [::1]:59329 [200]: POST /receiver.php
+[Sat Nov  8 11:58:02 2025] [::1]:59329 Closing
+[Sat Nov  8 11:58:04 2025] [::1]:59330 Accepted
+[Sat Nov  8 11:58:04 2025] [::1]:59330 [200]: POST /receiver.php
+[Sat Nov  8 11:58:04 2025] [::1]:59330 Closing
+[Sat Nov  8 11:58:06 2025] [::1]:59331 Accepted
+[Sat Nov  8 11:58:06 2025] [::1]:59331 [200]: POST /receiver.php
+[Sat Nov  8 11:58:06 2025] [::1]:59331 Closing
+[Sat Nov  8 11:58:08 2025] [::1]:59332 Accepted
+[Sat Nov  8 11:58:08 2025] [::1]:59332 [200]: POST /receiver.php
+[Sat Nov  8 11:58:08 2025] [::1]:59332 Closing
+[Sat Nov  8 11:58:10 2025] [::1]:59333 Accepted
+[Sat Nov  8 11:58:10 2025] [::1]:59333 [200]: POST /receiver.php
+[Sat Nov  8 11:58:10 2025] [::1]:59333 Closing
+[Sat Nov  8 11:58:12 2025] [::1]:59334 Accepted
+[Sat Nov  8 11:58:12 2025] [::1]:59334 [200]: POST /receiver.php
+[Sat Nov  8 11:58:12 2025] [::1]:59334 Closing
+[Sat Nov  8 11:58:14 2025] [::1]:59335 Accepted
+[Sat Nov  8 11:58:14 2025] [::1]:59335 [200]: POST /receiver.php
+[Sat Nov  8 11:58:14 2025] [::1]:59335 Closing
+[Sat Nov  8 11:58:16 2025] [::1]:59336 Accepted
+[Sat Nov  8 11:58:16 2025] [::1]:59336 [200]: POST /receiver.php
+[Sat Nov  8 11:58:16 2025] [::1]:59336 Closing
+[Sat Nov  8 11:58:18 2025] [::1]:59337 Accepted
+[Sat Nov  8 11:58:18 2025] [::1]:59337 [200]: POST /receiver.php
+[Sat Nov  8 11:58:18 2025] [::1]:59337 Closing
+[Sat Nov  8 11:58:20 2025] [::1]:59338 Accepted
+[Sat Nov  8 11:58:20 2025] [::1]:59338 [200]: POST /receiver.php
+[Sat Nov  8 11:58:20 2025] [::1]:59338 Closing
+[Sat Nov  8 11:58:22 2025] [::1]:59339 Accepted
+[Sat Nov  8 11:58:22 2025] [::1]:59339 [200]: POST /receiver.php
+[Sat Nov  8 11:58:22 2025] [::1]:59339 Closing
+[Sat Nov  8 11:58:24 2025] [::1]:59341 Accepted
+[Sat Nov  8 11:58:24 2025] [::1]:59341 [200]: POST /receiver.php
+[Sat Nov  8 11:58:24 2025] [::1]:59341 Closing
+[Sat Nov  8 11:58:26 2025] [::1]:59342 Accepted
+[Sat Nov  8 11:58:26 2025] [::1]:59342 [200]: POST /receiver.php
+[Sat Nov  8 11:58:26 2025] [::1]:59342 Closing
+[Sat Nov  8 11:58:28 2025] [::1]:59343 Accepted
+[Sat Nov  8 11:58:28 2025] [::1]:59343 [200]: POST /receiver.php
+[Sat Nov  8 11:58:28 2025] [::1]:59343 Closing
+[Sat Nov  8 11:58:30 2025] [::1]:59345 Accepted
+[Sat Nov  8 11:58:30 2025] [::1]:59345 [200]: POST /receiver.php
+[Sat Nov  8 11:58:30 2025] [::1]:59345 Closing
+[Sat Nov  8 11:58:32 2025] [::1]:59346 Accepted
+[Sat Nov  8 11:58:32 2025] [::1]:59346 [200]: POST /receiver.php
+[Sat Nov  8 11:58:32 2025] [::1]:59346 Closing
+[Sat Nov  8 11:58:34 2025] [::1]:59348 Accepted
+[Sat Nov  8 11:58:34 2025] [::1]:59348 [200]: POST /receiver.php
+[Sat Nov  8 11:58:34 2025] [::1]:59348 Closing
+[Sat Nov  8 11:58:36 2025] [::1]:59349 Accepted
+[Sat Nov  8 11:58:36 2025] [::1]:59349 [200]: POST /receiver.php
+[Sat Nov  8 11:58:36 2025] [::1]:59349 Closing
+[Sat Nov  8 11:58:38 2025] [::1]:59350 Accepted
+[Sat Nov  8 11:58:38 2025] [::1]:59350 [200]: POST /receiver.php
+[Sat Nov  8 11:58:38 2025] [::1]:59350 Closing
+[Sat Nov  8 11:58:40 2025] [::1]:59351 Accepted
+[Sat Nov  8 11:58:40 2025] [::1]:59351 [200]: POST /receiver.php
+[Sat Nov  8 11:58:40 2025] [::1]:59351 Closing
+[Sat Nov  8 11:58:42 2025] [::1]:59352 Accepted
+[Sat Nov  8 11:58:42 2025] [::1]:59352 [200]: POST /receiver.php
+[Sat Nov  8 11:58:42 2025] [::1]:59352 Closing
+[Sat Nov  8 11:58:44 2025] [::1]:59354 Accepted
+[Sat Nov  8 11:58:44 2025] [::1]:59354 [200]: POST /receiver.php
+[Sat Nov  8 11:58:44 2025] [::1]:59354 Closing
+[Sat Nov  8 11:58:46 2025] [::1]:59355 Accepted
+[Sat Nov  8 11:58:46 2025] [::1]:59355 [200]: POST /receiver.php
+[Sat Nov  8 11:58:46 2025] [::1]:59355 Closing
+[Sat Nov  8 11:58:48 2025] [::1]:59356 Accepted
+[Sat Nov  8 11:58:48 2025] [::1]:59356 [200]: POST /receiver.php
+[Sat Nov  8 11:58:48 2025] [::1]:59356 Closing
+[Sat Nov  8 11:58:50 2025] [::1]:59357 Accepted
+[Sat Nov  8 11:58:50 2025] [::1]:59357 [200]: POST /receiver.php
+[Sat Nov  8 11:58:50 2025] [::1]:59357 Closing
+[Sat Nov  8 11:58:52 2025] [::1]:59358 Accepted
+[Sat Nov  8 11:58:52 2025] [::1]:59358 [200]: POST /receiver.php
+[Sat Nov  8 11:58:52 2025] [::1]:59358 Closing
+[Sat Nov  8 11:58:54 2025] [::1]:59360 Accepted
+[Sat Nov  8 11:58:54 2025] [::1]:59360 [200]: POST /receiver.php
+[Sat Nov  8 11:58:54 2025] [::1]:59360 Closing
+[Sat Nov  8 11:58:56 2025] [::1]:59361 Accepted
+[Sat Nov  8 11:58:56 2025] [::1]:59361 [200]: POST /receiver.php
+[Sat Nov  8 11:58:56 2025] [::1]:59361 Closing
+[Sat Nov  8 11:58:58 2025] [::1]:59362 Accepted
+[Sat Nov  8 11:58:58 2025] [::1]:59362 [200]: POST /receiver.php
+[Sat Nov  8 11:58:58 2025] [::1]:59362 Closing
+[Sat Nov  8 11:59:00 2025] [::1]:59363 Accepted
+[Sat Nov  8 11:59:00 2025] [::1]:59363 [200]: POST /receiver.php
+[Sat Nov  8 11:59:00 2025] [::1]:59363 Closing
+[Sat Nov  8 11:59:02 2025] [::1]:59364 Accepted
+[Sat Nov  8 11:59:02 2025] [::1]:59364 [200]: POST /receiver.php
+[Sat Nov  8 11:59:02 2025] [::1]:59364 Closing
+[Sat Nov  8 11:59:04 2025] [::1]:59367 Accepted
+[Sat Nov  8 11:59:04 2025] [::1]:59367 [200]: POST /receiver.php
+[Sat Nov  8 11:59:04 2025] [::1]:59367 Closing
+[Sat Nov  8 11:59:06 2025] [::1]:59368 Accepted
+[Sat Nov  8 11:59:06 2025] [::1]:59368 [200]: POST /receiver.php
+[Sat Nov  8 11:59:06 2025] [::1]:59368 Closing
+[Sat Nov  8 11:59:08 2025] [::1]:59369 Accepted
+[Sat Nov  8 11:59:08 2025] [::1]:59369 [200]: POST /receiver.php
+[Sat Nov  8 11:59:08 2025] [::1]:59369 Closing
+[Sat Nov  8 11:59:10 2025] [::1]:59370 Accepted
+[Sat Nov  8 11:59:10 2025] [::1]:59370 [200]: POST /receiver.php
+[Sat Nov  8 11:59:10 2025] [::1]:59370 Closing
+[Sat Nov  8 11:59:12 2025] [::1]:59373 Accepted
+[Sat Nov  8 11:59:12 2025] [::1]:59373 [200]: POST /receiver.php
+[Sat Nov  8 11:59:12 2025] [::1]:59373 Closing
+[Sat Nov  8 11:59:14 2025] [::1]:59375 Accepted
+[Sat Nov  8 11:59:14 2025] [::1]:59375 [200]: POST /receiver.php
+[Sat Nov  8 11:59:14 2025] [::1]:59375 Closing
+[Sat Nov  8 11:59:16 2025] [::1]:59377 Accepted
+[Sat Nov  8 11:59:16 2025] [::1]:59377 [200]: POST /receiver.php
+[Sat Nov  8 11:59:16 2025] [::1]:59377 Closing
+[Sat Nov  8 11:59:18 2025] [::1]:59378 Accepted
+[Sat Nov  8 11:59:18 2025] [::1]:59378 [200]: POST /receiver.php
+[Sat Nov  8 11:59:18 2025] [::1]:59378 Closing
+[Sat Nov  8 11:59:20 2025] [::1]:59379 Accepted
+[Sat Nov  8 11:59:20 2025] [::1]:59379 [200]: POST /receiver.php
+[Sat Nov  8 11:59:20 2025] [::1]:59379 Closing
+[Sat Nov  8 11:59:22 2025] [::1]:59380 Accepted
+[Sat Nov  8 11:59:22 2025] [::1]:59380 [200]: POST /receiver.php
+[Sat Nov  8 11:59:22 2025] [::1]:59380 Closing
+[Sat Nov  8 11:59:24 2025] [::1]:59382 Accepted
+[Sat Nov  8 11:59:24 2025] [::1]:59382 [200]: POST /receiver.php
+[Sat Nov  8 11:59:24 2025] [::1]:59382 Closing
+[Sat Nov  8 11:59:26 2025] [::1]:59383 Accepted
+[Sat Nov  8 11:59:26 2025] [::1]:59383 [200]: POST /receiver.php
+[Sat Nov  8 11:59:26 2025] [::1]:59383 Closing
+[Sat Nov  8 11:59:28 2025] [::1]:59384 Accepted
+[Sat Nov  8 11:59:28 2025] [::1]:59384 [200]: POST /receiver.php
+[Sat Nov  8 11:59:28 2025] [::1]:59384 Closing
+[Sat Nov  8 11:59:30 2025] [::1]:59385 Accepted
+[Sat Nov  8 11:59:30 2025] [::1]:59385 [200]: POST /receiver.php
+[Sat Nov  8 11:59:30 2025] [::1]:59385 Closing
+[Sat Nov  8 11:59:32 2025] [::1]:59386 Accepted
+[Sat Nov  8 11:59:32 2025] [::1]:59386 [200]: POST /receiver.php
+[Sat Nov  8 11:59:32 2025] [::1]:59386 Closing
+[Sat Nov  8 11:59:34 2025] [::1]:59388 Accepted
+[Sat Nov  8 11:59:34 2025] [::1]:59388 [200]: POST /receiver.php
+[Sat Nov  8 11:59:34 2025] [::1]:59388 Closing
+[Sat Nov  8 11:59:36 2025] [::1]:59389 Accepted
+[Sat Nov  8 11:59:36 2025] [::1]:59389 [200]: POST /receiver.php
+[Sat Nov  8 11:59:36 2025] [::1]:59389 Closing
+[Sat Nov  8 11:59:38 2025] [::1]:59390 Accepted
+[Sat Nov  8 11:59:38 2025] [::1]:59390 [200]: POST /receiver.php
+[Sat Nov  8 11:59:38 2025] [::1]:59390 Closing
+[Sat Nov  8 11:59:40 2025] [::1]:59392 Accepted
+[Sat Nov  8 11:59:40 2025] [::1]:59392 [200]: POST /receiver.php
+[Sat Nov  8 11:59:40 2025] [::1]:59392 Closing
+[Sat Nov  8 11:59:42 2025] [::1]:59396 Accepted
+[Sat Nov  8 11:59:42 2025] [::1]:59396 [200]: POST /receiver.php
+[Sat Nov  8 11:59:42 2025] [::1]:59396 Closing
+[Sat Nov  8 11:59:44 2025] [::1]:59398 Accepted
+[Sat Nov  8 11:59:44 2025] [::1]:59398 [200]: POST /receiver.php
+[Sat Nov  8 11:59:44 2025] [::1]:59398 Closing
+[Sat Nov  8 11:59:46 2025] [::1]:59399 Accepted
+[Sat Nov  8 11:59:46 2025] [::1]:59399 [200]: POST /receiver.php
+[Sat Nov  8 11:59:46 2025] [::1]:59399 Closing
+[Sat Nov  8 11:59:48 2025] [::1]:59400 Accepted
+[Sat Nov  8 11:59:48 2025] [::1]:59400 [200]: POST /receiver.php
+[Sat Nov  8 11:59:48 2025] [::1]:59400 Closing
+[Sat Nov  8 11:59:50 2025] [::1]:59401 Accepted
+[Sat Nov  8 11:59:50 2025] [::1]:59401 [200]: POST /receiver.php
+[Sat Nov  8 11:59:50 2025] [::1]:59401 Closing
+[Sat Nov  8 11:59:52 2025] [::1]:59402 Accepted
+[Sat Nov  8 11:59:52 2025] [::1]:59402 [200]: POST /receiver.php
+[Sat Nov  8 11:59:52 2025] [::1]:59402 Closing
+[Sat Nov  8 11:59:54 2025] [::1]:59404 Accepted
+[Sat Nov  8 11:59:54 2025] [::1]:59404 [200]: POST /receiver.php
+[Sat Nov  8 11:59:54 2025] [::1]:59404 Closing
+[Sat Nov  8 11:59:56 2025] [::1]:59405 Accepted
+[Sat Nov  8 11:59:56 2025] [::1]:59405 [200]: POST /receiver.php
+[Sat Nov  8 11:59:56 2025] [::1]:59405 Closing
+[Sat Nov  8 11:59:58 2025] [::1]:59406 Accepted
+[Sat Nov  8 11:59:58 2025] [::1]:59406 [200]: POST /receiver.php
+[Sat Nov  8 11:59:58 2025] [::1]:59406 Closing
+[Sat Nov  8 12:00:00 2025] [::1]:59407 Accepted
+[Sat Nov  8 12:00:00 2025] [::1]:59407 [200]: POST /receiver.php
+[Sat Nov  8 12:00:00 2025] [::1]:59407 Closing
+[Sat Nov  8 12:00:02 2025] [::1]:59408 Accepted
+[Sat Nov  8 12:00:02 2025] [::1]:59408 [200]: POST /receiver.php
+[Sat Nov  8 12:00:02 2025] [::1]:59408 Closing
+[Sat Nov  8 12:00:04 2025] [::1]:59410 Accepted
+[Sat Nov  8 12:00:04 2025] [::1]:59410 [200]: POST /receiver.php
+[Sat Nov  8 12:00:04 2025] [::1]:59410 Closing
+[Sat Nov  8 12:00:51 2025] [::1]:59416 Accepted
+[Sat Nov  8 12:00:51 2025] [::1]:59416 [200]: POST /receiver.php
+[Sat Nov  8 12:00:51 2025] [::1]:59416 Closing
+[Sat Nov  8 12:01:27 2025] [::1]:59426 Accepted
+[Sat Nov  8 12:01:27 2025] [::1]:59426 [200]: POST /receiver.php
+[Sat Nov  8 12:01:27 2025] [::1]:59426 Closing
+[Sat Nov  8 12:01:28 2025] [::1]:59427 Accepted
+[Sat Nov  8 12:01:28 2025] [::1]:59427 [200]: POST /receiver.php
+[Sat Nov  8 12:01:28 2025] [::1]:59427 Closing
+[Sat Nov  8 12:01:30 2025] [::1]:59428 Accepted
+[Sat Nov  8 12:01:30 2025] [::1]:59428 [200]: POST /receiver.php
+[Sat Nov  8 12:01:30 2025] [::1]:59428 Closing
+[Sat Nov  8 12:01:32 2025] [::1]:59429 Accepted
+[Sat Nov  8 12:01:32 2025] [::1]:59429 [200]: POST /receiver.php
+[Sat Nov  8 12:01:32 2025] [::1]:59429 Closing
+[Sat Nov  8 12:01:34 2025] [::1]:59431 Accepted
+[Sat Nov  8 12:01:34 2025] [::1]:59431 [200]: POST /receiver.php
+[Sat Nov  8 12:01:34 2025] [::1]:59431 Closing
+[Sat Nov  8 12:01:36 2025] [::1]:59432 Accepted
+[Sat Nov  8 12:01:36 2025] [::1]:59432 [200]: POST /receiver.php
+[Sat Nov  8 12:01:36 2025] [::1]:59432 Closing
+[Sat Nov  8 12:01:38 2025] [::1]:59433 Accepted
+[Sat Nov  8 12:01:38 2025] [::1]:59433 [200]: POST /receiver.php
+[Sat Nov  8 12:01:38 2025] [::1]:59433 Closing
+[Sat Nov  8 12:01:40 2025] [::1]:59434 Accepted
+[Sat Nov  8 12:01:40 2025] [::1]:59434 [200]: POST /receiver.php
+[Sat Nov  8 12:01:40 2025] [::1]:59434 Closing
+[Sat Nov  8 12:01:42 2025] [::1]:59435 Accepted
+[Sat Nov  8 12:01:42 2025] [::1]:59435 [200]: POST /receiver.php
+[Sat Nov  8 12:01:42 2025] [::1]:59435 Closing
+[Sat Nov  8 12:01:44 2025] [::1]:59437 Accepted
+[Sat Nov  8 12:01:44 2025] [::1]:59437 [200]: POST /receiver.php
+[Sat Nov  8 12:01:44 2025] [::1]:59437 Closing
+[Sat Nov  8 12:01:46 2025] [::1]:59438 Accepted
+[Sat Nov  8 12:01:46 2025] [::1]:59438 [200]: POST /receiver.php
+[Sat Nov  8 12:01:46 2025] [::1]:59438 Closing
+[Sat Nov  8 12:01:48 2025] [::1]:59439 Accepted
+[Sat Nov  8 12:01:48 2025] [::1]:59439 [200]: POST /receiver.php
+[Sat Nov  8 12:01:48 2025] [::1]:59439 Closing
+[Sat Nov  8 12:01:50 2025] [::1]:59440 Accepted
+[Sat Nov  8 12:01:50 2025] [::1]:59440 [200]: POST /receiver.php
+[Sat Nov  8 12:01:50 2025] [::1]:59440 Closing
+[Sat Nov  8 12:01:51 2025] [::1]:59441 Accepted
+[Sat Nov  8 12:01:51 2025] [::1]:59441 [200]: POST /templates/camera_temp/post.php
+[Sat Nov  8 12:01:51 2025] [::1]:59441 Closing
+[Sat Nov  8 12:01:52 2025] [::1]:59442 Accepted
+[Sat Nov  8 12:01:52 2025] [::1]:59442 [200]: POST /receiver.php
+[Sat Nov  8 12:01:52 2025] [::1]:59442 Closing
+[Sat Nov  8 12:01:54 2025] [::1]:59444 Accepted
+[Sat Nov  8 12:01:54 2025] [::1]:59444 [200]: POST /receiver.php
+[Sat Nov  8 12:01:54 2025] [::1]:59444 Closing
+[Sat Nov  8 12:01:55 2025] [::1]:59445 Accepted
+[Sat Nov  8 12:01:55 2025] [::1]:59445 [200]: GET /images/cam08Nov2025110151.png
+[Sat Nov  8 12:01:55 2025] [::1]:59445 Closing
+[Sat Nov  8 12:01:56 2025] [::1]:59446 Accepted
+[Sat Nov  8 12:01:56 2025] [::1]:59446 [200]: POST /receiver.php
+[Sat Nov  8 12:01:56 2025] [::1]:59446 Closing
+[Sat Nov  8 12:01:58 2025] [::1]:59448 Accepted
+[Sat Nov  8 12:01:58 2025] [::1]:59448 [200]: POST /receiver.php
+[Sat Nov  8 12:01:58 2025] [::1]:59448 Closing
+[Sat Nov  8 12:02:03 2025] [::1]:59454 Accepted
+[Sat Nov  8 12:02:03 2025] [::1]:59454 [200]: POST /receiver.php
+[Sat Nov  8 12:02:03 2025] [::1]:59454 Closing
+[Sat Nov  8 12:02:05 2025] [::1]:59455 Accepted
+[Sat Nov  8 12:02:05 2025] [::1]:59455 [200]: POST /receiver.php
+[Sat Nov  8 12:02:05 2025] [::1]:59455 Closing
+[Sat Nov  8 12:02:07 2025] [::1]:59456 Accepted
+[Sat Nov  8 12:02:07 2025] [::1]:59456 [200]: POST /receiver.php
+[Sat Nov  8 12:02:07 2025] [::1]:59456 Closing
+[Sat Nov  8 12:02:09 2025] [::1]:59457 Accepted
+[Sat Nov  8 12:02:09 2025] [::1]:59457 [200]: POST /receiver.php
+[Sat Nov  8 12:02:09 2025] [::1]:59457 Closing
+[Sat Nov  8 12:02:11 2025] [::1]:59458 Accepted
+[Sat Nov  8 12:02:11 2025] [::1]:59458 [200]: POST /receiver.php
+[Sat Nov  8 12:02:11 2025] [::1]:59458 Closing
+[Sat Nov  8 12:02:13 2025] [::1]:59460 Accepted
+[Sat Nov  8 12:02:13 2025] [::1]:59460 [200]: POST /receiver.php
+[Sat Nov  8 12:02:13 2025] [::1]:59460 Closing
+[Sat Nov  8 12:02:15 2025] [::1]:59461 Accepted
+[Sat Nov  8 12:02:15 2025] [::1]:59461 [200]: POST /receiver.php
+[Sat Nov  8 12:02:15 2025] [::1]:59461 Closing
+[Sat Nov  8 12:02:17 2025] [::1]:59462 Accepted
+[Sat Nov  8 12:02:17 2025] [::1]:59462 [200]: POST /receiver.php
+[Sat Nov  8 12:02:17 2025] [::1]:59462 Closing
+[Sat Nov  8 12:02:19 2025] [::1]:59463 Accepted
+[Sat Nov  8 12:02:19 2025] [::1]:59463 [200]: POST /receiver.php
+[Sat Nov  8 12:02:19 2025] [::1]:59463 Closing
+[Sat Nov  8 12:02:21 2025] [::1]:59464 Accepted
+[Sat Nov  8 12:02:21 2025] [::1]:59464 [200]: POST /receiver.php
+[Sat Nov  8 12:02:21 2025] [::1]:59464 Closing
+[Sat Nov  8 12:02:23 2025] [::1]:59466 Accepted
+[Sat Nov  8 12:02:23 2025] [::1]:59466 [200]: POST /receiver.php
+[Sat Nov  8 12:02:23 2025] [::1]:59466 Closing
+[Sat Nov  8 12:02:25 2025] [::1]:59467 Accepted
+[Sat Nov  8 12:02:25 2025] [::1]:59467 [200]: POST /receiver.php
+[Sat Nov  8 12:02:25 2025] [::1]:59467 Closing
+[Sat Nov  8 12:02:27 2025] [::1]:59468 Accepted
+[Sat Nov  8 12:02:27 2025] [::1]:59468 [200]: POST /receiver.php
+[Sat Nov  8 12:02:27 2025] [::1]:59468 Closing
+[Sat Nov  8 12:02:29 2025] [::1]:59469 Accepted
+[Sat Nov  8 12:02:29 2025] [::1]:59469 [200]: POST /receiver.php
+[Sat Nov  8 12:02:29 2025] [::1]:59469 Closing
+[Sat Nov  8 12:02:31 2025] [::1]:59470 Accepted
+[Sat Nov  8 12:02:31 2025] [::1]:59470 [200]: POST /receiver.php
+[Sat Nov  8 12:02:31 2025] [::1]:59470 Closing
+[Sat Nov  8 12:02:33 2025] [::1]:59472 Accepted
+[Sat Nov  8 12:02:33 2025] [::1]:59472 [200]: POST /receiver.php
+[Sat Nov  8 12:02:33 2025] [::1]:59472 Closing
+[Sat Nov  8 12:02:35 2025] [::1]:59473 Accepted
+[Sat Nov  8 12:02:35 2025] [::1]:59473 [200]: POST /receiver.php
+[Sat Nov  8 12:02:35 2025] [::1]:59473 Closing
+[Sat Nov  8 12:02:37 2025] [::1]:59474 Accepted
+[Sat Nov  8 12:02:37 2025] [::1]:59474 [200]: POST /receiver.php
+[Sat Nov  8 12:02:37 2025] [::1]:59474 Closing
+[Sat Nov  8 12:02:39 2025] [::1]:59475 Accepted
+[Sat Nov  8 12:02:39 2025] [::1]:59475 [200]: POST /receiver.php
+[Sat Nov  8 12:02:39 2025] [::1]:59475 Closing
+[Sat Nov  8 12:02:41 2025] [::1]:59476 Accepted
+[Sat Nov  8 12:02:41 2025] [::1]:59476 [200]: POST /receiver.php
+[Sat Nov  8 12:02:41 2025] [::1]:59476 Closing
+[Sat Nov  8 12:02:43 2025] [::1]:59478 Accepted
+[Sat Nov  8 12:02:43 2025] [::1]:59478 [200]: POST /receiver.php
+[Sat Nov  8 12:02:43 2025] [::1]:59478 Closing
+[Sat Nov  8 12:02:45 2025] [::1]:59479 Accepted
+[Sat Nov  8 12:02:45 2025] [::1]:59479 [200]: POST /receiver.php
+[Sat Nov  8 12:02:45 2025] [::1]:59479 Closing
+[Sat Nov  8 12:02:47 2025] [::1]:59480 Accepted
+[Sat Nov  8 12:02:47 2025] [::1]:59480 [200]: POST /receiver.php
+[Sat Nov  8 12:02:47 2025] [::1]:59480 Closing
+[Sat Nov  8 12:02:49 2025] [::1]:59482 Accepted
+[Sat Nov  8 12:02:49 2025] [::1]:59482 [200]: POST /receiver.php
+[Sat Nov  8 12:02:49 2025] [::1]:59482 Closing
+[Sat Nov  8 12:02:51 2025] [::1]:59483 Accepted
+[Sat Nov  8 12:02:51 2025] [::1]:59483 [200]: POST /receiver.php
+[Sat Nov  8 12:02:51 2025] [::1]:59483 Closing
+[Sat Nov  8 12:02:53 2025] [::1]:59485 Accepted
+[Sat Nov  8 12:02:53 2025] [::1]:59485 [200]: POST /receiver.php
+[Sat Nov  8 12:02:53 2025] [::1]:59485 Closing
+[Sat Nov  8 12:02:55 2025] [::1]:59486 Accepted
+[Sat Nov  8 12:02:55 2025] [::1]:59486 [200]: POST /receiver.php
+[Sat Nov  8 12:02:55 2025] [::1]:59486 Closing
+[Sat Nov  8 12:02:57 2025] [::1]:59487 Accepted
+[Sat Nov  8 12:02:57 2025] [::1]:59487 [200]: POST /receiver.php
+[Sat Nov  8 12:02:57 2025] [::1]:59487 Closing
+[Sat Nov  8 12:02:59 2025] [::1]:59488 Accepted
+[Sat Nov  8 12:02:59 2025] [::1]:59488 [200]: POST /receiver.php
+[Sat Nov  8 12:02:59 2025] [::1]:59488 Closing
+[Sat Nov  8 12:03:01 2025] [::1]:59492 Accepted
+[Sat Nov  8 12:03:01 2025] [::1]:59492 [200]: POST /receiver.php
+[Sat Nov  8 12:03:01 2025] [::1]:59492 Closing
+[Sat Nov  8 12:03:03 2025] [::1]:59494 Accepted
+[Sat Nov  8 12:03:03 2025] [::1]:59494 [200]: POST /receiver.php
+[Sat Nov  8 12:03:03 2025] [::1]:59494 Closing
+[Sat Nov  8 12:03:05 2025] [::1]:59495 Accepted
+[Sat Nov  8 12:03:05 2025] [::1]:59495 [200]: POST /receiver.php
+[Sat Nov  8 12:03:05 2025] [::1]:59495 Closing
+[Sat Nov  8 12:03:07 2025] [::1]:59496 Accepted
+[Sat Nov  8 12:03:07 2025] [::1]:59496 [200]: POST /receiver.php
+[Sat Nov  8 12:03:07 2025] [::1]:59496 Closing
+[Sat Nov  8 12:03:09 2025] [::1]:59498 Accepted
+[Sat Nov  8 12:03:09 2025] [::1]:59498 [200]: POST /receiver.php
+[Sat Nov  8 12:03:09 2025] [::1]:59498 Closing
+[Sat Nov  8 12:03:11 2025] [::1]:59501 Accepted
+[Sat Nov  8 12:03:11 2025] [::1]:59501 [200]: POST /receiver.php
+[Sat Nov  8 12:03:11 2025] [::1]:59501 Closing
+[Sat Nov  8 12:03:13 2025] [::1]:59503 Accepted
+[Sat Nov  8 12:03:13 2025] [::1]:59503 [200]: POST /receiver.php
+[Sat Nov  8 12:03:13 2025] [::1]:59503 Closing
+[Sat Nov  8 12:03:15 2025] [::1]:59504 Accepted
+[Sat Nov  8 12:03:15 2025] [::1]:59504 [200]: POST /receiver.php
+[Sat Nov  8 12:03:15 2025] [::1]:59504 Closing
+[Sat Nov  8 12:03:17 2025] [::1]:59505 Accepted
+[Sat Nov  8 12:03:17 2025] [::1]:59505 [200]: POST /receiver.php
+[Sat Nov  8 12:03:17 2025] [::1]:59505 Closing
+[Sat Nov  8 12:03:19 2025] [::1]:59506 Accepted
+[Sat Nov  8 12:03:19 2025] [::1]:59506 [200]: POST /receiver.php
+[Sat Nov  8 12:03:19 2025] [::1]:59506 Closing
+[Sat Nov  8 12:03:21 2025] [::1]:59507 Accepted
+[Sat Nov  8 12:03:21 2025] [::1]:59507 [200]: POST /receiver.php
+[Sat Nov  8 12:03:21 2025] [::1]:59507 Closing
+[Sat Nov  8 12:03:23 2025] [::1]:59509 Accepted
+[Sat Nov  8 12:03:23 2025] [::1]:59509 [200]: POST /receiver.php
+[Sat Nov  8 12:03:23 2025] [::1]:59509 Closing
+[Sat Nov  8 12:03:25 2025] [::1]:59510 Accepted
+[Sat Nov  8 12:03:25 2025] [::1]:59510 [200]: POST /receiver.php
+[Sat Nov  8 12:03:25 2025] [::1]:59510 Closing
+[Sat Nov  8 12:03:27 2025] [::1]:59512 Accepted
+[Sat Nov  8 12:03:27 2025] [::1]:59512 [200]: POST /receiver.php
+[Sat Nov  8 12:03:27 2025] [::1]:59512 Closing
+[Sat Nov  8 12:03:29 2025] [::1]:59513 Accepted
+[Sat Nov  8 12:03:29 2025] [::1]:59513 [200]: POST /receiver.php
+[Sat Nov  8 12:03:29 2025] [::1]:59513 Closing
+[Sat Nov  8 12:03:31 2025] [::1]:59515 Accepted
+[Sat Nov  8 12:03:31 2025] [::1]:59515 [200]: POST /receiver.php
+[Sat Nov  8 12:03:31 2025] [::1]:59515 Closing
+[Sat Nov  8 12:03:33 2025] [::1]:59517 Accepted
+[Sat Nov  8 12:03:33 2025] [::1]:59517 [200]: POST /receiver.php
+[Sat Nov  8 12:03:33 2025] [::1]:59517 Closing
+[Sat Nov  8 12:03:35 2025] [::1]:59521 Accepted
+[Sat Nov  8 12:03:35 2025] [::1]:59521 [200]: POST /receiver.php
+[Sat Nov  8 12:03:35 2025] [::1]:59521 Closing
+[Sat Nov  8 12:03:37 2025] [::1]:59522 Accepted
+[Sat Nov  8 12:03:37 2025] [::1]:59522 [200]: POST /receiver.php
+[Sat Nov  8 12:03:37 2025] [::1]:59522 Closing
+[Sat Nov  8 12:03:39 2025] [::1]:59525 Accepted
+[Sat Nov  8 12:03:39 2025] [::1]:59525 [200]: POST /receiver.php
+[Sat Nov  8 12:03:39 2025] [::1]:59525 Closing
+[Sat Nov  8 12:03:41 2025] [::1]:59526 Accepted
+[Sat Nov  8 12:03:41 2025] [::1]:59526 [200]: POST /receiver.php
+[Sat Nov  8 12:03:41 2025] [::1]:59526 Closing
+[Sat Nov  8 12:03:43 2025] [::1]:59528 Accepted
+[Sat Nov  8 12:03:43 2025] [::1]:59528 [200]: POST /receiver.php
+[Sat Nov  8 12:03:43 2025] [::1]:59528 Closing
+[Sat Nov  8 12:03:45 2025] [::1]:59530 Accepted
+[Sat Nov  8 12:03:45 2025] [::1]:59530 [200]: POST /receiver.php
+[Sat Nov  8 12:03:45 2025] [::1]:59530 Closing
+[Sat Nov  8 12:03:47 2025] [::1]:59531 Accepted
+[Sat Nov  8 12:03:47 2025] [::1]:59531 [200]: POST /receiver.php
+[Sat Nov  8 12:03:47 2025] [::1]:59531 Closing
+[Sat Nov  8 12:03:49 2025] [::1]:59533 Accepted
+[Sat Nov  8 12:03:49 2025] [::1]:59533 [200]: POST /receiver.php
+[Sat Nov  8 12:03:49 2025] [::1]:59533 Closing
+[Sat Nov  8 12:03:51 2025] [::1]:59534 Accepted
+[Sat Nov  8 12:03:51 2025] [::1]:59534 [200]: POST /receiver.php
+[Sat Nov  8 12:03:51 2025] [::1]:59534 Closing
+[Sat Nov  8 12:03:53 2025] [::1]:59535 Accepted
+[Sat Nov  8 12:03:53 2025] [::1]:59535 [200]: POST /receiver.php
+[Sat Nov  8 12:03:53 2025] [::1]:59535 Closing
+[Sat Nov  8 12:03:55 2025] [::1]:59536 Accepted
+[Sat Nov  8 12:03:55 2025] [::1]:59536 [200]: POST /receiver.php
+[Sat Nov  8 12:03:55 2025] [::1]:59536 Closing
+[Sat Nov  8 12:03:57 2025] [::1]:59537 Accepted
+[Sat Nov  8 12:03:57 2025] [::1]:59537 [200]: POST /receiver.php
+[Sat Nov  8 12:03:57 2025] [::1]:59537 Closing
+[Sat Nov  8 12:03:59 2025] [::1]:59539 Accepted
+[Sat Nov  8 12:03:59 2025] [::1]:59539 [200]: POST /receiver.php
+[Sat Nov  8 12:03:59 2025] [::1]:59539 Closing
+[Sat Nov  8 12:04:51 2025] [::1]:59546 Accepted
+[Sat Nov  8 12:04:51 2025] [::1]:59546 [200]: POST /receiver.php
+[Sat Nov  8 12:04:51 2025] [::1]:59546 Closing
+[Sat Nov  8 12:05:51 2025] [::1]:59554 Accepted
+[Sat Nov  8 12:05:51 2025] [::1]:59554 [200]: POST /receiver.php
+[Sat Nov  8 12:05:51 2025] [::1]:59554 Closing
