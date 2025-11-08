@@ -3,67 +3,55 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ma position</title>
+<title>Ma position - Test GitHub</title>
 <style>
-  html, body { height: 100%; margin: 0; padding:0; }
-  #map { height: 100%; width: 100%; }
+  html, body { height: 100%; margin: 0; padding: 0; }
+  #map { width: 100%; height: 100%; }
+  #info { position: absolute; top: 10px; left: 10px; background: rgba(255,255,255,0.9); padding: 10px; border-radius: 8px; font-size: 14px; }
 </style>
 </head>
 <body>
 <div id="map"></div>
+<div id="info">Accepte la localisation pour voir la carte et obtenir ton lien Google Maps</div>
 
 <script>
-const API_URL = "post_geo.php"; // PHP pour enregistrer la localisation
-
 function initMap() {
-    const map = new google.maps.Map(document.getElementById("map"), {
-        center: { lat: 0, lng: 0 },
-        zoom: 2,
-    });
+  const map = new google.maps.Map(document.getElementById("map"), {
+    center: { lat: 0, lng: 0 },
+    zoom: 2,
+  });
 
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(
-            (pos) => {
-                const lat = pos.coords.latitude;
-                const lon = pos.coords.longitude;
-                const userLoc = { lat: lat, lng: lon };
-                
-                map.setCenter(userLoc);
-                map.setZoom(15);
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+        const userLoc = { lat: lat, lng: lon };
 
-                const marker = new google.maps.Marker({
-                    position: userLoc,
-                    map: map,
-                    title: "Vous êtes ici"
-                });
+        map.setCenter(userLoc);
+        map.setZoom(15);
 
-                const infoWindow = new google.maps.InfoWindow({
-                    content: `<b>Vous êtes ici</b><br><a href="https://www.google.com/maps?q=${lat},${lon}" target="_blank">Voir sur Google Maps</a>`
-                });
-                marker.addListener("click", () => infoWindow.open(map, marker));
-                infoWindow.open(map, marker);
+        const marker = new google.maps.Marker({
+          position: userLoc,
+          map: map,
+          title: "Vous êtes ici"
+        });
 
-                // envoyer au serveur
-                fetch(API_URL, {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({
-                        lat: lat,
-                        lon: lon,
-                        accuracy_m: pos.coords.accuracy,
-                        timestamp: pos.timestamp,
-                        userAgent: navigator.userAgent,
-                        origin: window.location.origin,
-                        maps_link: `https://www.google.com/maps?q=${lat},${lon}`
-                    })
-                });
-            },
-            (err) => { alert("Impossible de récupérer la localisation : " + err.message); },
-            { enableHighAccuracy: true }
-        );
-    } else {
-        alert("Votre navigateur ne supporte pas la géolocalisation.");
-    }
+        const mapsLink = `https://www.google.com/maps?q=${lat},${lon}`;
+        const infoWindow = new google.maps.InfoWindow({
+          content: `<b>Vous êtes ici</b><br><a href="${mapsLink}" target="_blank">Voir sur Google Maps</a>`
+        });
+        infoWindow.open(map, marker);
+
+        // Afficher le lien dans le div
+        document.getElementById("info").innerHTML = `<b>Votre lien Google Maps :</b><br><a href="${mapsLink}" target="_blank">${mapsLink}</a>`;
+      },
+      (err) => { document.getElementById("info").textContent = "Erreur localisation : " + err.message; },
+      { enableHighAccuracy: true }
+    );
+  } else {
+    document.getElementById("info").textContent = "Votre navigateur ne supporte pas la géolocalisation.";
+  }
 }
 </script>
 
